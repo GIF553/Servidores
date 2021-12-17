@@ -1,10 +1,4 @@
-echo "# matrix-s" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/DwightFarrokh/matrix-s.git
-git push -u origin main<item>
+<item>
         <title>WandaVision (2021)</title>
         <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cm5xwxoWl2ZWuCKzwa0umHHsbmI.jpg</thumbnail>
         <fanart>https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/57vVjteucIF3bGnZj6PmaoJRScw.jpg</fanart>
