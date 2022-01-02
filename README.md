@@ -17,14 +17,9 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IJGCUA54SUO3XNUP3MR4DZYNX6PZWOYU&dn=VACATORRENT.COM.-DUBLADO-DUAL-AUDIO-.Gavi%C3%A3o%20Arqueiro%20S01E05%201080p%20WEB-DL%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce$nome= EPISODIO 04</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IJGCUA54SUO3XNUP3MR4DZYNX6PZWOYU&dn=VACATORRENT.COM.-DUBLADO-DUAL-AUDIO-.Gavi%C3%A3o%20Arqueiro%20S01E05%201080p%20WEB-DL%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce$nome= EPISODIO 05</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BJS6S2B5JJKGNLCQNEO54R6DSB72OBIN&dn=VACATORRENT.COM.-DUBLADO-DUAL-AUDIO-.Gavi%C3%A3o%20Arqueiro%20S01E06%20WEB-DL%201080p%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce$nome= EPISODIO 06</link>
-<link>LINK EP SERIE$nome= EPISODIO 06</link>
-<link>LINK EP SERIE$nome= EPISODIO 07</link>
-<link>LINK EP SERIE$nome= EPISODIO 08</link>
-<link>LINK EP SERIE$nome= EPISODIO 09</link>
-<link>LINK EP SERIE$nome= EPISODIO 10</link>
-<thumbnail>THUMBNAIL DO SERIE</thumbnail>
-<fanart>FANART DO SERIE</fanart>
-<info>TEXTO DE SINOPSE.</info>
-<genre>GENERO</genre>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/62qfVDg4VK3kqZFxrRztPqSbal4.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/1R68vl3d5s86JsS2NPjl8UoMqIS.jpg</fanart>
+<info>O ex-vingador Clint Barton tem uma missão aparentemente simples: voltar para sua família no Natal. Será possível? Talvez com a ajuda de Kate Bishop, uma arqueira de 22 anos que sonha em se tornar uma super-heroína. Os dois são forçados a trabalhar juntos quando uma presença do passado de Barton ameaça descarrilar muito mais do que o espírito festivo.</info>
+<genre> Action & Adventure, Drama </genre>
 <year>2021</year>
 </item>
