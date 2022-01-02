@@ -11,6 +11,18 @@
 <year>2021</year>
 </item>
 
+<item>
+<title>[B]Comemoração de 20 anos de Harry Potter: De Volta a Hogwarts - LEGENDADO (2022)[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e56230c9081f6a28d624ac27ce82b234333e46f5&dn=VACATORRENT.COM..WEB-DL.MKV.-LEGENDADO-..Harry.Potter.20th.Anniversary.Return.to.Hogwarts.2022.720p.WEB.H264-BIGDOC&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2900&tr=udp%3A%2F%2F9.rarbg.to%3A2770&tr=udp%3A%2F%2Ftracker.fatkhoala.org%3A13720&tr=udp%3A%2F%2Ftracker.thinelephant.org%3A12710$nome= Legendado 720p</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ed391ff07b3a9f1be5e3a882efc6beca916a2912&dn=VACATORRENT.COM..WEB-DL.MKV.-LEGENDADO-..Harry.Potter.20th.Anniversary.Return.to.Hogwarts.2022.1080p.WEB.H264-BIGDOC&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2890&tr=udp%3A%2F%2F9.rarbg.to%3A2770&tr=udp%3A%2F%2Ftracker.fatkhoala.org%3A13750&tr=udp%3A%2F%2Ftracker.thinelephant.org%3A12760$nome= Legendado 1080p</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bhY813zHKJStgUwl9kfBA3WDDPS.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/8rft8A9nH43IReybFtYt21ezfMK.jpg</fanart>
+<info>Uma encantadora história de making-of contada por meio de novas entrevistas em profundidade e conversas com o elenco, convidando os fãs a uma jornada mágica em primeira pessoa através de uma das franquias de filmes mais amadas de todos os tempos.</info>
+<genre>Documentário</genre>
+<year>2022</year>
+</item>
+
+
 
 <item>
 <title>[B]Gavião Arqueiro - 1ª Temporada (2021)[/B]</title>
