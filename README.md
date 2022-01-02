@@ -10,9 +10,9 @@
 <link>LINK EP SERIE$nome= EPISODIO 08</link>
 <link>LINK EP SERIE$nome= EPISODIO 09</link>
 <link>LINK EP SERIE$nome= EPISODIO 10</link>
-<thumbnail>THUMBNAIL DO SERIE</thumbnail>
-<fanart>FANART DO SERIE</fanart>
-<info>TEXTO DE SINOPSE.</info>
-<genre>GENERO</genre>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/93yokFX7LQQDN4IwhtZqByvtzGx.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/6W8zEF5jE9ErdhzatZBVI7fkpsP.jpg</fanart>
+<info>Este evento especial de quatro partes revelará fãs do mundo bruxo que estão dispostos a colocar seus conhecimentos sobre Harry Potter à prova para receber a grande honra de ser nomeado campeão da Taça das Casas.</info>
+<genre> Reality, Família </genre>
 <year>2021</year>
 </item>
