@@ -40,8 +40,8 @@
 
 <item>
 <title>[B]Patrulha Canina em Português Brasil Desenhos - Sky Chase Everest Salvam o Ryder l Nick Jr HD[/B]</title>
-<utube>PLeG1uIOGKw23v4Sd19fW-hcaQTx6jR28r</utube>
- <utube>-O7ZU-FquzE&t=73s</utube>
+<utube>qyfB0yIlCWE$ VIDEO 1</utube>
+<utube>qyfB0yIlCWE$ VIDEO 2</utube>
 <thumbnail>https://http2.mlstatic.com/D_NQ_NP_810353-MLB44530626117_012021-O.webp</thumbnail>
 <fanart>https://uploads.metropoles.com/wp-content/uploads/2021/09/21161952/Patrulha_Canina_Dia_das_Criancas-600x400.jpg</fanart>
 <info>Com grandes habilidades em solucionar problemas, veículos descolados e muito humor, a Patrulha Canina, um grupo de filhotes heroicos e seu líder, um menino chamado Ryder, protegem a comunidade de Adventure Bay.</info>
