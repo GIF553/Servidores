@@ -25,7 +25,7 @@
 </item>
 
 <item>
-<title>Patrulha Canina em Português Brasil Desenhos - Sky Chase Everest Salvam o Ryder l Nick Jr HD</title>
+<title>[B]Patrulha Canina em Português Brasil Desenhos - Sky Chase Everest Salvam o Ryder l Nick Jr HD[/B]</title>
 <utube>-O7ZU-FquzE</utube>
 <thumbnail>https://http2.mlstatic.com/D_NQ_NP_810353-MLB44530626117_012021-O.webp</thumbnail>
 <fanart>https://uploads.metropoles.com/wp-content/uploads/2021/09/21161952/Patrulha_Canina_Dia_das_Criancas-600x400.jpg</fanart>
