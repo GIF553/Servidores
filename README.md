@@ -51,3 +51,14 @@
 <genre> Drama, Mistério, Crime</genre>
 <year>2021</year>
 </item>
+
+<item>
+<title>[B]Harry Potter - Coleção Completa (2001-2011)[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:28EB43F88E9123B32058905B3DD1B94FB44BAB21</link>
+<thumbnail>https://image.tmdb.org/t/p/w300/2CTBoD2ToqlyH375VfMSBIyQGhR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/t3LicFpYHeYpwqm7L5wDpd22hL5.jpg</fanart>
+<info>Sinopse:Harry Potter é uma série de sete romances de fantasia escrita pela autora britânica J. K. Rowling. A série narra as aventuras de um jovem chamado Harry James Potter, que descobre aos 11 anos de idade que é um bruxo ao ser convidado para estudar na Escola de Magia e Bruxaria de Hogwarts.</info>
+<genre>Aventura, Fantasia</genre>
+<year>2021</year>
+</item>
+
