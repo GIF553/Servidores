@@ -114,4 +114,19 @@ Todos os participantes começam sozinhos o seu percurso. Aos poucos vão se enco
 <year>2016</year>
 </item>
 
+<item>
+<title>[B]O Mentalista (2008)[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c5de588c6fa5d832610af50125e31bfcc32a5c66$nome= O Mentalista 1ª Temporada</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f4f177fe3235a0a9e8d5e9b8fb611f5a308f4579$nome= O Mentalista 2ª Temporada</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:852032e3abe7b8eabeade6a258095e023f866b7c$nome= O Mentalista 3ª Temporada</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5a798c3f74b300388e78caba0c5a4ef6931f1996$nome= O Mentalista 4ª Temporada</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:233e91c84b56c86dd54101e018ec173877cda2f0$nome= O Mentalista 5ª Temporada</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:de173deeab3747c1370a912f3268441ae485154b$nome= O Mentalista 6ª Temporada</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:38757a836b2dff543392706c7b65ff87638ff7eb$nome= O Mentalista 7ª Temporada</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d1ZcT5tHzUeQ7zgYecOVoWxH9FL.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg</fanart>
+<info>Patrick Jane é famoso por sua habilidade de alta percepção de tudo que está ao seu redor. Ele já quase foi uma celebridade, alegando ser médium vidente, mas agora admite que fingia ter poderes paranormais. Com sua grande habilidade de observação, Patrick trabalha como consultor independente para as autoridades da Califórnia, resolvendo um número considerável de crimes complicados.</info>
+<genre>Drama, Crime, Suspense</genre>
+<year>2008</year>
+</item>
 
