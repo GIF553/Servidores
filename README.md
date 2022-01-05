@@ -74,3 +74,18 @@ Todos os participantes começam sozinhos o seu percurso. Aos poucos vão se enco
 <year>2015/year>
 </item>
 
+
+<item>
+<title>[B]A Lótus Branca (2021)[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IJA33ADTGLAKD5EXLKFYNNCRJR2TW6GI$nome= EPISODIO 01</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QDYC65WTYMN3E6G6NVFTOW7K5UATFN6M$nome= EPISODIO 02</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KWPHQ4EB2GOFOO2TZPT3CFHA5OMPSG6W$nome= EPISODIO 03</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NXZ2YXJXZMAMJWJYSK2733TF563XF2VL$nome= EPISODIO 04</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ODKMCST6ITT3ONAFVF2E3MGE5V7MEJH$nome= EPISODIO 05</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:52e0733d56803e550c791531a01a31548209f2f1$nome= EPISODIO 06</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4gBYNDdczkFOqjR4dgYamqbp6cS.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/gGs308fHMGRX8kIYtMEEpyhIrAK.jpg/fanart>
+<info>Sinopse:Uma semana de férias dos hóspedes do resort The White Lotus. Ainda que o lugar seja paradisíaco, em cada dia da viagem surge uma questão que envolve os viajantes, os empregados do hotel e até o próprio destino idílico</info>
+<genre>Comédia, Drama, Mistério</genre>
+<year>2021</year>
+</item>
