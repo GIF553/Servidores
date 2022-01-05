@@ -39,10 +39,15 @@
 </item>
 
 <item>
-<title>[B]Patrulha Canina em Português Brasil Desenhos - Sky Chase Everest Salvam o Ryder l Nick Jr HD[/B]</title>
-<utube>qyfB0yIlCWE</utube>
-<utube>CRlb_AITtrU</utube>
-<thumbnail>https://http2.mlstatic.com/D_NQ_NP_810353-MLB44530626117_012021-O.webp</thumbnail>
-<fanart>https://uploads.metropoles.com/wp-content/uploads/2021/09/21161952/Patrulha_Canina_Dia_das_Criancas-600x400.jpg</fanart>
-<info>Com grandes habilidades em solucionar problemas, veículos descolados e muito humor, a Patrulha Canina, um grupo de filhotes heroicos e seu líder, um menino chamado Ryder, protegem a comunidade de Adventure Bay.</info>
+<title>[B]Mare of Easttown (2021)[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b9c387ba25c1d0072be551f0c2b0c14343626538$nome= EPISODIO 01</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b1fd0158ca5f6c2617a29a6143695af0109c2d53$nome= EPISODIO 02</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:311a2396148ef56e35a23db93b2a60d86d046101$nome= EPISODIO 03</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7241beb5ebf22aefbe5fea95aa032135b617a1e8$nome= EPISODIO 04</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d4176f84b617ee400e118c844602f8e3a0686486$nome= EPISODIO 05</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/78aK4Msbr22A5PGa6PZV0pAvdwf.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/whWHhs6p1YVMKDsH9yuvF2KR64d.jpg</fanart>
+<info>Mare Sheehan é uma detetive de uma pequena cidade na Pensilvânia que deve investigar um violento assassinato local. Conforme o lado sombrio da pequena comunidade vem à luz, a vida de Mare desmorona e relacionamentos familiares e tragédias do passado ressurgem para definir o presente.</info>
+<genre> Drama, Mistério, Crime</genre>
+<year>2021</year>
 </item>
