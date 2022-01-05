@@ -102,3 +102,16 @@ Todos os participantes começam sozinhos o seu percurso. Aos poucos vão se enco
 <year>2017</year>
 </item>
 
+<item>
+<title>[B]Stranger Things (2016)[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1616d23834d983452956046fae9340eb9471a30d$nome= Stranger Things 1ª Temporada</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b30baea8b8fe90449fad81053ff9a6d21c58d73$nome= Stranger Things 2ª Temporada</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9fbc8927bb61c313686d89038d31949324e536cf$nome= Stranger Things 3ª Temporada</link>
+<thumbnail>https://i.pinimg.com/564x/00/ea/7c/00ea7c88e9e80f8bea6d13f3f7f0a810.jpg</thumbnail>
+<fanart>https://wallpaperaccess.com/full/1225007.jpg</fanart>
+<info>Sinopse: Quando um garoto desaparece, a cidade toda participa nas buscas. Mas o que encontram são segredos, forças sobrenaturais e uma menina.</info>
+<genre>Suspense, Ficção Científica, Fantasia, Drama</genre>
+<year>2016</year>
+</item>
+
+
