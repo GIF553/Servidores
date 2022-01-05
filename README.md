@@ -175,3 +175,31 @@ Todos os participantes começam sozinhos o seu percurso. Aos poucos vão se enco
 </item>
 
 
+<item>
+<title>[B]O Mandaloriano (2019)[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:676c40c2c329eac808f2d8e91141aa198f6ab27a$nome= T01 Ep. 01</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9db0d61145bf062c71ce731a5df060b58b82c36e$nome= T01 Ep. 02</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:47f041bf00e7cd74693143258df967a553661911$nome= T01 Ep. 03</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:66f4b98d2f053d249d0b2424b73f23b29377f2d0$nome= T01 Ep. 04</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ba2e14f8c958f22ccdc54653c9142f91883d7c3a$nome= T01 Ep. 05</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ee343e93c6125b0202e2fe456747495a7e6a635$nome= T01 Ep. 06</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a83aae53a8f194bd5369355a6ea4e49fda16e39b$nome= T01 Ep. 07</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0ce752babfff0fc4ea507d2d86c3041922577a0c$nome= T01 Ep. 08</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5aa2f69d6445e8879a67eabe68a3891b45e09dac$nome= T02 Ep. 01</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e4d233a9a8672827fc3a17e9517705ccb46d4a4e$nome= T02 Ep. 02</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59f6c200754756a1c637af43f00cfde1e69c0edb$nome= T02 Ep. 03</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a23ff7c7ab6a6746e6d67946ee55e6e2831f9566$nome= T02 Ep. 04</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ec2c5dcb0e1cd92ed801116a2857fe7b32f9ccb0$nome= T02 Ep. 05</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dcbdf1b5b4879a6c37db255c75fef9d8bc709c30$nome= T02 Ep. 06</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1109c57305e8fbf7e464859ab64d10801f7f2671$nome= T02 Ep. 07</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1b6eab42cab674c03c9786435b3215912808a9d8$nome= T02 Ep. 08</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f78cb95c79c48ea1519566624fa248b807c26edc$nome= T02 Ep. 09</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:232a79984683c715b4179873f8778dcf3ffb175b$nome= T02 Ep. 10</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8ff838357aa6ead92f3ac279cad51b2b36212848$nome= T02 Ep. 11</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e8ad00568e63b6e6c784b4efd112b4fe1988db9c$nome= T02 Ep. 12/link>
+<thumbnail>https://sm.ign.com/t/ign_br/screenshot/default/the-mandalorian-poster-pascal-1193420_869m.620.jpg</thumbnail>
+<fanart>https://images6.alphacoders.com/103/thumb-1920-1038319.jpg</fanart>
+<info>Sinopse: A saga de um guerreiro solitário, que também é um mercenário e pistoleiro, viajando pelos territórios esquecidos e marginais do espaço, logo após a queda do Império e antes da criação da temida Primeira Ordem.</info>
+<genre>Ficção Científica, Fantasia, Ação, Aventura</genre>
+<year>2019</year>
+</item>
