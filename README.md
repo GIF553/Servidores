@@ -62,3 +62,15 @@
 <year>2021</year>
 </item>
 
+<item>
+<title>[B]Largados e Pelados: A Tribo (2015)[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:89a7e5f360f31d00b8db35e5bad11814cd4227e9</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vlJg6QLXqK1RrucEe72u9mHbuj2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/qkfC7uVEQ5RiPsGmNhFQ0uO1LK1.jpg</fanart>
+<info>Sinopse:Você acha difícil sobreviver durante 21 um dias longe da civilização? Agora imagine viver por 40 dias, em um grupo com 12 pessoas! Bem vindos a Largados e Pelados A Tribo!
+
+Todos os participantes começam sozinhos o seu percurso. Aos poucos vão se encontrar e formar pequenos grupos até em algum momento do jogo se encontrarem e para formar uma tribo. Tantas personalidades diferentes, vaidades… Sim, uma tribo de especialistas em sobrevivência precisando lidar com o próprio ego inflado, bem como o de terceiros e as táticas diferentes de sobrevivência.</info>
+<genre>Aventura, Fantasia</genre>
+<year>2015/year>
+</item>
+
