@@ -91,7 +91,7 @@ Todos os participantes começam sozinhos o seu percurso. Aos poucos vão se enco
 </item>
 
 <item>
-<title>[B]Dark (2017[/B]</title>
+<title>[B]Dark (2017)[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8b9c90c97d4781b07767c331a687196a1cd1a17b$nome= Dark 1ª Temporada</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:12ba417a923d0cc95f70b4f3e1cc17a262bf37f9$nome= Dark 2ª Temporada</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83e05b04a1379dce4e673725cb043293243f1fe8$nome= Dark 3ª Temporada (FINAL)</link>
