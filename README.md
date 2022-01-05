@@ -153,5 +153,25 @@ Todos os participantes começam sozinhos o seu percurso. Aos poucos vão se enco
 <year>2016</year>
 </item>
 
+<item>
+<title>[B]The Big Bang A Teoria (2007)[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d4a849dee5a9448f13bc1834281b83de9f21727$nome= The Big Bang A Teoria 1ª Temporada (2007)</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ee33781f92afd6cf629b23dd2df1a44b7f76da3$nome= The Big Bang A Teoria 2ª Temporada (2008)</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:37fd3bd2c65dc070b4909a92e0d6c719f70a4d9c$nome= The Big Bang A Teoria 3ª Temporada (2009)</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e8ae85e17e531d659aa5149d5965d297f6cc32ad$nome= The Big Bang A Teoria 4ª Temporada (2010)</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ce96517179d5e169281db41351301f7682eeb99$nome= The Big Bang A Teoria 5ª Temporada (2011)</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a3dd8221fde8cdbde63125dddd58c41014d1c2e3$nome= The Big Bang A Teoria 6ª Temporada (2012)</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d00833616285d8723f7accaa16ad48a867fad8f6$nome= The Big Bang A Teoria 7ª Temporada (2013)</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8a4b13a2deb35d9d49e0bf51a4cc9ba1d306debf$nome= The Big Bang A Teoria 8ª Temporada (2014)</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:166a07dd9170e698f556f2d63e035bbae54166ba$nome= The Big Bang A Teoria 9ª Temporada (2015)</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e975e6dea44528402caa376fc13164ed97e16e66$nome= The Big Bang A Teoria 10ª Temporada (2016)</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e8f80aa667a55d01c59022b8f7d15cadcd1c5a53$nome= The Big Bang A Teoria 11ª Temporada (2017)</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8e5d85d4751272d497b0364806005f0df9e9ed8c$nome= The Big Bang A Teoria 12ª Temporada (2017)</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/fa/a/a7/The_Big_Bang_Theory_Season_12.jpg</thumbnail>
+<fanart>https://images6.alphacoders.com/543/thumb-1920-543929.jpg</fanart>
+<info>Sinopse: Leonard e Sheldon são dois jovens cientistas que moram juntos, sabem tudo de física, mas não parecem saber como se relacionar com mulheres. Seus únicos amigos são Howard e Rajesh, mas tudo pode mudar quando conhecem a nova vizinha, a bela Penny, que logo encanta Leonard.</info>
+<genre>Comédia</genre>
+<year>2007</year>
+</item>
 
 
