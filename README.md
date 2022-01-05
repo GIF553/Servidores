@@ -143,4 +143,15 @@ Todos os participantes começam sozinhos o seu percurso. Aos poucos vão se enco
 <year>2005</year>
 </item>
 
+<item>
+<title>[B]Objetos Cortantes (2018)[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2b48250b3c28e4caa0e1ea5b562bd8b77e5e6545</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/1SGovj2qDdkJexvhFiXllj9EYfu.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/qvmfoCbaAWg427WLBfKDgz02fLg.jpg</fanart>
+<info>Sinopse: Camille, uma repórter criminalística recém-saída de um hospital psicológico devido a anos de violência auto-infligida, que retorna à sua cidade natal para investigar os assassinatos de duas meninas pequenas.</info>
+<genre>Drama, Suspense, Crime</genre>
+<year>2016</year>
+</item>
+
+
 
