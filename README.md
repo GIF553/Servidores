@@ -122,11 +122,25 @@ Todos os participantes começam sozinhos o seu percurso. Aos poucos vão se enco
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5a798c3f74b300388e78caba0c5a4ef6931f1996$nome= O Mentalista 4ª Temporada</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:233e91c84b56c86dd54101e018ec173877cda2f0$nome= O Mentalista 5ª Temporada</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:de173deeab3747c1370a912f3268441ae485154b$nome= O Mentalista 6ª Temporada</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:38757a836b2dff543392706c7b65ff87638ff7eb$nome= O Mentalista 7ª Temporada</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:38757a836b2dff543392706c7b65ff87638ff7eb$nome= O Mentalista 7ª Temporada (FINAL)</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d1ZcT5tHzUeQ7zgYecOVoWxH9FL.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/rJFqKcmMSttdNP58l0dVzY2NcTA.jpg</fanart>
 <info>Patrick Jane é famoso por sua habilidade de alta percepção de tudo que está ao seu redor. Ele já quase foi uma celebridade, alegando ser médium vidente, mas agora admite que fingia ter poderes paranormais. Com sua grande habilidade de observação, Patrick trabalha como consultor independente para as autoridades da Califórnia, resolvendo um número considerável de crimes complicados.</info>
 <genre>Drama, Crime, Suspense</genre>
 <year>2008</year>
 </item>
+
+<item>
+<title>[B]Todo Mundo Odeia o Chris (2005)[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:616ab7d3fd8cdb8de345434f130b9ad160eadb32$nome= Todo Mundo Odeia o Chris 1ª Temporada (2005)</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:685ad7b2a72714efa4ed4f852a8105fb42df0aaa$nome= Todo Mundo Odeia o Chris 2ª Temporada (2006)</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b87da3e3d5cf7844842adcc5b0b83f0e3f04a286$nome= Todo Mundo Odeia o Chris 3ª Temporada (2007)</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a59524db4a06b47197dc9c0743f0360d9bc84102$nome= Todo Mundo Odeia o Chris 4ª Temporada (2008)</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/5a1YFOSiimdo1D8VIuwdN5cR9zb.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/tdGCerRHllg/maxresdefault.jpg</fanart>
+<info>Sinopse: Um adolescente negro do Brooklyn durante a década de 80 que frequenta uma escola onde a maioria dos alunos são brancos.</info>
+<genre>Comédia</genre>
+<year>2005</year>
+</item>
+
 
