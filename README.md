@@ -237,29 +237,6 @@ Todos os participantes começam sozinhos o seu percurso. Aos poucos vão se enco
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:239ea8fc5cf1f69a777953d80a86035be83d129d$nome= T03 Ep. 17</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:21ce1c57384240448e267dfc3332477833e6987f$nome= T03 Ep. 18</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c05c66171b9cb6628a61d8fe8cba944c6d3de208$nome= T03 Ep. 19</link>
-<link>plugin://plugin.video.elementum/play?uri=$nome= EPISODIO 01</link>
-<link>plugin://plugin.video.elementum/play?uri=$nome= EPISODIO 01</link>
-<link>plugin://plugin.video.elementum/play?uri=$nome= EPISODIO 01</link>
-<link>plugin://plugin.video.elementum/play?uri=$nome= EPISODIO 01</link>
-<link>plugin://plugin.video.elementum/play?uri=$nome= EPISODIO 01</link>
-<link>plugin://plugin.video.elementum/play?uri=$nome= EPISODIO 01</link>
-<link>plugin://plugin.video.elementum/play?uri=$nome= EPISODIO 01</link>
-<link>plugin://plugin.video.elementum/play?uri=$nome= EPISODIO 01</link>
-<link>plugin://plugin.video.elementum/play?uri=$nome= EPISODIO 01</link>
-<link>plugin://plugin.video.elementum/play?uri=$nome= EPISODIO 01</link>
-<link>plugin://plugin.video.elementum/play?uri=$nome= EPISODIO 01</link>
-<link>plugin://plugin.video.elementum/play?uri=$nome= EPISODIO 01</link>
-<link>plugin://plugin.video.elementum/play?uri=$nome= EPISODIO 01</link>
-<link>plugin://plugin.video.elementum/play?uri=$nome= EPISODIO 01</link>
-<link>plugin://plugin.video.elementum/play?uri=$nome= EPISODIO 01</link>
-<link>plugin://plugin.video.elementum/play?uri=$nome= EPISODIO 01</link>
-<link>plugin://plugin.video.elementum/play?uri=$nome= EPISODIO 01</link>
-<link>plugin://plugin.video.elementum/play?uri=$nome= EPISODIO 01</link>
-<link>plugin://plugin.video.elementum/play?uri=$nome= EPISODIO 01</link>
-<link>plugin://plugin.video.elementum/play?uri=$nome= EPISODIO 01</link>
-<link>plugin://plugin.video.elementum/play?uri=$nome= EPISODIO 01</link>
-<link>plugin://plugin.video.elementum/play?uri=$nome= EPISODIO 01</link>
-<link>plugin://plugin.video.elementum/play?uri=$nome= EPISODIO 01</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nu6RzHO4QahyICKJPkK7xYgUfzM.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/6slPhy6cI8SxH9VgqyAErldJGxx.jpg</fanart>
 <info>Sinopse: A série acompanha o dia-a-dia de um corajoso grupo de médicos e enfermeiros de um hospital de Chicago. Juntos, eles confrontam os casos médicos mais desafiadores de Chicago e enfrentam dilemas éticos com coragem, paixão e cuidado incomparável.</info>
