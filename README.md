@@ -207,15 +207,40 @@ Todos os participantes começam sozinhos o seu percurso. Aos poucos vão se enco
 <item>
 <title>[B]Chicago Med Atendimento de Emergência (2015)[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c39e52d7a8a12aa1266cc8bcc503892e7ba1ab02$nome= 1ª Temporada COMPLETA</link>
-<link>LINK EP SERIE$nome= EPISODIO 02</link>
-<link>LINK EP SERIE$nome= EPISODIO 03</link>
-<link>LINK EP SERIE$nome= EPISODIO 04</link>
-<link>LINK EP SERIE$nome= EPISODIO 05</link>
-<link>LINK EP SERIE$nome= EPISODIO 06</link>
-<link>LINK EP SERIE$nome= EPISODIO 07</link>
-<link>LINK EP SERIE$nome= EPISODIO 08</link>
-<link>LINK EP SERIE$nome= EPISODIO 09</link>
-<link>LINK EP SERIE$nome= EPISODIO 10</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b37565965f317b3124bd27f6130234b37583f6cd$nome= T02 Ep. 01 ao 10</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fe4a23c665d1be212617ff36e449054856646bb0nome= T02 Ep. 11</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d2c3f758095ec9749e40633d8ffbb028f4b9025c$nome= T02 Ep. 12</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2d2121219f81f2ea3d9cbe3c45b49c64ced0c16f$nome= T02 Ep. 13</link>
+<linkplugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:781510d3a5deb30ecf6a74ebfe757ab6ce135bc3$nome= T02 Ep. 14 ao 15</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cee0db70bf89f02460ad86f33d53154edc7a851c$nome= T02 Ep. 16</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:de271253d98d50f230a098f47610486ba805752a$nome= T02 Ep. 17</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10033cf05282a922d9e69f42aae710c81f668c04$nome= T02 Ep. 18</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:188fa4e62a0484b8b7949841a5c3404e0d7dcaf8$nome= T02 Ep. 19/link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f5f7cc4a5fdbb7dff883d28e4a1c4e40fdb77b95$nome= T02 Ep. 20</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1353fc87a3e60df6312096fb473074034eabf505$nome= T02 Ep. 21</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4571144d5b5f9340ba977d2c71bbb36eac044ca7$nome= T02 Ep. 22</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:68f496b30a68adffd2a9600fb16b0868c2434ca4$nome= T03 Ep. 01</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:22d120456f2116bcb5a0220dc5394a23e7fa2030$nome= T03 Ep. 02</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6f73f2df3ed3c6d9176d749ffdf88aab294c7b23$nome= T03 Ep. 03</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0da2568ce645612fff4e08daa581c3d0978c0bab$nome= T03 Ep. 04 ao 05</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a5a172fcce978c6d217acbb0c2006a8139ade562$nome= T03 Ep. 06	</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80f174e25351108a16dc90bc5fbb18f815ff722c$nome= T03 Ep. 07</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:85864ff41f81b6f9619e9ea813079cc7288bc02e$nome= T03 Ep. 08</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:46b8d0c40a3765c6ce9dee2d651fa22fefb7967c$nome= T03 Ep. 09</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:751bedbbc9b3475f7519e3872bf59f16cfdb9a77$nome= T03 Ep. 09 ao 10</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:035a61bc0673db51af89f101ca75163359e6af14$nome= T03 Ep. 11</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7aed7b4225ac471f4c2af67f15fae7441b72e1ed$nome= T03 Ep. 12</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c9477d56bdc6f262dec07201229fe5a95ca9b848$nome= T03 Ep. 13</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ac05245d348e12c12d7afc496d935b8d8e151bd$nome= T03 Ep. 14</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d044f45e32d6c82fc4179d2ea08f4ed506a177d9$nome= T03 Ep. 15</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:66d776b343855fd0d4e38d23d8feda639e3b8f57$nome= T03 Ep. 16</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:239ea8fc5cf1f69a777953d80a86035be83d129d$nome= T03 Ep. 17</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:21ce1c57384240448e267dfc3332477833e6987f$nome= T03 Ep. 18</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c05c66171b9cb6628a61d8fe8cba944c6d3de208$nome= T03 Ep. 19 ao 20</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome= EPISODIO 01</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome= EPISODIO 01</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome= EPISODIO 01</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome= EPISODIO 01</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nu6RzHO4QahyICKJPkK7xYgUfzM.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/6slPhy6cI8SxH9VgqyAErldJGxx.jpg</fanart>
 <info>Sinopse: A série acompanha o dia-a-dia de um corajoso grupo de médicos e enfermeiros de um hospital de Chicago. Juntos, eles confrontam os casos médicos mais desafiadores de Chicago e enfrentam dilemas éticos com coragem, paixão e cuidado incomparável.</info>
