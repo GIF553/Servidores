@@ -223,7 +223,7 @@ Todos os participantes começam sozinhos o seu percurso. Aos poucos vão se enco
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:22d120456f2116bcb5a0220dc5394a23e7fa2030$nome= T03 Ep. 02</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6f73f2df3ed3c6d9176d749ffdf88aab294c7b23$nome= T03 Ep. 03</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0da2568ce645612fff4e08daa581c3d0978c0bab$nome= T03 Ep. 04 ao 05</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a5a172fcce978c6d217acbb0c2006a8139ade562$nome= T03 Ep. 06	</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a5a172fcce978c6d217acbb0c2006a8139ade562$nome= T03 Ep. 06</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80f174e25351108a16dc90bc5fbb18f815ff722c$nome= T03 Ep. 07</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:85864ff41f81b6f9619e9ea813079cc7288bc02e$nome= T03 Ep. 08</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:46b8d0c40a3765c6ce9dee2d651fa22fefb7967c$nome= T03 Ep. 09</link>
@@ -236,7 +236,26 @@ Todos os participantes começam sozinhos o seu percurso. Aos poucos vão se enco
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:66d776b343855fd0d4e38d23d8feda639e3b8f57$nome= T03 Ep. 16</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:239ea8fc5cf1f69a777953d80a86035be83d129d$nome= T03 Ep. 17</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:21ce1c57384240448e267dfc3332477833e6987f$nome= T03 Ep. 18</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c05c66171b9cb6628a61d8fe8cba944c6d3de208$nome= T03 Ep. 19 ao 20</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c05c66171b9cb6628a61d8fe8cba944c6d3de208$nome= T03 Ep. 19</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome= EPISODIO 01</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome= EPISODIO 01</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome= EPISODIO 01</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome= EPISODIO 01</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome= EPISODIO 01</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome= EPISODIO 01</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome= EPISODIO 01</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome= EPISODIO 01</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome= EPISODIO 01</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome= EPISODIO 01</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome= EPISODIO 01</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome= EPISODIO 01</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome= EPISODIO 01</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome= EPISODIO 01</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome= EPISODIO 01</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome= EPISODIO 01</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome= EPISODIO 01</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome= EPISODIO 01</link>
+<link>plugin://plugin.video.elementum/play?uri=$nome= EPISODIO 01</link>
 <link>plugin://plugin.video.elementum/play?uri=$nome= EPISODIO 01</link>
 <link>plugin://plugin.video.elementum/play?uri=$nome= EPISODIO 01</link>
 <link>plugin://plugin.video.elementum/play?uri=$nome= EPISODIO 01</link>
