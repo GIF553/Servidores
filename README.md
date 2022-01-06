@@ -243,3 +243,13 @@ Todos os participantes começam sozinhos o seu percurso. Aos poucos vão se enco
 <genre>Drama</genre>
 <year>2015</year>
 </item>
+
+<item>
+<title>[B]Awkward. (2011)[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80af4beec0d04636945a2d7b6bc694aacadd6f92</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hRCQ0BDFcblyLitmio28pJqBN6s.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/rJ0DvDwZcwUj8757eoiXqufFsrs.jpg</fanart>
+<info>Um olhar irreverente sobre o conflito, o caos e o humor que define a vida adolescente através dos olhos de Jenna Hamilton, de 15 anos, cuja vida começa a mudar quando um simples acidente se torna um equívoco épico e é desproporcionalmente desproporcional. A narração na voz em primeira pessoa dos posts de Jenna capta o humor dentro das lutas e experiências com as quais todos podem se relacionar desde seus anos de formação.</info>
+<genre>Comédia, Drama</genre>
+<year>2011</year>
+</item>
