@@ -203,3 +203,22 @@ Todos os participantes começam sozinhos o seu percurso. Aos poucos vão se enco
 <genre>Ficção Científica, Fantasia, Ação, Aventura</genre>
 <year>2019</year>
 </item>
+
+<item>
+<title>[B]Chicago Med Atendimento de Emergência (2015)[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c39e52d7a8a12aa1266cc8bcc503892e7ba1ab02$nome= 1ª Temporada COMPLETA</link>
+<link>LINK EP SERIE$nome= EPISODIO 02</link>
+<link>LINK EP SERIE$nome= EPISODIO 03</link>
+<link>LINK EP SERIE$nome= EPISODIO 04</link>
+<link>LINK EP SERIE$nome= EPISODIO 05</link>
+<link>LINK EP SERIE$nome= EPISODIO 06</link>
+<link>LINK EP SERIE$nome= EPISODIO 07</link>
+<link>LINK EP SERIE$nome= EPISODIO 08</link>
+<link>LINK EP SERIE$nome= EPISODIO 09</link>
+<link>LINK EP SERIE$nome= EPISODIO 10</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nu6RzHO4QahyICKJPkK7xYgUfzM.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/6slPhy6cI8SxH9VgqyAErldJGxx.jpg</fanart>
+<info>Sinopse: A série acompanha o dia-a-dia de um corajoso grupo de médicos e enfermeiros de um hospital de Chicago. Juntos, eles confrontam os casos médicos mais desafiadores de Chicago e enfrentam dilemas éticos com coragem, paixão e cuidado incomparável.</info>
+<genre>Drama</genre>
+<year>2015</year>
+</item>
