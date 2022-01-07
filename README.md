@@ -306,4 +306,22 @@ Todos os participantes começam sozinhos o seu percurso. Aos poucos vão se enco
 <year>2021</year>
 </item>
 
+<item>
+<title>[B]Game of Thrones (2011)[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3bbce6f92f78dc89bbf23464736e0d1bd889545a$nome= Game of Thrones 1ª Temporada COMPLETA</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:31eeb07a669f9375fca171a3246e23f52accdb32$nome= Game of Thrones 2ª Temporada COMPLETA</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8e6c8e66a91bac41eb0085eb6921d11a543621eb$nome= Game of Thrones 3ª Temporada COMPLETA</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a83651ebe0cf171b00f6d68e94f08c7045968937$nome= Game of Thrones 4ª Temporada COMPLETA</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02f9a39abd8026c82902503a14fcf87d79393827$nome= Game of Thrones 5ª Temporada COMPLETA</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f18a1c26280a23418701d58b270fb6fd0c61e80d$nome= Game of Thrones 6ª Temporada COMPLETA</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4b92beee4fefe05618d5b561f1369327e834d205$nome= Game of Thrones 7ª Temporada COMPLETA</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:882ce98b41667cdd61c718229d79b6a8f208a9ba$nome= Game of Thrones 8ª Temporada COMPLETA</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3pLLMbM33SBGrade4TuahCP1sdJ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/suopoADq0k8YZr4dQXcU6pToj6s.jpg</fanart>
+<info>Em uma terra onde os verões podem durar vários anos e o inverno toda uma vida, sete nobres famílias lutam pelo controle da mítica terra de Westeros, dividida depois de uma guerra. Num cenário que lembra a Europa medieval, reis, rainhas, cavaleiros e renegados usam todos os meios possíveis em um jogo político pela disputa do Trono de Ferro, o símbolo do poder absoluto.</info>
+<genre>Ficção Científica, Fantasia, Drama, Ação, Aventura</genre>
+<year>2011</year>
+</item>
+
+
 
