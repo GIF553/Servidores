@@ -276,3 +276,16 @@ Todos os participantes começam sozinhos o seu percurso. Aos poucos vão se enco
 <year>2007</year>
 </item>
 
+<item>
+<title>[B]As Visões da Raven (2003)[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cb895f063a92e762428bc583d3aabe850dd5d234$nome= As Visões da Raven 1ª Temporada COMPLETA</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f62eb4ca970e89b3c715f898920b135c4d77dff2$nome= As Visões da Raven 2ª Temporada COMPLETA</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d0cac3a35a55f326c6ab4850f306f92aeaaf4bbf$nome= As Visões da Raven 3ª Temporada</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vUgOpnj3DK5PkDxqtqVZQczxc5z.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/mI4NnTgRLeF3QiMDOnqJKR3XDdq.jpg</fanart>
+<info>Sinopse: Raven Baxter (Raven-Symone) é uma adolescente que tem a habilidade de ver o futuro. Ela sabe tudo o que vai acontecer, antes de os eventos se tornarem realidade. Algumas vezes, ela não sabe onde ou quando essas coisas acontecerão. Seus amigos são Chelsea Daniels (Anneleise van der Pol) e Eddie Thomas (Orlando Brown</info>
+<genre>Comédia, Kids, Família</genre>
+<year>2003</year>
+</item>
+
+
