@@ -265,3 +265,14 @@ Todos os participantes começam sozinhos o seu percurso. Aos poucos vão se enco
 <genre>Animação, Sci-Fi & Fantasy, Action & Adventure, Drama</genre>
 <year>2021</year>
 </item>
+
+<item>
+<title>[B]iCarly (2007)[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1df7c3efddc1f129642c117728a32a87748ee70e</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kP8Z51s9D8tiGnoRbL88db0e2jv.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/Acmi2eVIXff5fHG0XOFDGzhwqwr.jpg</fanart>
+<info>Sinopse: Carly Shay tem sua vida radicalmente mudada quando seu programa na internet torna-se um sucesso entre os jovens. Como seus pais estão viajando, Carly precisa contar com a ajuda de seu irmão e amigos para administrar sua recente fama.</info>
+<genre>Família, Comédia, Drama, Kids</genre>
+<year>2007</year>
+</item>
+
