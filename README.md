@@ -253,3 +253,15 @@ Todos os participantes começam sozinhos o seu percurso. Aos poucos vão se enco
 <genre>Comédia, Drama</genre>
 <year>2011</year>
 </item>
+
+<item>
+<title>[B]Arcane (2021)[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ed4ae972fd74c88f3cdd92f289112789e2ee77e$nome= T01 Ep. 00 ao 03</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cb8e759d9f01dfe28614d1670da29f2c6c9cb24b$nome= T01 Ep. 04 ao 06</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8a493ad1fcc6f5a30147943723a8c26a39a8934b$nome= T01 Ep. 07 ao 09</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fqldf2t8ztc9aiwn3k6mlX3tvRT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/rkB4LyZHo1NHXFEDHl9vSD9r1lI.jpg</fanart>
+<info>Em meio ao conflito entre as cidades-gêmeas de Piltover e Zaun, duas irmãs lutam em lados opostos de uma guerra entre tecnologias mágicas e convicções incompatíveis.</info>
+<genre>Animação, Sci-Fi & Fantasy, Action & Adventure, Drama</genre>
+<year>2021</year>
+</item>
