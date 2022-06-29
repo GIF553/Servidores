@@ -323,5 +323,24 @@ Todos os participantes começam sozinhos o seu percurso. Aos poucos vão se enco
 <year>2011</year>
 </item>
 
+<item>
+<title>[B]Westworld (2016)[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1E7B95079FE67B6D1158138A7FFB2E9E99C06142$nome= Westworld 1ª Temporada COMPLETA</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91a702fb54442353173a9e112b3b3aca876b3f52$nome= Westworld 2ª Temporada COMPLETA</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:31bf8821075fabba59f28cffeef600e4ea41ae87$nome= Westworld T03 Ep. 01</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:791301e20925b320e229d0160581ab26afa788a5$nome= Westworld T03 Ep. 02</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6018238ac11ad4b8eb3245947fa6277d9d0ec43c$nome= Westworld T03 Ep. 03</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2c9963af17e2cb2ba4ea13919241b5b04d9ada7f$nome= Westworld T03 Ep. 04 ao 05</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:24494ded76fb26c6cefa9a3dccc96470d49efb4e$nome= Westworld T03 Ep. 06</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6a32d9942c3f062675ac5503524054ec2f357e93$nome= Westworld T03 Ep. 07</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e508c139811a6b787a7711615a26a28821aa8ebc$nome= Westworld T03 Ep. 08</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80f6b2d1df27849c614de9e91350fd90d946a387$nome= Westworld T04 Ep. 01</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qzri6QJvL7lG5Rir98cXwkjWK1y.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/vHTuFN4uN1jD1xQWHnOft5dLvL5.jpg</fanart>
+<info>Num parque temático, visitantes mergulham num universo onde qualquer desejo pode ser realizado por robôs cuidadosamente programados. Mas algumas destas máquinas desviam do padrão de programação com comportamentos anormais.</info>
+<genre> Sci-Fi & Fantasy, Faroeste </genre>
+<year>2011</year>
+</item>
+
 
 
