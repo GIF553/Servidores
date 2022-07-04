@@ -108,6 +108,8 @@ Todos os participantes começam sozinhos o seu percurso. Aos poucos vão se enco
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b30baea8b8fe90449fad81053ff9a6d21c58d73$nome= Stranger Things 2ª Temporada</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9fbc8927bb61c313686d89038d31949324e536cf$nome= Stranger Things 3ª Temporada</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fa784dc9e10cdfa9866561d9a531ede33e6844ae$nome= Stranger Things 4ª Temporada</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fa784dc9e10cdfa9866561d9a531ede33e6844ae$nome= Stranger Things 4ª  Temporada PARTE 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:98c9a1ff37c565b145bcfd95211c0564ae81d968$nome= Stranger Things 4ª  Temporada PARTE 2</link>
 <thumbnail>https://i.pinimg.com/564x/00/ea/7c/00ea7c88e9e80f8bea6d13f3f7f0a810.jpg</thumbnail>
 <fanart>https://wallpaperaccess.com/full/1225007.jpg</fanart>
 <info>Sinopse: Quando um garoto desaparece, a cidade toda participa nas buscas. Mas o que encontram são segredos, forças sobrenaturais e uma menina.</info>
@@ -336,6 +338,7 @@ Todos os participantes começam sozinhos o seu percurso. Aos poucos vão se enco
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6a32d9942c3f062675ac5503524054ec2f357e93$nome= Westworld T03 Ep. 07</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e508c139811a6b787a7711615a26a28821aa8ebc$nome= Westworld T03 Ep. 08</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80f6b2d1df27849c614de9e91350fd90d946a387$nome= Westworld T04 Ep. 01</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:28fef85a8290c45baa089ade6bc08ec29b6acb4c$nome= Westworld T04 Ep. 02</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qzri6QJvL7lG5Rir98cXwkjWK1y.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/vHTuFN4uN1jD1xQWHnOft5dLvL5.jpg</fanart>
 <info>Num parque temático, visitantes mergulham num universo onde qualquer desejo pode ser realizado por robôs cuidadosamente programados. Mas algumas destas máquinas desviam do padrão de programação com comportamentos anormais.</info>
