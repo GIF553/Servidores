@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+
+<channel>
+<name>[B][COLOR lime][/COLOR] [COLOR yellow] === ADDON equilibrium  ===[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/LsIU7jk.png</thumbnail>
+<fanart>https://i.imgur.com/msft5dW.png</fanart>
+<info>[COLOR blue]* [COLOR lime] Bem vindo ao addon equilibrium . [/COLOR]</info>
+<externallink>https://0.0.0.0</externallink>
+</channel>
+
+<channel>
+<name>[COLOR white][B]TV AO VIVO[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/IP5LxkP.png</thumbnail>
+<fanart>https://i.imgur.com/bbiyfLC.jpg</fanart>
+<info>LISTAS PREMIUM, PARA FUNCIONAR INSTALE O PLUGIN F4MTESTER</info>
+<externallink>https://tvlistaadonn.blogspot.com/2021/12/todas-as-lista-matrix.html</externallink>
+</channel>
+
+<channel>
+<name>[COLOR white][B]RÁDIOS ONLINE[/B][/COLOR]</name>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Poste_Radio.svg/1200px-Poste_Radio.svg.png</thumbnail>
+<fanart>https://i.imgur.com/bbiyfLC.jpg</fanart>
+<info>RÁDIOS ONLINE</info>
+<externallink>https://tvlistaadonn.blogspot.com/2021/11/radios.html</externallink>
+</channel>
+
+<channel>
+<name>[COLOR white][B]SÉRIES TORRENT[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/9qEj6bJ.png</thumbnail>
+<fanart>https://i.imgur.com/g40ffeC.jpg</fanart>
+<info>SÉRIES EM TORRENT, PARA FUNCIONAR INSTALE O PLUGIN ELEMENTU</info>
+<externallink>https://raw.githubusercontent.com/DwightFarrokh/matrix-s/main/README.md</externallink>
+</channel>
+
+<channel>
+<name>[COLOR white][B]FILMES TORRENT[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/9qEj6bJ.png</thumbnail>
+<fanart>https://i.imgur.com/g40ffeC.jpg</fanart>
+<info>FILMES EM TORRENT, PARA FUNCIONAR INSTALE O PLUGIN ELEMENTU</info>
+<externallink>https://tvlistaadonn.blogspot.com/2022/06/tumbefan-movie.html</externallink>
+</channel>
+
+</channels>
