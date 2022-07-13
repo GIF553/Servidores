@@ -1,6 +1,8 @@
 
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <channels>
+
 <channel>
 <name>[COLOR white][B]TV AO VIVO[/B][/COLOR]</name>
 <thumbnail>https://i.imgur.com/Fk3PsKE.png</thumbnail>
@@ -38,3 +40,5 @@
 <fanart>https://i.imgur.com/g40ffeC.jpg</fanart>
 <info>FILMES EM TORRENT, PARA FUNCIONAR INSTALE O PLUGIN ELEMENTU</info>
 </channel>
+
+</channels>
