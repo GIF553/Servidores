@@ -346,5 +346,15 @@ Todos os participantes começam sozinhos o seu percurso. Aos poucos vão se enco
 <year>2011</year>
 </item>
 
+<item>
+<title>[B]Sandman (2022)[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:47e21af12e0b425b38750789bbbf1095178b4810</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/q54qEgagGOYCq5D1903eBVMNkbo.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/eqhKMZTLcieAvoH6CBqknTTfNby.jpg</fanart>
+<info>Um mago tenta capturar a Morte para barganhar pela vida eterna, no entanto, acaba prendendo seu irmão mais novo, Sonho. Temendo por sua segurança, o mago o mantém preso em uma garrafa de vidro por décadas. Após sua fuga, Sonho, também conhecido como Morpheus, parte em busca de seus poderosos objetos perdidos.</info>
+<genre>  Sci-Fi & Fantasy, Drama 48m </genre>
+<year>2022</year>
+</item>
+
 
 
