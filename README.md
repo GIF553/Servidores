@@ -339,6 +339,12 @@ Todos os participantes começam sozinhos o seu percurso. Aos poucos vão se enco
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e508c139811a6b787a7711615a26a28821aa8ebc$nome= Westworld T03 Ep. 08</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80f6b2d1df27849c614de9e91350fd90d946a387$nome= Westworld T04 Ep. 01</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:28fef85a8290c45baa089ade6bc08ec29b6acb4c$nome= Westworld T04 Ep. 02</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a113a9feb17b643c8628d5396355e60eddb91452$nome= Westworld T04 Ep. 03</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d4e120c09db3a0d6d397701bd5603c66723f8446$nome= Westworld T04 Ep. 04</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f4c6e2c94e386538d6d85355075c9951c32252ce$nome= Westworld T04 Ep. 05</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ce7f1dbefb5e1599859856ba6d8b3dfe840d060a$nome= Westworld T04 Ep. 06</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ce7f1dbefb5e1599859856ba6d8b3dfe840d060a$nome= Westworld T04 Ep. 07</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d41bd37cf2b02d44baf23b69d4ab7ae6498e33ff$nome= Westworld T04 Ep. 08</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qzri6QJvL7lG5Rir98cXwkjWK1y.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/vHTuFN4uN1jD1xQWHnOft5dLvL5.jpg</fanart>
 <info>Num parque temático, visitantes mergulham num universo onde qualquer desejo pode ser realizado por robôs cuidadosamente programados. Mas algumas destas máquinas desviam do padrão de programação com comportamentos anormais.</info>
