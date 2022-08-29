@@ -359,6 +359,7 @@ Todos os participantes começam sozinhos o seu percurso. Aos poucos vão se enco
 <item>
 <title>[B]A Casa do Dragão (2022)[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9a9488e52389eb437040bcadd3677f9eb80cae61&xt=urn:btmh:1220fc8dc99f3b12751a03f7b2f0977cad3f5839bdc30d3c79435eb17a428290c80b$nome= T01 Ep. 01</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d9cabec35c788d9c3e57b2f02947d7d88b1b9164$nome= T01 Ep. 02</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ruHPkmmAwBTCzNXtHot18rs6ctN.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/Aa9TLpNpBMyRkD8sPJ7ACKLjt0l.jpg</fanart>
 <info>200 anos antes dos eventos de "Game of Thrones", os Targaryen estavam no ápice de seu poder, tendo inúmeros dragões sob seu comando, mas nem tudo dura para sempre. O início do fim da dinastia Targaryen.</info>
