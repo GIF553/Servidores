@@ -455,6 +455,18 @@ Todos os participantes começam sozinhos o seu percurso. Aos poucos vão se enco
 <fanart>https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/yXggMemopUDHwPgmi6X9Wh2BQra.jpg</fanart>
 <info>:Bulma é uma garota em busca das místicas esferas do dragão que, quando reunidas, concedem qualquer desejo. Em sua busca, ela encontra o dono de uma dessas esferas, um garoto estranho chamado Goku. Os dois então partem juntos em busca das outras esferas do dragão.</info>
 <genre> Animação, Action & Adventure, Sci-Fi & Fantasy </genre>
-<year>2021</year>
+<year>1990-2015</year>
+</item>
+
+<item>
+<title>[B]Dark (2017)[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8b9c90c97d4781b07767c331a687196a1cd1a17b$nome= Dark 1ª Temporada</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:12ba417a923d0cc95f70b4f3e1cc17a262bf37f9$nome= Dark 2ª Temporada</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83e05b04a1379dce4e673725cb043293243f1fe8$nome= Dark 3ª Temporada</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5LoHuHWA4H8jElFlZDvsmU2n63b.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/75HgaphatW0PDI3XIHQWZUpbhn6.jpg</fanart>
+<info>Quatro famílias iniciam uma desesperada busca por respostas quando uma criança desaparece e um complexo mistério envolvendo três gerações começa a se revelar.</info>
+<genre>Ficção Científica, Fantasia, Drama, Suspense, Crime</genre>
+<year>2017</year>
 </item>
 
