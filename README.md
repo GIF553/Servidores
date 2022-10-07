@@ -509,3 +509,18 @@ Todos os participantes começam sozinhos o seu percurso. Aos poucos vão se enco
 <genre>Crime, Drama</genre>
 <year>2017</year>
 </item>
+
+<item>
+<title>[B]Invencível (2021)[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B5T725PTOWOR5LD4AM2JAMN6BI6UMZWInome= 01º AO 03º EPISÓDIO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NO4AKD6VIN5T2LROPBAKKEYRDRQSJ3AA$nome= 04º EPISÓDIO </link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VULHWQXBRZS6B7KCQMRYLSHVLHEGFP2B$nome= 05º EPISÓDIO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CHFM5OTWXZ7L5OKHLQPH2QKEW2SEQ7JX$nome= 06º EPISÓDIO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CPYHTR5UYVBQFL3RZD6JU4SDTG2NAX4W$nome= 07º EPISÓDIO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MVDORXT2QNDPOBFGGS3WQKAVVNNXLYSY$nome= 08º EPISÓDIO</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yDWJYRAwMNKbIYT8ZB33qy84uzO.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/6UH52Fmau8RPsMAbQbjwN3wJSCj.jpg</fanart>
+<info>Mark Grayson é um adolescente normal, exceto pelo fato de que seu pai é o super-herói mais poderoso do planeta. Pouco depois de seu décimo sétimo aniversário, Mark começa a desenvolver seus próprios poderes e se torna o Invencível. Adaptação da HQ de mesmo nome criada por Robert Kirkman e Cory Walker.</info>
+<genre>Crime, Drama</genre>
+<year>2021</year>
+</item>
