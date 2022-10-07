@@ -367,10 +367,24 @@ Todos os participantes começam sozinhos o seu percurso. Aos poucos vão se enco
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9a9488e52389eb437040bcadd3677f9eb80cae61&xt=urn:btmh:1220fc8dc99f3b12751a03f7b2f0977cad3f5839bdc30d3c79435eb17a428290c80b$nome= T01 Ep. 01</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d9cabec35c788d9c3e57b2f02947d7d88b1b9164$nome= T01 Ep. 02</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3GJFMQT5FSQRMIOAPOAGKWG5K3WWXLVC$nome= T01 Ep. 03</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:01abb206daf0b1717fc4b5c7190c7448c2838dfb$nome= T01 Ep. 04</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a0c087aadb5f090cac3b1701b6bad44d321f5d7$nome= T01 Ep. 05</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:add1c823ffb5f7655f5d8ce9889d4b8d2a1c26e8$nome= T01 Ep. 06</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3cd59bf64bf6c1b69bf1a51234ecac1b86722003$nome= T01 Ep. 07</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ruHPkmmAwBTCzNXtHot18rs6ctN.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/Aa9TLpNpBMyRkD8sPJ7ACKLjt0l.jpg</fanart>
 <info>200 anos antes dos eventos de "Game of Thrones", os Targaryen estavam no ápice de seu poder, tendo inúmeros dragões sob seu comando, mas nem tudo dura para sempre. O início do fim da dinastia Targaryen.</info>
 <genre>  Drama, Action & Adventure, Sci-Fi & Fantasy  </genre>
+<year>2022</year>
+</item>
+
+<item>
+<title>[B]Dahmer: Um Canibal Americano (2022)[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:THG6TJVU4DZLCQNLEXRTI23HGKBI5AXB</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/67ujv4O6AalmGu3UaVSNdcw8juT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/5vUux2vNUTqwCzb7tVcH18XnsF.jpg</fanart>
+<info>Jeffrey Dahmer drogou, estuprou e matou 17 rapazes, além de devorar parte dos cadáveres. Conheça seu modus operandi e veja entrevistas com seu pai e com sobreviventes dos crimes.</info>
+<genre> Drama, Crime </genre>
 <year>2022</year>
 </item>
 
