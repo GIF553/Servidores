@@ -380,7 +380,8 @@ Todos os participantes começam sozinhos o seu percurso. Aos poucos vão se enco
 
 <item>
 <title>[B]Dahmer: Um Canibal Americano (2022)[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:THG6TJVU4DZLCQNLEXRTI23HGKBI5AXB</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:THG6TJVU4DZLCQNLEXRTI23HGKBI5AXB$nome= Primeira Temporada (Dublado)</link>
+<link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b5f6d045da2fcdf1625c2dd9083449b937899ac9$nome= Primeira Temporada (Legendado)</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/67ujv4O6AalmGu3UaVSNdcw8juT.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/5vUux2vNUTqwCzb7tVcH18XnsF.jpg</fanart>
 <info>Jeffrey Dahmer drogou, estuprou e matou 17 rapazes, além de devorar parte dos cadáveres. Conheça seu modus operandi e veja entrevistas com seu pai e com sobreviventes dos crimes.</info>
