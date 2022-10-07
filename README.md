@@ -381,11 +381,26 @@ Todos os participantes começam sozinhos o seu percurso. Aos poucos vão se enco
 <item>
 <title>[B]Dahmer: Um Canibal Americano (2022)[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:THG6TJVU4DZLCQNLEXRTI23HGKBI5AXB$nome= Primeira Temporada (Dublado)</link>
-<link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b5f6d045da2fcdf1625c2dd9083449b937899ac9$nome= Primeira Temporada (Legendado)</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b5f6d045da2fcdf1625c2dd9083449b937899ac9$nome= Primeira Temporada (Legendado)</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/67ujv4O6AalmGu3UaVSNdcw8juT.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/5vUux2vNUTqwCzb7tVcH18XnsF.jpg</fanart>
 <info>Jeffrey Dahmer drogou, estuprou e matou 17 rapazes, além de devorar parte dos cadáveres. Conheça seu modus operandi e veja entrevistas com seu pai e com sobreviventes dos crimes.</info>
 <genre> Drama, Crime </genre>
+<year>2022</year>
+</item>
+
+<item>
+<title>[B]O Senhor dos Anéis: Os Anéis de Poder (2022)[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ee737fb3a6c017a6440a7a6d98bcb18fae7a8f25$nome= T01 Ep. 01 e 02</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d2ef4152b53c3e3ab4db0ae11c3f061497e6b813$nome= T01 Ep. 03</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9ae5f1ca5fde6bd60d36c70519f27f7e681c4e62$nome= T01 Ep. 04</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76f0f9303e439b74828b35bae8e0067e3bce3b00$nome= T01 Ep. 05</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ceec494503ac067b914318ec8933907465b4c619$nome= T01 Ep. 06</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d9595469cb4a162eb222be8cba2ea2ae6df9c2d2$nome= T01 Ep. 07</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b5pl6GmQmTCHmZKEBhXPN0gmoAq.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/1rO4xoCo4Z5WubK0OwdVll3DPYo.jpg</fanart>
+<info>Tendo início em uma época de relativa paz, a série acompanha um grupo de personagens que enfrenta o ressurgimento do mal na Terra-média. Das profundezas escuras das Montanhas de Névoa, das majestosas florestas de Lindon, do belíssimo reino da ilha de Númenor, até os confins do mapa, esses reinos e personagens criarão legados que permanecerão vivos muito além de suas partidas.</info>
+<genre> Sci-Fi & Fantasy, Action & Adventure, Drama </genre>
 <year>2022</year>
 </item>
 
