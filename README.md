@@ -439,4 +439,22 @@ Todos os participantes começam sozinhos o seu percurso. Aos poucos vão se enco
 <year>2021</year>
 </item>
 
+<item>
+<title>[B]Dragon Ball (1990)[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7332F95771CF58111C81E6C88F8FA8D4F1A49A0D$nome= Dragon Ball - Clássico (1986)</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f5635167d1f45159e5668e6a76b38c774b238a0f$nome= Dragon Ball Z - Saga Saiyajin (1989)</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cfc59ce47c7c0f0edbedc357dc2458b9056f7d83$nome= Dragon Ball Z - Saga Freeza (1991)</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05f99038fd0f1fc7d81251425649642841961870$nome= Dragon Ball Z - Saga Garlic Jr (1991)</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e5f7f815ebe8a8a683744ecc47e1a32189c14a53$nome= Dragon Ball Z - Saga Andróide (1992)</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c99759c4f0accb04e2b47aa0b6d2efa5f0da5b41$nome= Dragon Ball Z - Saga do Cell (1992)</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d3eb64b65edd8cc6d064f8aa327427f0b74439f$nome= Dragon Ball Z - Saga do Torneio do Outro Mundo (1993)</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f971d0d48f8acaa1f425d9004fb37c2c7e18a697$nome= Dragon Ball Z - Saga Majin Boo (1994)</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:49E9058098BE279C7ADA498398B30C1344D22600$nome= Dragon Ball GT (1996)</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B57KN3GG2OZQQTSLAAAAMI6KV5JTH4MK$nome= Dragon Ball Super (2015)</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/n7WLT6AEcwBtDhIfxjBOBAU9FAV.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/yXggMemopUDHwPgmi6X9Wh2BQra.jpg</fanart>
+<info>:Bulma é uma garota em busca das místicas esferas do dragão que, quando reunidas, concedem qualquer desejo. Em sua busca, ela encontra o dono de uma dessas esferas, um garoto estranho chamado Goku. Os dois então partem juntos em busca das outras esferas do dragão.</info>
+<genre> Animação, Action & Adventure, Sci-Fi & Fantasy </genre>
+<year>2021</year>
+</item>
 
