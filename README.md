@@ -484,18 +484,7 @@ Todos os participantes começam sozinhos o seu percurso. Aos poucos vão se enco
 </item>
 
 
-<item>
-<title>[B]X-Men Evolution (2000)[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d687df9c8ad02d2ee78a1f4e87e4bbdd56aee51e$nome= X-Men Evolution 1ª Temporada</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:45a2cde9f64854a16b53fcd790d7a4ff54241e70$nome= X-Men Evolution 2ª Temporada</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3F8F86D571A7E5F4D0E217891C921F24E093D265$nome= X-Men Evolution 3ª Temporada</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c13950f202ab60a68e0862e4c7bb65a75ba2019d$nome= X-Men Evolution 4ª Temporada</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/whZRsqrMYoigHoPRme1Pdsyf5UO.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/x76SiKFjL0lJhzBCZ0cUBUCvkDj.jpg</fanart>
-<info>X-Men: Evolution é uma série animada sobre os super-heróis da Marvel Comics, os X-Men. Essa versão reimagina os personagens como jovens, em sua maioria adolescentes.</info>
-<genre>Animação, Ficção Científica, Fantasia, Ação, Aventura, Kids</genre>
-<year>2000</year>
-</item>
+
 
 <item>
 <title>[B]La Casa de Papel (2017)[/B]</title>
