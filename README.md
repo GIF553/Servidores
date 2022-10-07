@@ -422,4 +422,21 @@ Todos os participantes começam sozinhos o seu percurso. Aos poucos vão se enco
 <year>2022</year>
 </item>
 
+<item>
+<title>[B]Chucky (2021)[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2c028286a622a7885a12b707c7a91765af55f2a9$nome= T01 Ep. 01</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:497517fe674d9301405cc2ba0439cd6d62642500$nome= T01 Ep. 02</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d5db1be19b1adb04bf4658450633313d91f233b5$nome= T01 Ep. 03</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3a749e1babdd1f43d953d125c38f618f58aa712e$nome= T01 Ep. 04</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02444e6bbfa66c0ba1e818fa1c79b735584bdc6c$nome= T01 Ep. 05</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e875ed803eecbf1c366175c03b4b47421813759$nome= T01 Ep. 06</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c1f344a6fbe163f52dcff2b49c31f1b1834f1156$nome= T01 Ep. 07</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5f59073ee079c167819cda4db9bd8b07d2e337f3$nome= T01 Ep. 08</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kY0BogCM8SkNJ0MNiHB3VTM86Tz.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/pysGisnLhmjQB2CGQCAQDxBADsH.jpg</fanart>
+<info>Depois que um boneco Chucky "vintage" aparece em uma venda de quintal, uma pequena e pacata cidade do interior norte americano é lançada no caos enquanto uma série de assassinatos horríveis começa a expor os segredos da localidade.</info>
+<genre> Crime, Sci-Fi & Fantasy  </genre>
+<year>2021</year>
+</item>
+
 
