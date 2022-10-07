@@ -483,3 +483,29 @@ Todos os participantes começam sozinhos o seu percurso. Aos poucos vão se enco
 <year>2000</year>
 </item>
 
+
+<item>
+<title>[B]X-Men Evolution (2000)[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d687df9c8ad02d2ee78a1f4e87e4bbdd56aee51e$nome= X-Men Evolution 1ª Temporada</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:45a2cde9f64854a16b53fcd790d7a4ff54241e70$nome= X-Men Evolution 2ª Temporada</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3F8F86D571A7E5F4D0E217891C921F24E093D265$nome= X-Men Evolution 3ª Temporada</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c13950f202ab60a68e0862e4c7bb65a75ba2019d$nome= X-Men Evolution 4ª Temporada</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/whZRsqrMYoigHoPRme1Pdsyf5UO.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/x76SiKFjL0lJhzBCZ0cUBUCvkDj.jpg</fanart>
+<info>X-Men: Evolution é uma série animada sobre os super-heróis da Marvel Comics, os X-Men. Essa versão reimagina os personagens como jovens, em sua maioria adolescentes.</info>
+<genre>Animação, Ficção Científica, Fantasia, Ação, Aventura, Kids</genre>
+<year>2000</year>
+</item>
+
+<item>
+<title>[B]La Casa de Papel (2017)[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:322aef81478a74d32305ee7fec60ce3d9293c418$nome= La Casa de Papel 1ª Temporada (2017)</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44469d737d9ec3b05558329f70e64c932ce362e7$nome= La Casa de Papel 2ª Temporada (2018)</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AC42C26432F1915326F6A7394CA3174697600FC7$nome= La Casa de Papel 3ª Temporada (2019)</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3feb5ea1f76fa210ba9a0ab01207865cb824a424$nome= La Casa de Papel 4ª Temporada (2020)</link>
+<thumbnail>https://assets0.minhaserie.com.br/uploads/editor_pictures/000/058/692/content_pic.jpg</thumbnail>
+<fanart>https://i.imgur.com/qQShOu0.png</fanart>
+<info>Um homem misterioso que atende pelo nome de El Profesor, está planejando o maior assalto do século. A fim de realizar o ambicioso plano ele recruta uma gangue de oito pessoas com certas habilidades que não tem nada a perder. O objetivo é infiltrar na Casa da Moeda, de modo que eles possam imprimir 2,4 bilhões de euros. Para fazer isso eles precisam de onze dias de reclusão, durante o qual eles vão ter que lidar com sessenta e sete reféns e as forças da Polícia de Elite, com cenas de muita ação e planos brilhantes de El Profesor</info>
+<genre>Crime, Drama</genre>
+<year>2017</year>
+</item>
