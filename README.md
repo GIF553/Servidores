@@ -404,18 +404,21 @@ Todos os participantes começam sozinhos o seu percurso. Aos poucos vão se enco
 <year>2022</year>
 </item>
 
+
 <item>
-<title>[B]O Senhor dos Anéis: Os Anéis de Poder (2022)[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ee737fb3a6c017a6440a7a6d98bcb18fae7a8f25$nome= T01 Ep. 01 e 02</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d2ef4152b53c3e3ab4db0ae11c3f061497e6b813$nome= T01 Ep. 03</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9ae5f1ca5fde6bd60d36c70519f27f7e681c4e62$nome= T01 Ep. 04</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76f0f9303e439b74828b35bae8e0067e3bce3b00$nome= T01 Ep. 05</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ceec494503ac067b914318ec8933907465b4c619$nome= T01 Ep. 06</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d9595469cb4a162eb222be8cba2ea2ae6df9c2d2$nome= T01 Ep. 07</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b5pl6GmQmTCHmZKEBhXPN0gmoAq.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/1rO4xoCo4Z5WubK0OwdVll3DPYo.jpg</fanart>
-<info>Tendo início em uma época de relativa paz, a série acompanha um grupo de personagens que enfrenta o ressurgimento do mal na Terra-média. Das profundezas escuras das Montanhas de Névoa, das majestosas florestas de Lindon, do belíssimo reino da ilha de Númenor, até os confins do mapa, esses reinos e personagens criarão legados que permanecerão vivos muito além de suas partidas.</info>
-<genre> Sci-Fi & Fantasy, Action & Adventure, Drama </genre>
+<title>[B]Mulher-Hulk: Defensora de Heróis (2022)[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6e241b2a8f22e6de274252e2d281d2f1d73853e4$nome= T01 Ep. 01</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ed62e563acdd82333d1dd5b1d5c8985c83bbc059$nome= T01 Ep. 02</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ac63a613c89c849f0494849220f55c86036a19c1$nome= T01 Ep. 03</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dad76d8125203c2260cb31a30973aaa7a408697f$nome= T01 Ep. 04</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5a8d048010b28751c00aa7795926fe3d1e5a9ce4$nome= T01 Ep. 05</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05634f0f69b36188e6d563705eba65b5f8179f0e$nome= T01 Ep. 06</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:276b2f8324ccb2237bc40e722a8a2411bd9f10ee$nome= T01 Ep. 07</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d6a56ebb4df55965940d2f562f018efea612d184$nome= T01 Ep. 08</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3qO7wycn6o0lUJf15dupMFbEBTY.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/eljErfkQUcFUgQkI4I1soZcH8MW.jpg</fanart>
+<info>Jennifer Walters — uma advogada especializada em casos envolvendo super-humanos — deve lidar com a complicada vida de uma mulher solteira de trinta e poucos anos que, por acaso, é uma hulk superpoderosa de 2 metros.</info>
+<genre> Comédia, Sci-Fi & Fantasy </genre>
 <year>2022</year>
 </item>
 
