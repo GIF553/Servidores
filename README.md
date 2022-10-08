@@ -501,7 +501,7 @@ Todos os participantes começam sozinhos o seu percurso. Aos poucos vão se enco
 
 <item>
 <title>[B]Invencível (2021)[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B5T725PTOWOR5LD4AM2JAMN6BI6UMZWInome= 01º AO 03º EPISÓDIO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B5T725PTOWOR5LD4AM2JAMN6BI6UMZWI$nome= 01º AO 03º EPISÓDIO</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NO4AKD6VIN5T2LROPBAKKEYRDRQSJ3AA$nome= 04º EPISÓDIO </link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VULHWQXBRZS6B7KCQMRYLSHVLHEGFP2B$nome= 05º EPISÓDIO</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CHFM5OTWXZ7L5OKHLQPH2QKEW2SEQ7JX$nome= 06º EPISÓDIO</link>
