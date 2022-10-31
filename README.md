@@ -371,6 +371,9 @@ Todos os participantes começam sozinhos o seu percurso. Aos poucos vão se enco
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a0c087aadb5f090cac3b1701b6bad44d321f5d7$nome= T01 Ep. 05</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:add1c823ffb5f7655f5d8ce9889d4b8d2a1c26e8$nome= T01 Ep. 06</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3cd59bf64bf6c1b69bf1a51234ecac1b86722003$nome= T01 Ep. 07</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0ee892337c5e74b9c04b96fccf4ed37c69de4cf6$nome= T01 Ep. 08</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9d9eb685980ed8d446cbad4014ef5859ee61f0c9$nome= T01 Ep. 09</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4c06fe1d906ec6a28bfa396ec2716bf7cd2ee84b$nome= T01 Ep. 10</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ruHPkmmAwBTCzNXtHot18rs6ctN.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/Aa9TLpNpBMyRkD8sPJ7ACKLjt0l.jpg</fanart>
 <info>200 anos antes dos eventos de "Game of Thrones", os Targaryen estavam no ápice de seu poder, tendo inúmeros dragões sob seu comando, mas nem tudo dura para sempre. O início do fim da dinastia Targaryen.</info>
@@ -397,6 +400,7 @@ Todos os participantes começam sozinhos o seu percurso. Aos poucos vão se enco
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76f0f9303e439b74828b35bae8e0067e3bce3b00$nome= T01 Ep. 05</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ceec494503ac067b914318ec8933907465b4c619$nome= T01 Ep. 06</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d9595469cb4a162eb222be8cba2ea2ae6df9c2d2$nome= T01 Ep. 07</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7cd641b7a12584faaca1c2071eec067f920c774a$nome= T01 Ep. 08</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b5pl6GmQmTCHmZKEBhXPN0gmoAq.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/1rO4xoCo4Z5WubK0OwdVll3DPYo.jpg</fanart>
 <info>Tendo início em uma época de relativa paz, a série acompanha um grupo de personagens que enfrenta o ressurgimento do mal na Terra-média. Das profundezas escuras das Montanhas de Névoa, das majestosas florestas de Lindon, do belíssimo reino da ilha de Númenor, até os confins do mapa, esses reinos e personagens criarão legados que permanecerão vivos muito além de suas partidas.</info>
@@ -415,6 +419,7 @@ Todos os participantes começam sozinhos o seu percurso. Aos poucos vão se enco
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05634f0f69b36188e6d563705eba65b5f8179f0e$nome= T01 Ep. 06</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:276b2f8324ccb2237bc40e722a8a2411bd9f10ee$nome= T01 Ep. 07</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d6a56ebb4df55965940d2f562f018efea612d184$nome= T01 Ep. 08</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:49856491171e8f927ffef0a28e01f48dadbdba8d$nome= T01 Ep. 09</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3qO7wycn6o0lUJf15dupMFbEBTY.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/eljErfkQUcFUgQkI4I1soZcH8MW.jpg</fanart>
 <info>Jennifer Walters — uma advogada especializada em casos envolvendo super-humanos — deve lidar com a complicada vida de uma mulher solteira de trinta e poucos anos que, por acaso, é uma hulk superpoderosa de 2 metros.</info>
