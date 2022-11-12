@@ -505,16 +505,15 @@ Todos os participantes começam sozinhos o seu percurso. Aos poucos vão se enco
 </item>
 
 <item>
-<title>[B]Invencível (2021)[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B5T725PTOWOR5LD4AM2JAMN6BI6UMZWI$nome= 01 e 03 EPISÓDIO</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NO4AKD6VIN5T2LROPBAKKEYRDRQSJ3AA$nome= 04 EPISÓDIO</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VULHWQXBRZS6B7KCQMRYLSHVLHEGFP2B$nome= 05 EPISÓDIO</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CHFM5OTWXZ7L5OKHLQPH2QKEW2SEQ7JX$nome= 06 EPISÓDIO</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CPYHTR5UYVBQFL3RZD6JU4SDTG2NAX4W$nome= 07 EPISÓDIO</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MVDORXT2QNDPOBFGGS3WQKAVVNNXLYSY$nome= 08 EPISÓDIO</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yDWJYRAwMNKbIYT8ZB33qy84uzO.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/6UH52Fmau8RPsMAbQbjwN3wJSCj.jpg</fanart>
-<info>Mark Grayson é um adolescente normal, exceto pelo fato de que seu pai é o super-herói mais poderoso do planeta. Pouco depois de seu décimo sétimo aniversário, Mark começa a desenvolver seus próprios poderes e se torna o Invencível. Adaptação da HQ de mesmo nome criada por Robert Kirkman e Cory Walker.</info>
-<genre>Crime, Drama</genre>
-<year>2021</year>
+<title>[B]Arcanjo Renegado (2020)[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b710565177b549636e356f78ea836182d8546f33$nome= Arcanjo Renegado 1ª TEMPORADA COMPLETA</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:48cce5bc2b04a6c8a7e5139b51ddc6f78d64c77e$nome= Arcanjo Renegado 2ª TEMPORADA 01º AO 04º EPISÓDIO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e2d0448dc066431cb591d9cf788ed8ad061fabb1$nome= Arcanjo Renegado 2ª TEMPORADA 05º E 06º EPISÓDIO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:261be955b0aedd8552b056db5622e2f56024bdb7$nome= Arcanjo Renegado 2ª TEMPORADA 07º E 08º EPISÓDIO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a3a1d4fa69925142fa7a6bf883a4b3d8ade2e9f8$nome= Arcanjo Renegado 2ª TEMPORADA 09º E 10º EPISÓDIO</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yboed6TwhCxHZm3SM3hpQtYIAxI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/u1VbA1AmDeGbQv2G5a5MUsB2Q9k.jpg</fanart>
+<info>Mikhael é o líder da principal equipe do BOPE. Quando um dos seus amigos é ferido em uma operação, ele busca vingança e acaba em conflito com a alta cúpula política do estado.</info>
+<genre> Drama, Action & Adventure 45m</genre>
+<year>2020</year>
 </item>
