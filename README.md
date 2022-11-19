@@ -517,3 +517,13 @@ Todos os participantes começam sozinhos o seu percurso. Aos poucos vão se enco
 <genre> Drama, Action & Adventure 45m</genre>
 <year>2020</year>
 </item>
+
+<item>
+<title>[B]1899 (2022)[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BPMCHJ7JXDBHXOBBCQVZQ7BGDQKG7VYO</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8KGvYHQNOamON6ufQGjyhkiVn1V.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/s1xnjbOIQtwGObPnydTebp74G2c.jpg</fanart>
+<info>Em um navio a vapor migrante rumo ao oeste para deixar o velho continente de Londres para Nova York, os passageiros, uma mistura de origens europeias, estão unidos por suas esperanças e sonhos para o novo século e seu futuro no exterior. Quando eles descobrem outro navio migrante à deriva em mar aberto, sua jornada toma um rumo inesperado. O que eles encontrarem a bordo transformará sua passagem para a terra prometida em um pesadelo horrível.</info>
+<genre>  Mistério, Drama 50m</genre>
+<year>2022</year>
+</item>
