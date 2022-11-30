@@ -527,3 +527,13 @@ Todos os participantes começam sozinhos o seu percurso. Aos poucos vão se enco
 <genre>  Mistério, Drama 50m</genre>
 <year>2022</year>
 </item>
+
+<item>
+<title>[B]Wandinha (2022)[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d8fda4993a323f2c1045ed0a8332bc1887328ae0</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ooBR3qulC40ws0QkYBUAYFKmLRE.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/9DpB6wC1iY5jxLz91RT8tIIsXaf.jpg</fanart>
+<info>Inteligente, sarcástica e apática, Wandinha Addams pode estar meio morta por dentro, mas na Escola Nunca Mais ela vai fazer amigos, inimigos e investigar assassinatos.</info>
+<genre> Sci-Fi & Fantasy, Mistério, Comédia </genre>
+<year>2022</year>
+</item>
