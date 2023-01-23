@@ -541,4 +541,15 @@ Todos os participantes começam sozinhos o seu percurso. Aos poucos vão se enco
 <year>2022</year>
 </item>
 
+<item>
+<title>[B]The Last of Us (2023)[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:41702171d270a7898912809f6aad8f66d57e1661$nome= The Last of Us 1ªT 01º EPISÓDIO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56351862a082b1076d7a39157343dec9472ef469$nome= The Last of Us 1ªT 02º EPISÓDIO</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uKvVjHNqB5VmOrdxqAt2F7J78ED.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/w1920_and_h800_multi_faces/uDgy6hyPd82kOHh6I95FLtLnj6p.jpg</fanart>
+<info>Situado duas décadas após a implosão de nossa sociedade, o drama seguirá Joel, um sobrevivente difícil, que é contratado para contrabandear uma garota de 14 anos chamada Ellie para fora de uma zona de quarentena opressiva. O que começa como um pequeno trabalho logo se torna uma jornada brutal e de partir o coração, já que os dois precisam atravessar os Estados Unidos e dependem um do outro para sobreviver.</info>
+<genre>Drama, Sci-Fi & Fantasy, Action & Adventure</genre>
+<year>2023</year>
+</item>
+
 </items>
