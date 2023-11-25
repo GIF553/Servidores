@@ -5,7 +5,7 @@
 <name>[B][COLOR orange]ATENÇÃO ATIVE A OPÇÃO PERGUNTAR NAS CONFIGURAÇÃO DO F4MTESTER! NEM TODAS AS LISTAS RODA BEM COM PLAYER PADRÃO DO F4MTESTER![/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/AeaVwsA.jpg</thumbnail>
 <fanart>https://i.imgur.com/AeaVwsA.jpg</fanart>
-<info>[COLOR blue]ATENÇÃO ATIVE A OPÇÃO PERGUNTAR NAS CONFIGURAÇÃO DO F4MTESTER! NEM TODAS AS LISTAS RODA BEM COM O PLAYER PADRÃO DO F4MTESTER! ATIVANDO VOCÊ TERA 3 PLAYERS PARA SEREM USADOS![/COLOR]</info>
+<info>[COLOR blue]ATENÇÃO ATIVE A OPÇÃO PERGUNTAR NAS CONFIGURAÇÃO DO F4MTESTER! NEM TODAS AS LISTAS RODA BEM COM O PLAYER PADRÃO DO F4MTESTER! ATIVANDO A OPÇÃO PERGUNTAR VOCÊ TERA 3 PLAYERS PARA SEREM USADOS![/COLOR]</info>
 <externallink>http://stm2.streaminghd.net.br:7046</externallink>
 </channel>
 
@@ -39,6 +39,14 @@
 <fanart>https://i.imgur.com/AeaVwsA.jpg</fanart>
 <info>[COLOR blue]SERVIDOR 3[/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/GIF553/Servidores/main/Servidor4</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR white]SERVIDOR 5[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/AeaVwsA.jpg</thumbnail>
+<fanart>https://i.imgur.com/AeaVwsA.jpg</fanart>
+<info>[COLOR blue]SERVIDOR 3[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/GIF553/Servidores/main/Servidor5</externallink>
 </channel>
 
 </channels>
