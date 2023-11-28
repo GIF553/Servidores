@@ -53,7 +53,7 @@
 <name>[B][COLOR white]SERVIDOR 6[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/AeaVwsA.jpg</thumbnail>
 <fanart>https://i.imgur.com/AeaVwsA.jpg</fanart>
-<info>[COLOR blue]SERVIDOR 5[/COLOR]</info>
+<info>[COLOR blue]SERVIDOR 6[/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/GIF553/Servidores/main/Servidor6</externallink>
 </channel>
 
@@ -61,8 +61,16 @@
 <name>[B][COLOR white]SERVIDOR 7[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/AeaVwsA.jpg</thumbnail>
 <fanart>https://i.imgur.com/AeaVwsA.jpg</fanart>
-<info>[COLOR blue]SERVIDOR 5[/COLOR]</info>
+<info>[COLOR blue]SERVIDOR 7[/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/GIF553/Servidores/main/Servidor7</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR white]SERVIDOR 8[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/AeaVwsA.jpg</thumbnail>
+<fanart>https://i.imgur.com/AeaVwsA.jpg</fanart>
+<info>[COLOR blue]SERVIDOR 8[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/GIF553/Servidores/main/Servidor8</externallink>
 </channel>
 
 </channels>
