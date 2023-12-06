@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<channels>
+
+<channel>
+<name>[B][COLOR white]SERVIDOR 1[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/AeaVwsA.jpg</thumbnail>
+<fanart>https://i.imgur.com/AeaVwsA.jpg</fanart>
+<info>[COLOR blue]LATINOS[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/GIF553/Servidores/main/Latinos</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR white]SERVIDOR 2[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/AeaVwsA.jpg</thumbnail>
+<fanart>https://i.imgur.com/AeaVwsA.jpg</fanart>
+<info>[COLOR blue]LATINOS[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/GIF553/Servidores/main/Latino2</externallink>
+</channel>
+
+<channel>
+<name>[B][COLOR white]SERVIDOR 2[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/AeaVwsA.jpg</thumbnail>
+<fanart>https://i.imgur.com/AeaVwsA.jpg</fanart>
+<info>[COLOR blue]LATINOS[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/GIF553/Servidores/main/Latino2</externallink>
+</channel>
+
+</channels>
