@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://logospng.org/download/big-brother-brasil/bbb-big-brother-brasil-256.png" tvg-name="BBB 24 Aquecimento" group-title="Canais | BBB",BBB 24 Aquecimento
+http://cdn.teambr.live:80/live/Juliojunior/8746262849/183296.m3u8
 #EXTINF:-1 tvg-id="322" tvg-logo="https://www.liblogo.com/img-logo/ad8698ca9a-adult-swim-logo-content-adult-swim-support.png" tvg-name="Adult Swim HD" group-title="Canais | Infantil",Adult Swim HD
 http://cdn.teambr.live:80/live/Juliojunior/8746262849/183040.m3u8
 #EXTINF:-1 tvg-id="322" tvg-logo="https://www.liblogo.com/img-logo/ad8698ca9a-adult-swim-logo-content-adult-swim-support.png" tvg-name="Adult Swim SD" group-title="Canais | Infantil",Adult Swim SD
