@@ -1,4 +1,6 @@
-#EXTM3U  
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="BBB - ESQUENTA" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/png/2023/12/05/806x444/1_logo_bbb__3_-25543458.png" group-title="BBB24¨ REALITY BBB 2024",BBB24 - ESQUENTA
+http://c.strzzi.site:80/253278/253278/3721239
 #EXTINF: -1 tvg-name="24 KITCHEN HD" tvg-logo="https://i.imgur.com/h7zVseY.png" group-title="CANAIS • PORTUGAL", 24 KITCHEN HD
 http://c.strzzi.site:80/253278/253278/2985000
 #EXTINF: -1 tvg-name="BLAZE HD" tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/blaze/logo.png" group-title="CANAIS • PORTUGAL", BLAZE HD
