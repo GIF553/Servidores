@@ -1,4 +1,8 @@
-#EXTM3U 
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="BBB 01 HD" tvg-logo="https://s2-g1.glbimg.com/NIo-BB9BenJECZzarEmJRSLQAL0=/0x0:500x281/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/F/U/TwmFEOQqq4ZmbYikUAkQ/bbb-24.jpg" group-title=" Canais | BBB 24",BBB 01 HD
+http://rdns.tv:80/Maria0810/38472955/331947
+#EXTINF:-1 tvg-id="" tvg-name="BBB Day HD" tvg-logo="https://s2-g1.glbimg.com/NIo-BB9BenJECZzarEmJRSLQAL0=/0x0:500x281/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/F/U/TwmFEOQqq4ZmbYikUAkQ/bbb-24.jpg" group-title=" Canais | BBB 24",BBB Day HD
+http://rdns.tv:80/Maria0810/38472955/338361
 #EXTINF: -1 tvg-name="Olympia TV HD" group-title=" Canais | PPV", Olympia TV HD
 http://rdns.tv:80/Maria0810/38472955/356672
 #EXTINF: -1 tvg-name="Barretos 2023" group-title=" Canais | PPV", Barretos 2023
