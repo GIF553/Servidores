@@ -1,16 +1,8 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="" tvg-name="BBB 01" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Big_Brother_Brasil_22.png" group-title="CANAIS  BBB24",BBB 01
-http://game.shiuk.re:80/17468240519262/RBvpU5/309
-#EXTINF:-1 tvg-id="" tvg-name="BBB 02" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Big_Brother_Brasil_22.png" group-title="CANAIS  BBB24",BBB 02
-http://game.shiuk.re:80/17468240519262/RBvpU5/310
-#EXTINF:-1 tvg-id="" tvg-name="BBB 03" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Big_Brother_Brasil_22.png" group-title="CANAIS  BBB24",BBB 03
-http://game.shiuk.re:80/17468240519262/RBvpU5/311
-#EXTINF:-1 tvg-id="" tvg-name="BBB 04" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Big_Brother_Brasil_22.png" group-title="CANAIS  BBB24",BBB 04
-http://game.shiuk.re:80/17468240519262/RBvpU5/312
-#EXTINF:-1 tvg-id="" tvg-name="BBB 05" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Big_Brother_Brasil_22.png" group-title="CANAIS  BBB24",BBB 05
-http://game.shiuk.re:80/17468240519262/RBvpU5/313
-#EXTINF:-1 tvg-id="" tvg-name="BBB 06" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Big_Brother_Brasil_22.png" group-title="CANAIS  BBB24",BBB 06
-http://game.shiuk.re:80/17468240519262/RBvpU5/314
+#EXTINF:-1 tvg-id="" tvg-name="BBB 01 HD" tvg-logo="https://s2-g1.glbimg.com/NIo-BB9BenJECZzarEmJRSLQAL0=/0x0:500x281/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/F/U/TwmFEOQqq4ZmbYikUAkQ/bbb-24.jpg" group-title=" Canais | BBB 24",BBB 01 HD
+http://rdns.tv:80/Camila/C1a2m3ila!/331947
+#EXTINF:-1 tvg-id="" tvg-name="BBB Day HD" tvg-logo="https://s2-g1.glbimg.com/NIo-BB9BenJECZzarEmJRSLQAL0=/0x0:500x281/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/F/U/TwmFEOQqq4ZmbYikUAkQ/bbb-24.jpg" group-title=" Canais | BBB 24",BBB Day HD
+http://rdns.tv:80/Camila/C1a2m3ila!/338361
 #EXTINF: -1 tvg-name="GOAT 03 PPV" tvg-logo="https://canalgoat.com.br/img/logo-composite.png" group-title="CANAIS | PPV", GOAT 03 PPV
 http://gameplay.p2sweb.me:80/xavs32/4521ars/364379
 #EXTINF: -1 tvg-name="GOAT 02 PPV" tvg-logo="https://canalgoat.com.br/img/logo-composite.png" group-title="CANAIS | PPV", GOAT 02 PPV
