@@ -1,12 +1,16 @@
 #EXTM3U 
-#EXTINF: -1 tvg-id="bbb22" tvg-name="A Fazenda [Principal]" tvg-logo="https://loopstatic.net/afazenda.png" group-title="Canais | Reality: A Fazenda", A Fazenda [Principal]
-http://splaytv.io:80/xUuW52/NjyQFM/179430
-#EXTINF: -1 tvg-id="CAMPEONATO CARIOCA 1" tvg-name="A Fazenda [CAM 2]" tvg-logo="https://loopstatic.net/afazenda.png" group-title="Canais | Reality: A Fazenda", A Fazenda [CAM 2]
-http://splaytv.io:80/xUuW52/NjyQFM/177437
-#EXTINF: -1 tvg-id="Campeonato Carioca 1" tvg-name="A Fazenda [CAM 3]" tvg-logo="https://loopstatic.net/afazenda.png" group-title="Canais | Reality: A Fazenda", A Fazenda [CAM 3]
-http://splaytv.io:80/xUuW52/NjyQFM/176732
-#EXTINF: -1 tvg-id="AE" tvg-name="A Fazenda [CAM 4]" tvg-logo="https://loopstatic.net/afazenda.png" group-title="Canais | Reality: A Fazenda", A Fazenda [CAM 4]
-http://splaytv.io:80/xUuW52/NjyQFM/169540
+#EXTINF:-1 tvg-id="" tvg-name="BBB 1 FHD" tvg-logo="https://i.imgur.com/yTfeLir.png" group-title="Canais | BBB",BBB 1 FHD
+http://splaytv.io:80/xUuW52/NjyQFM/179431
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2 FHD" tvg-logo="https://i.imgur.com/yTfeLir.png" group-title="Canais | BBB",BBB 2 FHD
+http://splaytv.io:80/xUuW52/NjyQFM/179433
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2 HD" tvg-logo="https://i.imgur.com/yTfeLir.png" group-title="Canais | BBB",BBB 2 HD
+http://splaytv.io:80/xUuW52/NjyQFM/179432
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2 SD" tvg-logo="https://i.imgur.com/yTfeLir.png" group-title="Canais | BBB",BBB 2 SD
+http://splaytv.io:80/xUuW52/NjyQFM/164580
+#EXTINF:-1 tvg-id="" tvg-name="BBB 1 HD " tvg-logo="https://i.imgur.com/yTfeLir.png" group-title="Canais | BBB",BBB 1 HD 
+http://splaytv.io:80/xUuW52/NjyQFM/147453
+#EXTINF:-1 tvg-id="" tvg-name="BBB 1 SD" tvg-logo="https://i.imgur.com/yTfeLir.png" group-title="Canais | BBB",BBB 1 SD
+http://splaytv.io:80/xUuW52/NjyQFM/83802
 #EXTINF: -1 tvg-id="CAMPEONATO CARIOCA 2" tvg-name="A Fazenda [CAM 5]" tvg-logo="https://loopstatic.net/afazenda.png" group-title="Canais | Reality: A Fazenda", A Fazenda [CAM 5]
 http://splaytv.io:80/xUuW52/NjyQFM/165426
 #EXTINF: -1 tvg-id="CAMPEONATO CARIOCA 2" tvg-name="A Fazenda [CAM 6]" tvg-logo="https://loopstatic.net/afazenda.png" group-title="Canais | Reality: A Fazenda", A Fazenda [CAM 6]
