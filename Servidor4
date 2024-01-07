@@ -1,4 +1,8 @@
-#EXTM3U 
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="BBB 01 HD" tvg-logo="https://s2-g1.glbimg.com/NIo-BB9BenJECZzarEmJRSLQAL0=/0x0:500x281/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/F/U/TwmFEOQqq4ZmbYikUAkQ/bbb-24.jpg" group-title=" Canais | BBB 24",BBB 01 HD
+http://rdns.tv:80/5198751910/0978456459/331947
+#EXTINF:-1 tvg-id="" tvg-name="BBB Day HD" tvg-logo="https://s2-g1.glbimg.com/NIo-BB9BenJECZzarEmJRSLQAL0=/0x0:500x281/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2024/F/U/TwmFEOQqq4ZmbYikUAkQ/bbb-24.jpg" group-title=" Canais | BBB 24",BBB Day HD
+http://rdns.tv:80/5198751910/0978456459/338361
 #EXTINF: -1 tvg-name="A FAMÍLIA DINOSSAURO 24HR" tvg-logo="https://4.bp.blogspot.com/-34pwCpuCa44/U-ZefCjkaUI/AAAAAAABnTE/WOQ4ebNwszo/s1600/0.jpg" group-title="CANAIS | DESENHOS 24 HRS", A FAMÍLIA DINOSSAURO 24HR
 http://gameplay.p2sweb.me:80/marina04x/Mar2021/382989
 #EXTINF: -1 tvg-name="LOONEY TUNES 24HR" tvg-logo="https://seeklogo.com/images/L/looney-tunes-logo-A1BA4B0278-seeklogo.com.png" group-title="CANAIS | DESENHOS 24 HRS", LOONEY TUNES 24HR
