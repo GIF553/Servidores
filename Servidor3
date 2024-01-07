@@ -1,16 +1,16 @@
 #EXTM3U 
-#EXTINF: -1 tvg-id="AFazenda.br" tvg-name="A FAZENDA CAMERA 01" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="CANAIS | A FAZENDA 2023", A FAZENDA CAMERA 01
-http://gameplay.p2sweb.me:80/xavs32/4521ars/379843
-#EXTINF: -1 tvg-id="AFazenda.br" tvg-name="A FAZENDA CAMERA 02" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="CANAIS | A FAZENDA 2023", A FAZENDA CAMERA 02
-http://gameplay.p2sweb.me:80/xavs32/4521ars/379844
-#EXTINF: -1 tvg-id="AFazenda.br" tvg-name="A FAZENDA CAMERA 03" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="CANAIS | A FAZENDA 2023", A FAZENDA CAMERA 03
-http://gameplay.p2sweb.me:80/xavs32/4521ars/379845
-#EXTINF: -1 tvg-id="AFazenda.br" tvg-name="A FAZENDA CAMERA 04" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="CANAIS | A FAZENDA 2023", A FAZENDA CAMERA 04
-http://gameplay.p2sweb.me:80/xavs32/4521ars/379846
-#EXTINF: -1 tvg-id="AFazenda.br" tvg-name="A FAZENDA CAMERA 05" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="CANAIS | A FAZENDA 2023", A FAZENDA CAMERA 05
-http://gameplay.p2sweb.me:80/xavs32/4521ars/379847
-#EXTINF: -1 tvg-id="AFazenda.br" tvg-name="A FAZENDA CAMERA 06" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Logo_A_Fazenda_-_Atual.png" group-title="CANAIS | A FAZENDA 2023", A FAZENDA CAMERA 06
-http://gameplay.p2sweb.me:80/xavs32/4521ars/380163
+#EXTINF:-1 tvg-id="" tvg-name="BBB 01" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Big_Brother_Brasil_22.png" group-title="CANAIS  BBB24",BBB 01
+http://game.shiuk.re:80/17468240519262/RBvpU5/309
+#EXTINF:-1 tvg-id="" tvg-name="BBB 02" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Big_Brother_Brasil_22.png" group-title="CANAIS  BBB24",BBB 02
+http://game.shiuk.re:80/17468240519262/RBvpU5/310
+#EXTINF:-1 tvg-id="" tvg-name="BBB 03" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Big_Brother_Brasil_22.png" group-title="CANAIS  BBB24",BBB 03
+http://game.shiuk.re:80/17468240519262/RBvpU5/311
+#EXTINF:-1 tvg-id="" tvg-name="BBB 04" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Big_Brother_Brasil_22.png" group-title="CANAIS  BBB24",BBB 04
+http://game.shiuk.re:80/17468240519262/RBvpU5/312
+#EXTINF:-1 tvg-id="" tvg-name="BBB 05" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Big_Brother_Brasil_22.png" group-title="CANAIS  BBB24",BBB 05
+http://game.shiuk.re:80/17468240519262/RBvpU5/313
+#EXTINF:-1 tvg-id="" tvg-name="BBB 06" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Big_Brother_Brasil_22.png" group-title="CANAIS  BBB24",BBB 06
+http://game.shiuk.re:80/17468240519262/RBvpU5/314
 #EXTINF: -1 tvg-name="GOAT 03 PPV" tvg-logo="https://canalgoat.com.br/img/logo-composite.png" group-title="CANAIS | PPV", GOAT 03 PPV
 http://gameplay.p2sweb.me:80/xavs32/4521ars/364379
 #EXTINF: -1 tvg-name="GOAT 02 PPV" tvg-logo="https://canalgoat.com.br/img/logo-composite.png" group-title="CANAIS | PPV", GOAT 02 PPV
