@@ -1,4 +1,5 @@
-#EXTM3U
+#EXTM3U x-tvg-url="http://meumd.com:80/xmltv.php?username=11982585081&password=119825"
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagembr.top/imagemservidor/filmes4/rubblecapa.png" tvg-name="RUBBLE & CREW 24 HORAS" group-title="CANAIS | INFANTIL 24HRS",RUBBLE & CREW 24 HORAS
 http://meumd.com:80/11982585081/119825/260094
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="OS SIMPSONS 24HS" group-title="CANAIS | INFANTIL 24HRS",OS SIMPSONS 24HS
