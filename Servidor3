@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://7forever.xyz:8080/get.php?username=dxkpkm&password=kardob"
+#EXTM3U x-tvg-url="http://7forever.xyz:8080/xmltv.php?username=dxkpkm&password=kardob"
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/OISxiqs.png" tvg-name="BBB 01 HD¹" group-title="CANAIS | BBB 2024",BBB 01 HD¹
 http://7forever.xyz:8080/dxkpkm/kardob/326575
