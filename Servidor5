@@ -1,4 +1,5 @@
-#EXTM3U
+#EXTM3U x-tvg-url="http://splaytv.io:80/xmltv.php?username=xUuW52&password=NjyQFM"
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/E2Ahelv.png" tvg-name="Cazé TV FHD" group-title="Canais | Esportes PPV",Cazé TV FHD
 http://splaytv.io:80/xUuW52/NjyQFM/164640
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/E2Ahelv.png" tvg-name="Cazé TV HD" group-title="Canais | Esportes PPV",Cazé TV HD
