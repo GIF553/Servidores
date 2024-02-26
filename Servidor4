@@ -1,4 +1,5 @@
-#EXTM3U
+#EXTM3U x-tvg-url="http://5ce.co:80/get.php?username=rfgui&password=gui171"
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://fivetv.xyz/logos/bbb.png" tvg-name="BBB 01" group-title="BBB 24",BBB 01
 http://5ce.co:80/rfgui/gui171/230366
 #EXTINF:-1 tvg-id="" tvg-logo="https://fivetv.xyz/logos/bbb.png" tvg-name="BBB 02" group-title="BBB 24",BBB 02
