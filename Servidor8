@@ -1,4 +1,5 @@
-#EXTM3U
+#EXTM3U x-tvg-url="http://uniplay.link:80/xmltv.php?username=203301883&password=9713457"
+
 #EXTINF:-1 tvg-id="Sportv.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" tvg-name="SPORTV 4K" group-title="Canais | 4K",SPORTV 4K
 http://uniplay.link:80/203301883/9713457/284576
 #EXTINF:-1 tvg-id="Premierefchd.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PREMIERE.png" tvg-name="Premiere Clubes 4K " group-title="Canais | 4K",Premiere Clubes 4K
