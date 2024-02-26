@@ -1,4 +1,5 @@
-#EXTM3U
+#EXTM3U x-tvg-url="http://pkweb.ca:80/xmltv.php?username=markiviox&password=12306090"
+
 #EXTINF:-1 tvg-id="a.e.br" tvg-logo="http://im.pkweb.ca:80/images/a2a50e6364e5e8b1af46d43d60750367.png" tvg-name="A&E FHD" group-title="Canais | Filmes e Séries",A&E FHD
 http://pkweb.ca:80/live/markiviox/12306090/19.m3u8
 #EXTINF:-1 tvg-id="a.e.br" tvg-logo="http://im.pkweb.ca:80/images/a2a50e6364e5e8b1af46d43d60750367.png" tvg-name="A&E FHD [H265]" group-title="Canais | Filmes e Séries",A&E FHD [H265]
