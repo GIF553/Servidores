@@ -453,7 +453,7 @@ http://liebetv.me:80/live/11976694554/101217/4110.m3u8
 #EXTINF:-1 tvg-id="comedy.central.br" tvg-logo="https://liebeurl.me/logos/comedycentral.png" tvg-name="Comedy Central FHD [H265]" group-title="Canais | Variedades",Comedy Central FHD [H265]
 http://liebetv.me:80/live/11976694554/101217/71032.m3u8
 #EXTINF:-1 tvg-id="comedy.central.br" tvg-logo="https://liebeurl.me/logos/comedycentral.png" tvg-name="Comedy Central HD" group-title="Canais | Variedades",Comedy Central HD
-http://liebetv.me:80/live/11976694554/101217/4112.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=GIF PEG TV&maxbitrate=0&buffer=20191129153332&url=http://liebetv.me:80/live/11976694554/101217/4112.m3u8
 #EXTINF:-1 tvg-id="comedy.central.br" tvg-logo="https://liebeurl.me/logos/comedycentral.png" tvg-name="Comedy Central SD" group-title="Canais | Variedades",Comedy Central SD
 http://liebetv.me:80/live/11976694554/101217/4113.m3u8
 #EXTINF:-1 tvg-id="curta.br" tvg-logo="https://liebeurl.me/logos/curta.png" tvg-name="Curta! FHD" group-title="Canais | Variedades",Curta! FHD
