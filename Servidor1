@@ -537,7 +537,7 @@ http://liebetv.me:80/live/11976694554/101217/4164.m3u8
 #EXTINF:-1 tvg-id="mtv.br" tvg-logo="https://liebeurl.me/logos/mtv.png" tvg-name="MTV FHD [H265]" group-title="Canais | Variedades",MTV FHD [H265]
 http://liebetv.me:80/live/11976694554/101217/71076.m3u8
 #EXTINF:-1 tvg-id="mtv.br" tvg-logo="https://liebeurl.me/logos/mtv.png" tvg-name="MTV HD" group-title="Canais | Variedades",MTV HD
-http://liebetv.me:80/live/11976694554/101217/4159.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GIF PEG TV&maxbitrate=0&buffer=20191129153332&url=http://liebetv.me:80/live/11976694554/101217/4159.ts
 #EXTINF:-1 tvg-id="mtv.live.br" tvg-logo="https://liebeurl.me/logos/mtv.png" tvg-name="MTV Live HD" group-title="Canais | Variedades",MTV Live HD
 http://liebetv.me:80/live/11976694554/101217/67148.m3u8
 #EXTINF:-1 tvg-id="mtv.br" tvg-logo="https://liebeurl.me/logos/mtv.png" tvg-name="MTV SD" group-title="Canais | Variedades",MTV SD
