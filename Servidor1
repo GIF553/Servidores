@@ -445,7 +445,7 @@ http://liebetv.me:80/live/11976694554/101217/4104.m3u8
 #EXTINF:-1 tvg-id="bis.br" tvg-logo="https://liebeurl.me/logos/bis.png" tvg-name="BIS FHD [H265]" group-title="Canais | Variedades",BIS FHD [H265]
 http://liebetv.me:80/live/11976694554/101217/71024.m3u8
 #EXTINF:-1 tvg-id="bis.br" tvg-logo="https://liebeurl.me/logos/bis.png" tvg-name="BIS HD" group-title="Canais | Variedades",BIS HD
-http://liebetv.me:80/live/11976694554/101217/4106.m3u8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GIF PEG TV&maxbitrate=0&buffer=20191129153332&url=http://liebetv.me:80/11976694554/101217/4106
 #EXTINF:-1 tvg-id="bis.br" tvg-logo="https://liebeurl.me/logos/bis.png" tvg-name="BIS SD" group-title="Canais | Variedades",BIS SD
 http://liebetv.me:80/live/11976694554/101217/4107.m3u8
 #EXTINF:-1 tvg-id="comedy.central.br" tvg-logo="https://liebeurl.me/logos/comedycentral.png" tvg-name="Comedy Central FHD" group-title="Canais | Variedades",Comedy Central FHD
