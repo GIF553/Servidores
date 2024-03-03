@@ -736,7 +736,7 @@ http://dns.panela.online:80/1197377vinicius/viniciusbrtv41/46988
 #EXTINF:-1 tvg-id="a.e.br" tvg-logo="http://dns.panela.online:80/images/78805a221a988e79ef3f42d7c5bfd418.png" tvg-name="A&E FHD" group-title="VARIEDADES & MÚSICAS",A&E FHD
 http://dns.panela.online:80/1197377vinicius/viniciusbrtv41/45616
 #EXTINF:-1 tvg-id="a.e.br" tvg-logo="http://dns.panela.online:80/images/78805a221a988e79ef3f42d7c5bfd418.png" tvg-name="A&E HD" group-title="VARIEDADES & MÚSICAS",A&E HD
-http://dns.panela.online:80/1197377vinicius/viniciusbrtv41/45842
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GIF PEG TV&maxbitrate=0&buffer=20191129153332&url=http://dns.panela.online:80/1197377vinicius/viniciusbrtv41/45842
 #EXTINF:-1 tvg-id="a.e.br" tvg-logo="http://dns.panela.online:80/images/78805a221a988e79ef3f42d7c5bfd418.png" tvg-name="A&E" group-title="VARIEDADES & MÚSICAS",A&E
 http://dns.panela.online:80/1197377vinicius/viniciusbrtv41/45841
 #EXTINF:-1 tvg-id="a.e.br" tvg-logo="http://dns.panela.online:80/images/78805a221a988e79ef3f42d7c5bfd418.png" tvg-name="A&E ALTERNATIVO HD" group-title="VARIEDADES & MÚSICAS",A&E ALTERNATIVO HD
