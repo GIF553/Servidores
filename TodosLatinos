@@ -49,4 +49,12 @@
 <externallink>http://zeuspro.xyz:8080/get.php?username=marcerojas1&password=Rr92e9FDvG&type=m3u_plus</externallink>
 </channel>
 
+<channel>
+<name>[B][COLOR red]TESTES[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/AeaVwsA.jpg</thumbnail>
+<fanart>https://i.imgur.com/AeaVwsA.jpg</fanart>
+<info>[COLOR blue]LATINOS[/COLOR]</info>
+<externallink>https://raw.githubusercontent.com/GIF553/Servidores/main/teste</externallink>
+</channel>
+
 </channels>
