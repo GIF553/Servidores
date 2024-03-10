@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="http://deylertv.xyz:80/xmltv.php?username=amaropa&password=75988146520"
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3PgIIPD.png" tvg-name="PAULISTÃO 01" group-title="Canais •  ESTADUAIS 24",PAULISTÃO 01
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://deylertv.xyz:80/live/amaropa/75988146520/2015263.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3PgIIPD.png" tvg-name="PAULISTÃO 02" group-title="Canais •  ESTADUAIS 24",PAULISTÃO 02
