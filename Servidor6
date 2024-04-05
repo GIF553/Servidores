@@ -1,4 +1,354 @@
 #EXTM3U
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: 24 KITCHEN" group-title="Canais | Portugal",PT: 24 KITCHEN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130171
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: 24 KITCHEN HD" group-title="Canais | Portugal",PT: 24 KITCHEN HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130172
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: 24 KITCHEN HD" group-title="Canais | Portugal",PT1: 24 KITCHEN HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130173
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: A BOLA TV" group-title="Canais | Portugal",PT1: A BOLA TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130174
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: Afro Music" group-title="Canais | Portugal",PT: Afro Music
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130176
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: AMC" group-title="Canais | Portugal",PT: AMC
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130178
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: AR TV" group-title="Canais | Portugal",PT: AR TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130181
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: AXN" group-title="Canais | Portugal",PT: AXN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130182
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: AXN BLACK" group-title="Canais | Portugal",PT: AXN BLACK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130183
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: AXN WHITE HD" group-title="Canais | Portugal",PT1: AXN WHITE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130188
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: BENFICA 4K" group-title="Canais | Portugal",PT1: BENFICA 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130197
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: BENFICA TV FHD¹" group-title="Canais | Portugal",PT: BENFICA TV FHD¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130198
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: BENFICA TV FHD" group-title="Canais | Portugal",PT1: BENFICA TV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130199
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: BENFICA TV SD" group-title="Canais | Portugal",PT1: BENFICA TV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130200
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: CACA E PESCA" group-title="Canais | Portugal",PT: CACA E PESCA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130203
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: CACAVISION" group-title="Canais | Portugal",PT: CACAVISION
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130204
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: CANAL 11¹" group-title="Canais | Portugal",PT: CANAL 11¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130205
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: CANAL 11 FHD" group-title="Canais | Portugal",PT: CANAL 11 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130207
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: CANAL HISTORIA HD" group-title="Canais | Portugal",PT1: CANAL HISTORIA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130208
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: CANAL HISTORIA SD" group-title="Canais | Portugal",PT1: CANAL HISTORIA SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130209
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: CANAL Q¹" group-title="Canais | Portugal",PT: CANAL Q¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130212
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: CANAL Q" group-title="Canais | Portugal",PT1: CANAL Q
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130213
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uMdTdEQ.png" tvg-name="PT1: CARTOON NETWORK" group-title="Canais | Portugal",PT1: CARTOON NETWORK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130215
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: CAÇA E PESCA" group-title="Canais | Portugal",PT1: CAÇA E PESCA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130217
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: CAÇA E PESCA HD" group-title="Canais | Portugal",PT1: CAÇA E PESCA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130218
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: CAÇA E PESCA SD" group-title="Canais | Portugal",PT1: CAÇA E PESCA SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130219
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: CAÇAVISION" group-title="Canais | Portugal",PT1: CAÇAVISION
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130220
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: CBS REALITY¹" group-title="Canais | Portugal",PT: CBS REALITY¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130221
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: CBS REALITY" group-title="Canais | Portugal",PT1: CBS REALITY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130222
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: CINEMUNDO" group-title="Canais | Portugal",PT: CINEMUNDO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130223
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: CINEMUNDO FHD" group-title="Canais | Portugal",PT: CINEMUNDO FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130224
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: CINEMUNDO HD" group-title="Canais | Portugal",PT1: CINEMUNDO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130225
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: CINEMUNDO SD" group-title="Canais | Portugal",PT1: CINEMUNDO SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130226
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: CMTV HD" group-title="Canais | Portugal",PT1: CMTV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130228
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: CMTV SD" group-title="Canais | Portugal",PT1: CMTV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130229
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: CNBC EUROPE" group-title="Canais | Portugal",PT: CNBC EUROPE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130230
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: CNN Portugal FHD" group-title="Canais | Portugal",PT: CNN Portugal FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130231
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: CRIME INVESTIGATION¹" group-title="Canais | Portugal",PT: CRIME INVESTIGATION¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130232
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: CRIME INVESTIGATION" group-title="Canais | Portugal",PT1: CRIME INVESTIGATION
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130233
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: DISCOVERY CHANNEL" group-title="Canais | Portugal",PT: DISCOVERY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130236
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: DISNEY CHANNEL" group-title="Canais | Portugal",PT: DISNEY CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130237
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: DISNEY JUNIOR¹" group-title="Canais | Portugal",PT: DISNEY JUNIOR¹
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130239
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: DOG TV HD" group-title="Canais | Portugal",PT: DOG TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130241
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: E! ENTERTAINMENT" group-title="Canais | Portugal",PT: E! ENTERTAINMENT
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130243
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: ELEVEN SPORTS 3²" group-title="Canais | Portugal",PT: ELEVEN SPORTS 3²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130251
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: ELEVEN SPORTS 4²" group-title="Canais | Portugal",PT: ELEVEN SPORTS 4²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130254
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: ELEVEN SPORTS 5²" group-title="Canais | Portugal",PT: ELEVEN SPORTS 5²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130256
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: ELEVEN SPORTS 6²" group-title="Canais | Portugal",PT1: ELEVEN SPORTS 6²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130259
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: EUROSPORT 1 FHD" group-title="Canais | Portugal",PT: EUROSPORT 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130264
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: FOOD NETWORK" group-title="Canais | Portugal",PT: FOOD NETWORK
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130268
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: FOX COMEDY" group-title="Canais | Portugal",PT: FOX COMEDY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130272
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: FOX COMEDY FHD" group-title="Canais | Portugal",PT: FOX COMEDY FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130273
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: FOX CRIME" group-title="Canais | Portugal",PT: FOX CRIME
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130276
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: FOX CRIME FHD" group-title="Canais | Portugal",PT: FOX CRIME FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130277
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: FOX CRIME HD" group-title="Canais | Portugal",PT1: FOX CRIME HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130278
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: FOX FHD" group-title="Canais | Portugal",PT: FOX FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130280
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: FOX HD" group-title="Canais | Portugal",PT1: FOX HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130281
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: FOX LIFE" group-title="Canais | Portugal",PT: FOX LIFE
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130282
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: FOX LIFE FHD" group-title="Canais | Portugal",PT: FOX LIFE FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130283
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: FOX LIFE HD" group-title="Canais | Portugal",PT1: FOX LIFE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130284
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: FOX LIFE SD" group-title="Canais | Portugal",PT1: FOX LIFE SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130285
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: FOX MOVIES FHD" group-title="Canais | Portugal",PT: FOX MOVIES FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130287
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: FOX MOVIES HD" group-title="Canais | Portugal",PT1: FOX MOVIES HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130288
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: FOX MOVIES SD" group-title="Canais | Portugal",PT1: FOX MOVIES SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130289
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: FOX SD" group-title="Canais | Portugal",PT1: FOX SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130290
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: FUEL TV" group-title="Canais | Portugal",PT1: FUEL TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130293
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: GLOBO" group-title="Canais | Portugal",PT: GLOBO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130294
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: GLOBO" group-title="Canais | Portugal",PT1: GLOBO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130295
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: Globo Backup 2" group-title="Canais | Portugal",PT: Globo Backup 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130296
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: GLOBO NOW" group-title="Canais | Portugal",PT: GLOBO NOW
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130297
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: GLOBO NOW" group-title="Canais | Portugal",PT1: GLOBO NOW
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130298
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: HISTORIA" group-title="Canais | Portugal",PT: HISTORIA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130299
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: HOLLYWOOD FHD" group-title="Canais | Portugal",PT: HOLLYWOOD FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130300
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: HOLLYWOOD HD" group-title="Canais | Portugal",PT1: HOLLYWOOD HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130301
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: HOLLYWOOD SD" group-title="Canais | Portugal",PT1: HOLLYWOOD SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130302
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: ID INVESTIGATION DISCOVERY" group-title="Canais | Portugal",PT: ID INVESTIGATION DISCOVERY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130303
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: JIM JAM" group-title="Canais | Portugal",PT: JIM JAM
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130305
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: JIMJAM" group-title="Canais | Portugal",PT1: JIMJAM
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130306
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: MEZZO" group-title="Canais | Portugal",PT: MEZZO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130309
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: MOTORVISION" group-title="Canais | Portugal",PT: MOTORVISION
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130311
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: MOTORVISION FHD" group-title="Canais | Portugal",PT: MOTORVISION FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130312
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: MOTORVISION TV" group-title="Canais | Portugal",PT1: MOTORVISION TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130313
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: MTV PORTUGAL" group-title="Canais | Portugal",PT: MTV PORTUGAL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130314
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: MTV PORTUGAL" group-title="Canais | Portugal",PT1: MTV PORTUGAL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130315
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: NAT GEO WILD" group-title="Canais | Portugal",PT: NAT GEO WILD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130316
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: NAT GEO WILD" group-title="Canais | Portugal",PT1: NAT GEO WILD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130317
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: NICKELODEON" group-title="Canais | Portugal",PT: NICKELODEON
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130322
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: NICKELODEON" group-title="Canais | Portugal",PT1: NICKELODEON
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130323
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: NICKELODEON JUNIOR" group-title="Canais | Portugal",PT1: NICKELODEON JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130324
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: NOS STUDIOS FHD" group-title="Canais | Portugal",PT: NOS STUDIOS FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130325
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: NOS STUDIOS HD" group-title="Canais | Portugal",PT1: NOS STUDIOS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130326
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: ODISSEIA" group-title="Canais | Portugal",PT: ODISSEIA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130327
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: ODISSEIA" group-title="Canais | Portugal",PT1: ODISSEIA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130328
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: PANDA BIGS" group-title="Canais | Portugal",PT1: PANDA BIGS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130329
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: PFC" group-title="Canais | Portugal",PT: PFC
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130330
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: PORTO CANAL" group-title="Canais | Portugal",PT1: PORTO CANAL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130333
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: RTP 1 FHD" group-title="Canais | Portugal",PT: RTP 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130335
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: RTP 1 SD" group-title="Canais | Portugal",PT1: RTP 1 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130337
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: RTP 2 FHD" group-title="Canais | Portugal",PT: RTP 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130338
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: RTP 2 HD" group-title="Canais | Portugal",PT: RTP 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130339
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: RTP 2 HD" group-title="Canais | Portugal",PT1: RTP 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130340
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: RTP 2 SD" group-title="Canais | Portugal",PT1: RTP 2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130341
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: RTP 3" group-title="Canais | Portugal",PT1: RTP 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130343
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: RTP ACORES" group-title="Canais | Portugal",PT1: RTP ACORES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130344
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: RTP AFRICA" group-title="Canais | Portugal",PT: RTP AFRICA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130345
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: RTP AFRICA" group-title="Canais | Portugal",PT1: RTP AFRICA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130346
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: RTP AÇORES" group-title="Canais | Portugal",PT: RTP AÇORES
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130347
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: RTP MADEIRA" group-title="Canais | Portugal",PT: RTP MADEIRA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130348
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: RTP MADEIRA" group-title="Canais | Portugal",PT1: RTP MADEIRA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130349
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: RTP MEMORIA" group-title="Canais | Portugal",PT: RTP MEMORIA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130350
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: RTP MEMORIA" group-title="Canais | Portugal",PT1: RTP MEMORIA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130351
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: SIC CARAS" group-title="Canais | Portugal",PT1: SIC CARAS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130352
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: SIC FHD" group-title="Canais | Portugal",PT: SIC FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130353
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: SIC HD" group-title="Canais | Portugal",PT1: SIC HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130354
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: SIC K" group-title="Canais | Portugal",PT: SIC K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130355
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: SIC K" group-title="Canais | Portugal",PT1: SIC K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130356
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: SIC MULHER" group-title="Canais | Portugal",PT1: SIC MULHER
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130357
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: SIC NOTICIAS HD" group-title="Canais | Portugal",PT: SIC NOTICIAS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130358
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: SIC NOTÍCIAS HD" group-title="Canais | Portugal",PT1: SIC NOTÍCIAS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130359
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: SIC NOTÍCIAS SD" group-title="Canais | Portugal",PT1: SIC NOTÍCIAS SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130360
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: SIC RADICAL" group-title="Canais | Portugal",PT: SIC RADICAL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130361
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: SIC RADICAL" group-title="Canais | Portugal",PT1: SIC RADICAL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130362
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: SIC RADICAL FHD" group-title="Canais | Portugal",PT: SIC RADICAL FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130363
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: SIC SD" group-title="Canais | Portugal",PT1: SIC SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130364
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: SKY NEWS" group-title="Canais | Portugal",PT: SKY NEWS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130365
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: SKY NEWS" group-title="Canais | Portugal",PT1: SKY NEWS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130366
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: SPORTING TV" group-title="Canais | Portugal",PT: SPORTING TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130387
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: SPORTING TV" group-title="Canais | Portugal",PT1: SPORTING TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130388
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: SYFY" group-title="Canais | Portugal",PT1: SYFY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130389
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: SYFY FHD" group-title="Canais | Portugal",PT: SYFY FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130390
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: TPA INTERNACIONAL" group-title="Canais | Portugal",PT: TPA INTERNACIONAL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130393
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: TPA INTERNACIONAL" group-title="Canais | Portugal",PT1: TPA INTERNACIONAL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130394
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: TRACE TOCA" group-title="Canais | Portugal",PT: TRACE TOCA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130395
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: TRACE TOCA" group-title="Canais | Portugal",PT1: TRACE TOCA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130396
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: TRACE URBAN" group-title="Canais | Portugal",PT: TRACE URBAN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130397
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: TRACE URBAN" group-title="Canais | Portugal",PT1: TRACE URBAN
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130398
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: TRAVEL CHANNEL" group-title="Canais | Portugal",PT: TRAVEL CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130399
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: TRAVEL CHANNEL HD" group-title="Canais | Portugal",PT1: TRAVEL CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130400
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: TV GALICIA" group-title="Canais | Portugal",PT: TV GALICIA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130401
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: TV RECORD" group-title="Canais | Portugal",PT1: TV RECORD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130402
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: TV RECORD FHD" group-title="Canais | Portugal",PT: TV RECORD FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130403
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: TVCINE Action" group-title="Canais | Portugal",PT: TVCINE Action
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130404
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: TVCINE Edition" group-title="Canais | Portugal",PT: TVCINE Edition
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130408
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: TVCINE Edition HD" group-title="Canais | Portugal",PT: TVCINE Edition HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130409
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: TVCine EDITION HD" group-title="Canais | Portugal",PT1: TVCine EDITION HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130410
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: TVCINE EDITION SD" group-title="Canais | Portugal",PT1: TVCINE EDITION SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130411
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: TVCINE Emotion" group-title="Canais | Portugal",PT: TVCINE Emotion
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130412
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: TVCINE Emotion FHD" group-title="Canais | Portugal",PT: TVCINE Emotion FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130413
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: TVCine EMOTION HD" group-title="Canais | Portugal",PT1: TVCine EMOTION HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130414
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: TVCINE EMOTION SD" group-title="Canais | Portugal",PT1: TVCINE EMOTION SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130415
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: TVCINE Top FHD" group-title="Canais | Portugal",PT: TVCINE Top FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130416
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: TVCINE Top HD" group-title="Canais | Portugal",PT: TVCINE Top HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130417
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: TVCine TOP HD" group-title="Canais | Portugal",PT1: TVCine TOP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130418
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: TVCINE TOP SD" group-title="Canais | Portugal",PT1: TVCINE TOP SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130419
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: TVE INTERNACIONAL" group-title="Canais | Portugal",PT: TVE INTERNACIONAL
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130420
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: TVI FHD" group-title="Canais | Portugal",PT: TVI FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130421
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: TVI FICCAO" group-title="Canais | Portugal",PT: TVI FICCAO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130422
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: TVI FICCAO HD" group-title="Canais | Portugal",PT: TVI FICCAO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130423
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: TVI FICÇAO" group-title="Canais | Portugal",PT1: TVI FICÇAO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130424
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: TVI HD" group-title="Canais | Portugal",PT: TVI HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130425
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: TVI HD" group-title="Canais | Portugal",PT1: TVI HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130426
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: TVI REALITY" group-title="Canais | Portugal",PT: TVI REALITY
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130427
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: TVI Reality Camara 1" group-title="Canais | Portugal",PT1: TVI Reality Camara 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130428
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: TVI Reality Camara 2" group-title="Canais | Portugal",PT1: TVI Reality Camara 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130429
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: TVI Reality Camara 3" group-title="Canais | Portugal",PT1: TVI Reality Camara 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130430
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: TVI Reality Camara 4" group-title="Canais | Portugal",PT1: TVI Reality Camara 4
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130431
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: TVI Reality FHD" group-title="Canais | Portugal",PT: TVI Reality FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130432
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: TVI REALITY HD" group-title="Canais | Portugal",PT1: TVI REALITY HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130433
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: TVI REALITY SD" group-title="Canais | Portugal",PT1: TVI REALITY SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130434
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: TVI SD" group-title="Canais | Portugal",PT1: TVI SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130435
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: TVI24" group-title="Canais | Portugal",PT1: TVI24
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130437
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: VH1 MUSIC" group-title="Canais | Portugal",PT1: VH1 MUSIC
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130438
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: ZAP VIVA" group-title="Canais | Portugal",PT: ZAP VIVA
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130439
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/h7zVseY.png" tvg-name="24 KITCHEN HD" group-title="PT: Variedades",24 KITCHEN HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://bdta.pro:80/login18an/18an159753aA@/191428
 #EXTINF:-1 tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/blaze/logo.png" tvg-name="BLAZE HD" group-title="PT: Variedades",BLAZE HD
