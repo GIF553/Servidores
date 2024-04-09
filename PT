@@ -1,76 +1,76 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="" group-title="Portugal",PT: SPORT TV 1 FHD
-http://117tv.icu:8080/brice@rogers/790@097/167742
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://117tv.icu:8080/brice@rogers/790@097/167742
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 HD" tvg-logo="" group-title="Portugal",PT: SPORT TV 2 HD
-http://117tv.icu:8080/brice@rogers/790@097/167743
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://117tv.icu:8080/brice@rogers/790@097/167743
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 HD" tvg-logo="" group-title="Portugal",PT: SPORT TV 3 HD
-http://117tv.icu:8080/brice@rogers/790@097/167744
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://117tv.icu:8080/brice@rogers/790@097/167744
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 FHD" tvg-logo="" group-title="Portugal",PT: SPORT TV 4 FHD
-http://117tv.icu:8080/brice@rogers/790@097/167745
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://117tv.icu:8080/brice@rogers/790@097/167745
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 2 HD
-http://117tv.icu:8080/brice@rogers/790@097/167747
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://117tv.icu:8080/brice@rogers/790@097/167747
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 3 HD
-http://117tv.icu:8080/brice@rogers/790@097/167748
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://117tv.icu:8080/brice@rogers/790@097/167748
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 4 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 4 HD
-http://117tv.icu:8080/brice@rogers/790@097/167749
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://117tv.icu:8080/brice@rogers/790@097/167749
 #EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 5 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 5 HD
-http://117tv.icu:8080/brice@rogers/790@097/167750
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://117tv.icu:8080/brice@rogers/790@097/167750
 #EXTINF:-1 tvg-id="" tvg-name="PT: 24 Kitchen HD" tvg-logo="" group-title="Portugal",PT: 24 Kitchen HD
-http://117tv.icu:8080/brice@rogers/790@097/78426
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://117tv.icu:8080/brice@rogers/790@097/78426
 #EXTINF:-1 tvg-id="" tvg-name="PT: Canal Panda" tvg-logo="" group-title="Portugal",PT: Canal Panda
-http://117tv.icu:8080/brice@rogers/790@097/78446
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://117tv.icu:8080/brice@rogers/790@097/78446
 #EXTINF:-1 tvg-id="" tvg-name="PT: CMTV" tvg-logo="" group-title="Portugal",PT: CMTV
-http://117tv.icu:8080/brice@rogers/790@097/78441
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://117tv.icu:8080/brice@rogers/790@097/78441
 #EXTINF:-1 tvg-id="" tvg-name="PT: National Geographic Wild" tvg-logo="" group-title="Portugal",PT: National Geographic Wild
-http://117tv.icu:8080/brice@rogers/790@097/78425
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://117tv.icu:8080/brice@rogers/790@097/78425
 #EXTINF:-1 tvg-id="" tvg-name="PT: RTP 2 HD" tvg-logo="" group-title="Portugal",PT: RTP 2 HD
-http://117tv.icu:8080/brice@rogers/790@097/78493
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://117tv.icu:8080/brice@rogers/790@097/78493
 #EXTINF:-1 tvg-id="" tvg-name="PT: SIC" tvg-logo="" group-title="Portugal",PT: SIC
-http://117tv.icu:8080/brice@rogers/790@097/78501
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://117tv.icu:8080/brice@rogers/790@097/78501
 #EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 1" tvg-logo="" group-title="Portugal",PT: Sport TV 1
-http://117tv.icu:8080/brice@rogers/790@097/78513
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://117tv.icu:8080/brice@rogers/790@097/78513
 #EXTINF:-1 tvg-id="" tvg-name="PT: TVI" tvg-logo="" group-title="Portugal",PT: TVI
-http://117tv.icu:8080/brice@rogers/790@097/78526
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://117tv.icu:8080/brice@rogers/790@097/78526
 #EXTINF:-1 tvg-id="" tvg-name="#EXTVLCOPT:network-caching=1000" tvg-logo="" group-title="Radio Stations",#EXTVLCOPT:network-caching=1000
-http://117tv.icu:8080/brice@rogers/790@097/122682
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://117tv.icu:8080/brice@rogers/790@097/122682
 #EXTINF:-1 tvg-id="" tvg-name="PT BENFICA TV HD  (P)" tvg-logo="" group-title="Portugal",PT BENFICA TV HD  (P)
-http://117tv.icu:8080/brice@rogers/790@097/136726
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://117tv.icu:8080/brice@rogers/790@097/136726
 #EXTINF:-1 tvg-id="" tvg-name="PT: RTP 1 FHD" tvg-logo="" group-title="Portugal",PT: RTP 1 FHD
-http://117tv.icu:8080/brice@rogers/790@097/164792
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://117tv.icu:8080/brice@rogers/790@097/164792
 #EXTINF:-1 tvg-id="" tvg-name="PT: CNN HD" tvg-logo="" group-title="Portugal",PT: CNN HD
-http://117tv.icu:8080/brice@rogers/790@097/164802
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://117tv.icu:8080/brice@rogers/790@097/164802
 #EXTINF:-1 tvg-id="" tvg-name="PT: TV CINE EMOTION HD" tvg-logo="" group-title="Portugal",PT: TV CINE EMOTION HD
-http://117tv.icu:8080/brice@rogers/790@097/164808
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://117tv.icu:8080/brice@rogers/790@097/164808
 #EXTINF:-1 tvg-id="" tvg-name="PT: TV CINE ACTION FHD" tvg-logo="" group-title="Portugal",PT: TV CINE ACTION FHD
-http://117tv.icu:8080/brice@rogers/790@097/164809
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://117tv.icu:8080/brice@rogers/790@097/164809
 #EXTINF:-1 tvg-id="" tvg-name="PT: NOS STUDIOS FHD" tvg-logo="" group-title="Portugal",PT: NOS STUDIOS FHD
-http://117tv.icu:8080/brice@rogers/790@097/164811
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://117tv.icu:8080/brice@rogers/790@097/164811
 #EXTINF:-1 tvg-id="" tvg-name="PT: HOLLYWOOD FHD" tvg-logo="" group-title="Portugal",PT: HOLLYWOOD FHD
-http://117tv.icu:8080/brice@rogers/790@097/164813
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://117tv.icu:8080/brice@rogers/790@097/164813
 #EXTINF:-1 tvg-id="" tvg-name="PT: AXN WHITE FHD" tvg-logo="" group-title="Portugal",PT: AXN WHITE FHD
-http://117tv.icu:8080/brice@rogers/790@097/164815
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://117tv.icu:8080/brice@rogers/790@097/164815
 #EXTINF:-1 tvg-id="" tvg-name="PT: AXN MOVIES  HD" tvg-logo="" group-title="Portugal",PT: AXN MOVIES  HD
-http://117tv.icu:8080/brice@rogers/790@097/164818
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://117tv.icu:8080/brice@rogers/790@097/164818
 #EXTINF:-1 tvg-id="" tvg-name="PT: SYFY FHD" tvg-logo="" group-title="Portugal",PT: SYFY FHD
-http://117tv.icu:8080/brice@rogers/790@097/164821
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://117tv.icu:8080/brice@rogers/790@097/164821
 #EXTINF:-1 tvg-id="" tvg-name="PT: TV GLOBO HD" tvg-logo="" group-title="Portugal",PT: TV GLOBO HD
-http://117tv.icu:8080/brice@rogers/790@097/164824
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://117tv.icu:8080/brice@rogers/790@097/164824
 #EXTINF:-1 tvg-id="" tvg-name="PT: SIC RADICAL FHD" tvg-logo="" group-title="Portugal",PT: SIC RADICAL FHD
-http://117tv.icu:8080/brice@rogers/790@097/164826
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://117tv.icu:8080/brice@rogers/790@097/164826
 #EXTINF:-1 tvg-id="" tvg-name="PT: CLUBBING TV" tvg-logo="" group-title="BRAZIL ",PT: CLUBBING TV
-http://117tv.icu:8080/brice@rogers/790@097/164850
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://117tv.icu:8080/brice@rogers/790@097/164850
 #EXTINF:-1 tvg-id="" tvg-name="PT: ZAP VIVA FHD" tvg-logo="" group-title="BRAZIL ",PT: ZAP VIVA FHD
-http://117tv.icu:8080/brice@rogers/790@097/164853
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://117tv.icu:8080/brice@rogers/790@097/164853
 #EXTINF:-1 tvg-id="" tvg-name="PT: TPA INTERNACIONAL SD" tvg-logo="" group-title="BRAZIL ",PT: TPA INTERNACIONAL SD
-http://117tv.icu:8080/brice@rogers/790@097/164855
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://117tv.icu:8080/brice@rogers/790@097/164855
 #EXTINF:-1 tvg-id="" tvg-name="PT: TCV INTERNACIONAL" tvg-logo="" group-title="BRAZIL ",PT: TCV INTERNACIONAL
-http://117tv.icu:8080/brice@rogers/790@097/164857
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://117tv.icu:8080/brice@rogers/790@097/164857
 #EXTINF:-1 tvg-id="" tvg-name="PT: TVC CABO VERDE" tvg-logo="" group-title="BRAZIL ",PT: TVC CABO VERDE
-http://117tv.icu:8080/brice@rogers/790@097/164858
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://117tv.icu:8080/brice@rogers/790@097/164858
 #EXTINF:-1 tvg-id="" tvg-name="PT: EURONEWS" tvg-logo="" group-title="BRAZIL ",PT: EURONEWS
-http://117tv.icu:8080/brice@rogers/790@097/164859
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://117tv.icu:8080/brice@rogers/790@097/164859
 #EXTINF:-1 tvg-id="" tvg-name="PT: TVI REALITY" tvg-logo="" group-title="BRAZIL ",PT: TVI REALITY
-http://117tv.icu:8080/brice@rogers/790@097/164861
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://117tv.icu:8080/brice@rogers/790@097/164861
 
 
 
