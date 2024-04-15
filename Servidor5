@@ -1824,40 +1824,40 @@ http://game.shiuk.re:80/41167647/24747583/1174702.m3u8
 #EXTINF:-1 tvg-id="cnt.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/CNT_logo.svg/1200px-CNT_logo.svg.png" tvg-name="CNT HD" group-title="CANAIS • RELIGIOSOS",CNT HD
 http://game.shiuk.re:80/41167647/24747583/1174703.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/originals/4a/8c/06/4a8c065cd0114ea65784d92fbd500e82.png" tvg-name="Igreja Mundial IMPD FHD" group-title="CANAIS • RELIGIOSOS",Igreja Mundial IMPD FHD
-http://game.shiuk.re:80/41167647/24747583/1174704.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://game.shiuk.re:80/41167647/24747583/1174704.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://logodownload.org/wp-content/uploads/2014/10/iurd-logo.png" tvg-name="Igreja Universal HD" group-title="CANAIS • RELIGIOSOS",Igreja Universal HD
-http://game.shiuk.re:80/41167647/24747583/1174705.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://game.shiuk.re:80/41167647/24747583/1174705.m3u8
 #EXTINF:-1 tvg-id="rede.familia.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/98/Rede_Fam%C3%ADlia.png" tvg-name="Rede Familia FHD" group-title="CANAIS • RELIGIOSOS",Rede Familia FHD
-http://game.shiuk.re:80/41167647/24747583/1174706.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://game.shiuk.re:80/41167647/24747583/1174706.m3u8
 #EXTINF:-1 tvg-id="rede.genesis.br" tvg-logo="http://3.bp.blogspot.com/-FzZZDVhvkbY/VEPST1_CpoI/AAAAAAAAEwI/2nzsDQ-R3oc/s1600/Rede%2BG%C3%AAnesis%2B-%2BCDP%2BRede%2B-%2BServidor%2B3.png" tvg-name="Rede Genesis HD" group-title="CANAIS • RELIGIOSOS",Rede Genesis HD
-http://game.shiuk.re:80/41167647/24747583/1174707.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://game.shiuk.re:80/41167647/24747583/1174707.m3u8
 #EXTINF:-1 tvg-id="rede.gospel.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/ba/LGT_Rede_Gospel.png" tvg-name="Rede Gospel HD" group-title="CANAIS • RELIGIOSOS",Rede Gospel HD
-http://game.shiuk.re:80/41167647/24747583/1174708.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://game.shiuk.re:80/41167647/24747583/1174708.m3u8
 #EXTINF:-1 tvg-id="rede.super.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3b/Logo_da_Rede_Super.png" tvg-name="Rede Super HD" group-title="CANAIS • RELIGIOSOS",Rede Super HD
-http://game.shiuk.re:80/41167647/24747583/1174709.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://game.shiuk.re:80/41167647/24747583/1174709.m3u8
 #EXTINF:-1 tvg-id="rede.vida.br" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/Redevida-logo.png" tvg-name="Rede Vida HD" group-title="CANAIS • RELIGIOSOS",Rede Vida HD
-http://game.shiuk.re:80/41167647/24747583/1174710.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://game.shiuk.re:80/41167647/24747583/1174710.m3u8
 #EXTINF:-1 tvg-id="rit.br" tvg-logo="https://numerodocanal.com/wp-content/uploads/2018/12/numero-rit-tv.png" tvg-name="RIT TV FHD" group-title="CANAIS • RELIGIOSOS",RIT TV FHD
-http://game.shiuk.re:80/41167647/24747583/1174711.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://game.shiuk.re:80/41167647/24747583/1174711.m3u8
 #EXTINF:-1 tvg-id="rede.seculo.21.br" tvg-logo="http://ucsxiptv.com:8080/images/logos/rs21.png" tvg-name="RS21 FHD" group-title="CANAIS • RELIGIOSOS",RS21 FHD
-http://game.shiuk.re:80/41167647/24747583/1174712.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://game.shiuk.re:80/41167647/24747583/1174712.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://clipart.coolclips.com/480/vectors/tf05374/CoolClips_vc111513.png" tvg-name="Santuário de Fátima FHD" group-title="CANAIS • RELIGIOSOS",Santuário de Fátima FHD
-http://game.shiuk.re:80/41167647/24747583/1174713.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://game.shiuk.re:80/41167647/24747583/1174713.m3u8
 #EXTINF:-1 tvg-id="tv.aparecida.br" tvg-logo="http://ucsxiptv.com:8080/images/7e3c2ab1c99b0f45fd5e4c56754f2a78.png" tvg-name="TV Aparecida FHD" group-title="CANAIS • RELIGIOSOS",TV Aparecida FHD
-http://game.shiuk.re:80/41167647/24747583/1174714.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://game.shiuk.re:80/41167647/24747583/1174714.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TV_Evangelizar_logo_2019.png" tvg-name="TV Evangelizar HD" group-title="CANAIS • RELIGIOSOS",TV Evangelizar HD
-http://game.shiuk.re:80/41167647/24747583/1174715.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://game.shiuk.re:80/41167647/24747583/1174715.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://ucsxiptv.com:8080/images/gideoes.png" tvg-name="TV Gideoes FHD" group-title="CANAIS • RELIGIOSOS",TV Gideoes FHD
-http://game.shiuk.re:80/41167647/24747583/1174716.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://game.shiuk.re:80/41167647/24747583/1174716.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LOGO_TV_2019.png/1200px-LOGO_TV_2019.png" tvg-name="TV Imaculada FHD" group-title="CANAIS • RELIGIOSOS",TV Imaculada FHD
-http://game.shiuk.re:80/41167647/24747583/1174717.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://game.shiuk.re:80/41167647/24747583/1174717.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://tvmanabrasil.com/wp-content/uploads/2020/04/LOGO_TV_MANA_BRASIL_V4-396x108.png" tvg-name="TV Maná BR FHD" group-title="CANAIS • RELIGIOSOS",TV Maná BR FHD
-http://game.shiuk.re:80/41167647/24747583/1174718.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://game.shiuk.re:80/41167647/24747583/1174718.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvmundomaior.com.br/wp-content/uploads/2018/12/logo_rede_boa_nova-1.png" tvg-name="TV Mundo Maior HD" group-title="CANAIS • RELIGIOSOS",TV Mundo Maior HD
-http://game.shiuk.re:80/41167647/24747583/1174719.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://game.shiuk.re:80/41167647/24747583/1174719.m3u8
 #EXTINF:-1 tvg-id="tv.novo.tempo.br" tvg-logo="http://ucsxiptv.com:8080/images/361925636b1cb00c28a1c5a7a8addc20.png" tvg-name="TV Novo Tempo FHD" group-title="CANAIS • RELIGIOSOS",TV Novo Tempo FHD
-http://game.shiuk.re:80/41167647/24747583/1174720.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://game.shiuk.re:80/41167647/24747583/1174720.m3u8
 #EXTINF:-1 tvg-id="tv.novo.tempo.br" tvg-logo="http://ucsxiptv.com:8080/images/361925636b1cb00c28a1c5a7a8addc20.png" tvg-name="TV Novo Tempo HD" group-title="CANAIS • RELIGIOSOS",TV Novo Tempo HD
-http://game.shiuk.re:80/41167647/24747583/1174721.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://game.shiuk.re:80/41167647/24747583/1174721.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://ucsxiptv.com:8080/images/logos/pai.png" tvg-name="TV Pai Eterno HD" group-title="CANAIS • RELIGIOSOS",TV Pai Eterno HD
-http://game.shiuk.re:80/41167647/24747583/1174722.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&url=http://game.shiuk.re:80/41167647/24747583/1174722.m3u8
