@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="A GRANDE CONQUISTA HD" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2024/04/19/806x444/1_design_sem_nome__1_-26942421.jpg?20240422201825" group-title="CANAIS | A GRANDE CONQUISTA",A GRANDE CONQUISTA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=https://meumd.com:443/live/11982585081/119825/276898.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A GRANDE CONQUISTA 2 HD" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2024/04/19/806x444/1_design_sem_nome__1_-26942421.jpg?20240422201825" group-title="CANAIS | A GRANDE CONQUISTA",A GRANDE CONQUISTA 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=https://meumd.com:443/live/11982585081/119825/277634.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A GRANDE CONQUISTA 3 HD" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2024/04/19/806x444/1_design_sem_nome__1_-26942421.jpg?20240422201825" group-title="CANAIS | A GRANDE CONQUISTA",A GRANDE CONQUISTA 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=https://meumd.com:443/live/11982585081/119825/277635.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A GRANDE CONQUISTA 4 HD " tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2024/04/19/806x444/1_design_sem_nome__1_-26942421.jpg?20240422201825" group-title="CANAIS | A GRANDE CONQUISTA",A GRANDE CONQUISTA 4 HD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=https://meumd.com:443/live/11982585081/119825/277636.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="CANAL GOAT AL RIYADH X AL-HILAL 11H" group-title="CANAIS | JOGOS  08.03",CANAL GOAT AL RIYADH X AL-HILAL 11H
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://meumd.com:80/11982585081/119825/265182
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="CANAL GOAT STUTTGART X UNION BERLIN 16H:30" group-title="CANAIS | JOGOS  08.03",CANAL GOAT STUTTGART X UNION BERLIN 16H:30
