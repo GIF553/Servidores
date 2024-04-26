@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="A GRANDE CONQUISTA 01" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/90/A_Grande_Conquista.png" group-title=" CANAIS | A GRANDE CONQUISTA",A GRANDE CONQUISTA 01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://51.79.39.236:80/live/dkxogpkp/hopli42/608551.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A GRANDE CONQUISTA 02" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/90/A_Grande_Conquista.png" group-title=" CANAIS | A GRANDE CONQUISTA",A GRANDE CONQUISTA 02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://51.79.39.236:80/live/dkxogpkp/hopli42/608554.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A GRANDE CONQUISTA 03" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/90/A_Grande_Conquista.png" group-title=" CANAIS | A GRANDE CONQUISTA",A GRANDE CONQUISTA 03
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://51.79.39.236:80/live/dkxogpkp/hopli42/608552.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A GRANDE CONQUISTA 04" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/90/A_Grande_Conquista.png" group-title=" CANAIS | A GRANDE CONQUISTA",A GRANDE CONQUISTA 04
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://51.79.39.236:80/live/dkxogpkp/hopli42/608553.m3u8
 #EXTINF:-1 tvg-id="sony.br" tvg-logo="https://prostore.app/logos/Canalsony.png" tvg-name="SONY SD¹" group-title="CANAIS | FILMES E SERIES",SONY SD¹
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://dnsce.me:80/live/dkxogpkp/hopli42/4395.m3u8
 #EXTINF:-1 tvg-id="sony.br" tvg-logo="https://prostore.app/logos/Canalsony.png" tvg-name="SONY SD²" group-title="CANAIS | FILMES E SERIES",SONY SD²
