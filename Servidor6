@@ -1,5 +1,12 @@
 #EXTM3U
-#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="A GRANDE CONQUISTA 01" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/90/A_Grande_Conquista.png" group-title=" CANAIS | A GRANDE CONQUISTA",A GRANDE CONQUISTA 01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://51.79.39.236:80/live/n7nyvz33/htoh5gzj/608551.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A GRANDE CONQUISTA 02" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/90/A_Grande_Conquista.png" group-title=" CANAIS | A GRANDE CONQUISTA",A GRANDE CONQUISTA 02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://51.79.39.236:80/live/n7nyvz33/htoh5gzj/608554.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A GRANDE CONQUISTA 03" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/90/A_Grande_Conquista.png" group-title=" CANAIS | A GRANDE CONQUISTA",A GRANDE CONQUISTA 03
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://51.79.39.236:80/live/n7nyvz33/htoh5gzj/608552.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A GRANDE CONQUISTA 04" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/90/A_Grande_Conquista.png" group-title=" CANAIS | A GRANDE CONQUISTA",A GRANDE CONQUISTA 04
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://51.79.39.236:80/live/n7nyvz33/htoh5gzj/608553.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: 24 KITCHEN" group-title="Canais | Portugal",PT: 24 KITCHEN
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://51.79.39.236:80/n7nyvz33/htoh5gzj/130171
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: 24 KITCHEN HD" group-title="Canais | Portugal",PT: 24 KITCHEN HD
