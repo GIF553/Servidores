@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="RADIO" tvg-logo="https://i.imgur.com/sQV39uW.jpeg" group-title="RÁDIO FANTASMA",RÁDIO FANTASMA
 http://uniplay.proxytv.in/live/119228019/A298R2127Q/2600.m3u8
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BandNews HD" tvg-logo="https://liebeurl.me/logos/bandnews.png" group-title="Canais | BANDNEWS",BANDNEWS HD
+http://rdns.tv/live/d02x8aqa/xn3y9drf/3559.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A Grande Conquista 01 HD" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT04LEPSCksduIAgAgsvsc0OOnYi7UnDwRHTYcxWBkroylBAe_j" group-title="Canais | A Grande Conquista",A Grande Conquista 01 HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://rdns.tv:80/live/d02x8aqa/xn3y9drf/343213.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A Grande Conquista 02 HD" tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT04LEPSCksduIAgAgsvsc0OOnYi7UnDwRHTYcxWBkroylBAe_j" group-title="Canais | A Grande Conquista",A Grande Conquista 02 HD
