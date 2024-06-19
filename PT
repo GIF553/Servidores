@@ -936,6 +936,382 @@ http://elitemaster.space:8080/cnunotv/iptv8465/65448
 
 
 
+#EXTM3U
+#EXTINF:-1 tvg-id="RTP 1" tvg-logo="http://mylogos.xyz/LogosPT/RTP1.png" tvg-name="RTP 1" group-title="VIP PORTUGAL",RTP 1
+http://rafadnsvip.live:8080/joaogalao21/123456joao/1
+#EXTINF:-1 tvg-id="RTP 1 FHD" tvg-logo="http://mylogos.xyz/LogosPT/RTP1.png" tvg-name="RTP 1 (FullHD)" group-title="VIP PORTUGAL",RTP 1 (FullHD)
+http://rafadnsvip.live:8080/joaogalao21/123456joao/3
+#EXTINF:-1 tvg-id="RTP 2" tvg-logo="http://mylogos.xyz/LogosPT/RTP2.png" tvg-name="RTP 2" group-title="VIP PORTUGAL",RTP 2
+http://rafadnsvip.live:8080/joaogalao21/123456joao/4
+#EXTINF:-1 tvg-id="RTP 2 FHD" tvg-logo="http://mylogos.xyz/LogosPT/RTP2.png" tvg-name="RTP 2 (FullHD)" group-title="VIP PORTUGAL",RTP 2 (FullHD)
+http://rafadnsvip.live:8080/joaogalao21/123456joao/5
+#EXTINF:-1 tvg-id="SIC" tvg-logo="http://mylogos.xyz/LogosPT/SIC.png" tvg-name="SIC" group-title="VIP PORTUGAL",SIC
+http://rafadnsvip.live:8080/joaogalao21/123456joao/9142
+#EXTINF:-1 tvg-id="SIC FHD" tvg-logo="http://mylogos.xyz/LogosPT/SIC.png" tvg-name="SIC (FullHD)" group-title="VIP PORTUGAL",SIC (FullHD)
+http://rafadnsvip.live:8080/joaogalao21/123456joao/8
+#EXTINF:-1 tvg-id="TVI" tvg-logo="http://mylogos.xyz/LogosPT/TVI.png" tvg-name="TVI" group-title="VIP PORTUGAL",TVI
+http://rafadnsvip.live:8080/joaogalao21/123456joao/9
+#EXTINF:-1 tvg-id="TVI FHD" tvg-logo="http://mylogos.xyz/LogosPT/TVI.png" tvg-name="TVI (FullHD)" group-title="VIP PORTUGAL",TVI (FullHD)
+http://rafadnsvip.live:8080/joaogalao21/123456joao/225
+#EXTINF:-1 tvg-id="RTP 3" tvg-logo="http://mylogos.xyz/LogosPT/RTP3.png" tvg-name="RTP 3" group-title="VIP PORTUGAL",RTP 3
+http://rafadnsvip.live:8080/joaogalao21/123456joao/11
+#EXTINF:-1 tvg-id="RTP 3" tvg-logo="http://mylogos.xyz/LogosPT/RTP3.png" tvg-name="RTP 3 (FullHD)" group-title="VIP PORTUGAL",RTP 3 (FullHD)
+http://rafadnsvip.live:8080/joaogalao21/123456joao/22158
+#EXTINF:-1 tvg-id="SIC NOTÍCIAS" tvg-logo="http://mylogos.xyz/LogosPT/Sic.Noticias.png" tvg-name="SIC Noticias" group-title="VIP PORTUGAL",SIC Noticias
+http://rafadnsvip.live:8080/joaogalao21/123456joao/24
+#EXTINF:-1 tvg-id="SIC NOTÍCIAS FHD" tvg-logo="http://mylogos.xyz/LogosPT/Sic.Noticias.png" tvg-name="SIC Noticias (FullHD)" group-title="VIP PORTUGAL",SIC Noticias (FullHD)
+http://rafadnsvip.live:8080/joaogalao21/123456joao/25
+#EXTINF:-1 tvg-id="CNN Portugal" tvg-logo="http://mylogos.xyz/LogosPT/cnnPT.png" tvg-name="CNN Portugal" group-title="VIP PORTUGAL",CNN Portugal
+http://rafadnsvip.live:8080/joaogalao21/123456joao/26
+#EXTINF:-1 tvg-id="CNN Portugal FHD" tvg-logo="http://mylogos.xyz/LogosPT/cnnPT.png" tvg-name="CNN Portugal (FullHD)" group-title="VIP PORTUGAL",CNN Portugal (FullHD)
+http://rafadnsvip.live:8080/joaogalao21/123456joao/269
+#EXTINF:-1 tvg-id="CMTV" tvg-logo="http://mylogos.xyz/LogosPT/CMtv.png" tvg-name="CMTV" group-title="VIP PORTUGAL",CMTV
+http://rafadnsvip.live:8080/joaogalao21/123456joao/22
+#EXTINF:-1 tvg-id="CMTV FHD" tvg-logo="http://mylogos.xyz/LogosPT/CMtv.png" tvg-name="CMTV (FullHD)" group-title="VIP PORTUGAL",CMTV (FullHD)
+http://rafadnsvip.live:8080/joaogalao21/123456joao/23
+#EXTINF:-1 tvg-id="PORTO CANAL" tvg-logo="http://mylogos.xyz/LogosPT/Porto.Canal.png" tvg-name="Porto Canal" group-title="VIP PORTUGAL",Porto Canal
+http://rafadnsvip.live:8080/joaogalao21/123456joao/65
+#EXTINF:-1 tvg-id="PORTO CANAL FHD" tvg-logo="http://mylogos.xyz/LogosPT/Porto.Canal.1080p.png" tvg-name="Porto Canal (FullHD)" group-title="VIP PORTUGAL",Porto Canal (FullHD)
+http://rafadnsvip.live:8080/joaogalao21/123456joao/23281
+#EXTINF:-1 tvg-id="SIC MULHER" tvg-logo="http://mylogos.xyz/LogosPT/SIC.Mulher.png" tvg-name="SIC Mulher" group-title="VIP PORTUGAL",SIC Mulher
+http://rafadnsvip.live:8080/joaogalao21/123456joao/17
+#EXTINF:-1 tvg-id="SIC MULHER FHD" tvg-logo="http://mylogos.xyz/LogosPT/SIC.Mulher.png" tvg-name="SIC Mulher (FullHD)" group-title="VIP PORTUGAL",SIC Mulher (FullHD)
+http://rafadnsvip.live:8080/joaogalao21/123456joao/24261
+#EXTINF:-1 tvg-id="SIC RADICAL" tvg-logo="http://mylogos.xyz/LogosPT/SIC.Radical.png" tvg-name="SIC Radical" group-title="VIP PORTUGAL",SIC Radical
+http://rafadnsvip.live:8080/joaogalao21/123456joao/16
+#EXTINF:-1 tvg-id="SIC RADICAL FHD" tvg-logo="http://mylogos.xyz/LogosPT/SIC.Radical.png" tvg-name="SIC Radical (FullHD)" group-title="VIP PORTUGAL",SIC Radical (FullHD)
+http://rafadnsvip.live:8080/joaogalao21/123456joao/22165
+#EXTINF:-1 tvg-id="SIC CARAS" tvg-logo="http://mylogos.xyz/LogosPT/SIC.Caras.png" tvg-name="SIC Caras" group-title="VIP PORTUGAL",SIC Caras
+http://rafadnsvip.live:8080/joaogalao21/123456joao/18
+#EXTINF:-1 tvg-id="SIC CARAS FHD" tvg-logo="http://mylogos.xyz/LogosPT/SIC.Caras.1080p.png" tvg-name="SIC Caras (FullHD)" group-title="VIP PORTUGAL",SIC Caras (FullHD)
+http://rafadnsvip.live:8080/joaogalao21/123456joao/30029
+#EXTINF:-1 tvg-id="TVI FICÇÃO" tvg-logo="http://mylogos.xyz/LogosPT/TVI.Ficcao.png" tvg-name="TVI Ficção" group-title="VIP PORTUGAL",TVI Ficção
+http://rafadnsvip.live:8080/joaogalao21/123456joao/21
+#EXTINF:-1 tvg-id="TVI FICÇÃO HD" tvg-logo="http://mylogos.xyz/LogosPT/TVI.Ficcao.1080p.png" tvg-name="TVI Ficção (FullHD)" group-title="VIP PORTUGAL",TVI Ficção (FullHD)
+http://rafadnsvip.live:8080/joaogalao21/123456joao/20843
+#EXTINF:-1 tvg-id="RTP ÁFRICA" tvg-logo="http://mylogos.xyz/LogosPT/RTP.Africa.png" tvg-name="RTP Africa" group-title="VIP PORTUGAL",RTP Africa
+http://rafadnsvip.live:8080/joaogalao21/123456joao/12
+#EXTINF:-1 tvg-id="RTP MADEIRA" tvg-logo="http://mylogos.xyz/LogosPT/RTP.Madeira.png" tvg-name="RTP Madeira" group-title="VIP PORTUGAL",RTP Madeira
+http://rafadnsvip.live:8080/joaogalao21/123456joao/15
+#EXTINF:-1 tvg-id="RTP AÇORES" tvg-logo="http://mylogos.xyz/LogosPT/RTP.Acores.png" tvg-name="RTP Açores" group-title="VIP PORTUGAL",RTP Açores
+http://rafadnsvip.live:8080/joaogalao21/123456joao/13
+#EXTINF:-1 tvg-id="RTP MEMÓRIA" tvg-logo="http://mylogos.xyz/LogosPT/RTP.Memoria.png" tvg-name="RTP Memória" group-title="VIP PORTUGAL",RTP Memória
+http://rafadnsvip.live:8080/joaogalao21/123456joao/14
+#EXTINF:-1 tvg-id="TVI REALITY" tvg-logo="http://mylogos.xyz/LogosPT/TVI.Reality.png" tvg-name="TVI Reality" group-title="VIP PORTUGAL",TVI Reality
+http://rafadnsvip.live:8080/joaogalao21/123456joao/20
+#EXTINF:-1 tvg-id="TVI REALITY" tvg-logo="http://mylogos.xyz/LogosPT/TVI.Reality.png" tvg-name="TVI Reality (FullHD)" group-title="VIP PORTUGAL",TVI Reality (FullHD)
+http://rafadnsvip.live:8080/joaogalao21/123456joao/21593
+#EXTINF:-1 tvg-id="TVI REALITY MOSAICO" tvg-logo="http://mylogos.xyz/LogosPT/TVI.Reality.Mosaico.png" tvg-name="TVI Reality ✬Mosaico✬" group-title="VIP PORTUGAL",TVI Reality ✬Mosaico✬
+http://rafadnsvip.live:8080/joaogalao21/123456joao/30330
+#EXTINF:-1 tvg-id="TVI REALITY CAMERA 1" tvg-logo="http://mylogos.xyz/LogosPT/TVI.Reality.Cam1.png" tvg-name="TVI Reality ✬Camera 1✬" group-title="VIP PORTUGAL",TVI Reality ✬Camera 1✬
+http://rafadnsvip.live:8080/joaogalao21/123456joao/30331
+#EXTINF:-1 tvg-id="TVI REALITY CAMERA 2" tvg-logo="http://mylogos.xyz/LogosPT/TVI.Reality.Cam2.png" tvg-name="TVI Reality ✬Camera 2✬" group-title="VIP PORTUGAL",TVI Reality ✬Camera 2✬
+http://rafadnsvip.live:8080/joaogalao21/123456joao/30332
+#EXTINF:-1 tvg-id="TVI REALITY CAMERA 3" tvg-logo="http://mylogos.xyz/LogosPT/TVI.Reality.Cam3.png" tvg-name="TVI Reality ✬Camera 3✬" group-title="VIP PORTUGAL",TVI Reality ✬Camera 3✬
+http://rafadnsvip.live:8080/joaogalao21/123456joao/30333
+#EXTINF:-1 tvg-id="TVI REALITY CAMERA 4" tvg-logo="http://mylogos.xyz/LogosPT/TVI.Reality.Cam4.png" tvg-name="TVI Reality ✬Camera 4✬" group-title="VIP PORTUGAL",TVI Reality ✬Camera 4✬
+http://rafadnsvip.live:8080/joaogalao21/123456joao/76344
+#EXTINF:-1 tvg-id="GLOBO" tvg-logo="http://mylogos.xyz/LogosPT/Globo.png" tvg-name="Globo" group-title="VIP PORTUGAL",Globo
+http://rafadnsvip.live:8080/joaogalao21/123456joao/164
+#EXTINF:-1 tvg-id="A BOLA" tvg-logo="http://mylogos.xyz/LogosPT/aBolaTV.png" tvg-name="A Bola TV" group-title="VIP PORTUGAL",A Bola TV
+http://rafadnsvip.live:8080/joaogalao21/123456joao/27
+#EXTINF:-1 tvg-id="A BOLA FHD" tvg-logo="http://mylogos.xyz/LogosPT/aBolaTV.png" tvg-name="A Bola TV (FullHD)" group-title="VIP PORTUGAL",A Bola TV (FullHD)
+http://rafadnsvip.live:8080/joaogalao21/123456joao/22167
+#EXTINF:-1 tvg-id="CANAL 11" tvg-logo="http://mylogos.xyz/LogosPT/Canal11.png" tvg-name="CANAL 11" group-title="VIP PORTUGAL",CANAL 11
+http://rafadnsvip.live:8080/joaogalao21/123456joao/23282
+#EXTINF:-1 tvg-id="CANAL 11" tvg-logo="http://mylogos.xyz/LogosPT/Canal11.png" tvg-name="Canal 11 (FullHD)" group-title="VIP PORTUGAL",Canal 11 (FullHD)
+http://rafadnsvip.live:8080/joaogalao21/123456joao/32
+#EXTINF:-1 tvg-id="SPORT TV+" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV+.png" tvg-name="Sport TV+" group-title="VIP PORTUGAL",Sport TV+
+http://rafadnsvip.live:8080/joaogalao21/123456joao/34
+#EXTINF:-1 tvg-id="SPORT TV+ FHD" tvg-logo="http://mylogos.xyz/LogosPT/SportTV+.png" tvg-name="Sport TV+ (FullHD)" group-title="VIP PORTUGAL",Sport TV+ (FullHD)
+http://rafadnsvip.live:8080/joaogalao21/123456joao/35
+#EXTINF:-1 tvg-id="SPORT TV 1" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV1.png" tvg-name="Sport TV 1" group-title="VIP PORTUGAL",Sport TV 1
+http://rafadnsvip.live:8080/joaogalao21/123456joao/36
+#EXTINF:-1 tvg-id="SPORT TV 1 FHD" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV1.png" tvg-name="Sport TV 1 (FullHD)" group-title="VIP PORTUGAL",Sport TV 1 (FullHD)
+http://rafadnsvip.live:8080/joaogalao21/123456joao/49
+#EXTINF:-1 tvg-id="SPORT TV 1 HD" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV1.1080p.png" tvg-name="Sport TV 1 ✬Alternativa✬" group-title="VIP PORTUGAL",Sport TV 1 ✬Alternativa✬
+http://rafadnsvip.live:8080/joaogalao21/123456joao/31013
+#EXTINF:-1 tvg-id="SPORT TV 1 HD" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV1.H265.png" tvg-name="Sport TV 1 ✬H265✬" group-title="VIP PORTUGAL",Sport TV 1 ✬H265✬
+http://rafadnsvip.live:8080/joaogalao21/123456joao/22171
+#EXTINF:-1 tvg-id="SPORT TV 2" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV2.png" tvg-name="Sport TV 2" group-title="VIP PORTUGAL",Sport TV 2
+http://rafadnsvip.live:8080/joaogalao21/123456joao/37
+#EXTINF:-1 tvg-id="SPORT TV 2 FHD" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV2.png" tvg-name="Sport TV 2 (FullHD)" group-title="VIP PORTUGAL",Sport TV 2 (FullHD)
+http://rafadnsvip.live:8080/joaogalao21/123456joao/50
+#EXTINF:-1 tvg-id="SPORT TV 3" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV3.png" tvg-name="Sport TV 3" group-title="VIP PORTUGAL",Sport TV 3
+http://rafadnsvip.live:8080/joaogalao21/123456joao/38
+#EXTINF:-1 tvg-id="SPORT TV 3 FHD" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV3.png" tvg-name="Sport TV 3 (FullHD)" group-title="VIP PORTUGAL",Sport TV 3 (FullHD)
+http://rafadnsvip.live:8080/joaogalao21/123456joao/51
+#EXTINF:-1 tvg-id="SPORT TV 4" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV4.png" tvg-name="Sport TV 4" group-title="VIP PORTUGAL",Sport TV 4
+http://rafadnsvip.live:8080/joaogalao21/123456joao/39
+#EXTINF:-1 tvg-id="SPORT TV 4 FHD" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV4.png" tvg-name="Sport TV 4 (FullHD)" group-title="VIP PORTUGAL",Sport TV 4 (FullHD)
+http://rafadnsvip.live:8080/joaogalao21/123456joao/14143
+#EXTINF:-1 tvg-id="SPORT TV 5" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV5.png" tvg-name="Sport TV 5" group-title="VIP PORTUGAL",Sport TV 5
+http://rafadnsvip.live:8080/joaogalao21/123456joao/40
+#EXTINF:-1 tvg-id="SPORT TV 5 FHD" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV5.1080P.png" tvg-name="Sport TV 5 (FullHD)" group-title="VIP PORTUGAL",Sport TV 5 (FullHD)
+http://rafadnsvip.live:8080/joaogalao21/123456joao/283
+#EXTINF:-1 tvg-id="SPORT TV 6" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV6.png" tvg-name="Sport TV 6" group-title="VIP PORTUGAL",Sport TV 6
+http://rafadnsvip.live:8080/joaogalao21/123456joao/73258
+#EXTINF:-1 tvg-id="SPORT TV 6 FHD" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV6.png" tvg-name="Sport TV 6 (FullHD)" group-title="VIP PORTUGAL",Sport TV 6 (FullHD)
+http://rafadnsvip.live:8080/joaogalao21/123456joao/73259
+#EXTINF:-1 tvg-id="SPORT TV NBA FHD" tvg-logo="http://mylogos.xyz/LogosPT/Sport.TV.NBA.1080P.png" tvg-name="Sport TV NBA" group-title="VIP PORTUGAL",Sport TV NBA
+http://rafadnsvip.live:8080/joaogalao21/123456joao/41
+#EXTINF:-1 tvg-id="BTV" tvg-logo="http://mylogos.xyz/LogosPT/BenficaTV.png" tvg-name="Benfica TV" group-title="VIP PORTUGAL",Benfica TV
+http://rafadnsvip.live:8080/joaogalao21/123456joao/29
+#EXTINF:-1 tvg-id="BTV FHD" tvg-logo="http://mylogos.xyz/LogosPT/BenficaTV.1080p.png" tvg-name="Benfica TV (FullHD)" group-title="VIP PORTUGAL",Benfica TV (FullHD)
+http://rafadnsvip.live:8080/joaogalao21/123456joao/30
+#EXTINF:-1 tvg-id="BTV HD" tvg-logo="http://mylogos.xyz/LogosPT/BenficaTV.1080p.png" tvg-name="Benfica TV ✬Alternativa✬" group-title="VIP PORTUGAL",Benfica TV ✬Alternativa✬
+http://rafadnsvip.live:8080/joaogalao21/123456joao/31016
+#EXTINF:-1 tvg-id="BTV HD" tvg-logo="http://mylogos.xyz/LogosPT/BenficaTV.H265.png" tvg-name="Benfica TV ✬H265✬" group-title="VIP PORTUGAL",Benfica TV ✬H265✬
+http://rafadnsvip.live:8080/joaogalao21/123456joao/22169
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 1" tvg-logo="http://mylogos.xyz/LogosPT/Eleven1.png" tvg-name="Eleven Sports 1" group-title="VIP PORTUGAL",Eleven Sports 1
+http://rafadnsvip.live:8080/joaogalao21/123456joao/52
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 1 FHD" tvg-logo="http://mylogos.xyz/LogosPT/Eleven1.1080P.png" tvg-name="Eleven Sports 1 (FullHD)" group-title="VIP PORTUGAL",Eleven Sports 1 (FullHD)
+http://rafadnsvip.live:8080/joaogalao21/123456joao/54
+#EXTINF:-1 tvg-id="eleven.1.pt" tvg-logo="http://mylogos.xyz/LogosPT/Eleven1.H265.png" tvg-name="Eleven Sports 1 ✬H265✬" group-title="VIP PORTUGAL",Eleven Sports 1 ✬H265✬
+http://rafadnsvip.live:8080/joaogalao21/123456joao/24166
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 2" tvg-logo="http://mylogos.xyz/LogosPT/Eleven2.png" tvg-name="Eleven Sports 2" group-title="VIP PORTUGAL",Eleven Sports 2
+http://rafadnsvip.live:8080/joaogalao21/123456joao/55
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 2 FHD" tvg-logo="http://mylogos.xyz/LogosPT/Eleven2.png" tvg-name="Eleven Sports 2 (FullHD)" group-title="VIP PORTUGAL",Eleven Sports 2 (FullHD)
+http://rafadnsvip.live:8080/joaogalao21/123456joao/57
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 2" tvg-logo="http://mylogos.xyz/LogosPT/Eleven2.H265.png" tvg-name="Eleven Sports 2 ✬H265✬" group-title="VIP PORTUGAL",Eleven Sports 2 ✬H265✬
+http://rafadnsvip.live:8080/joaogalao21/123456joao/24167
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 3" tvg-logo="http://mylogos.xyz/LogosPT/Eleven3.png" tvg-name="Eleven Sports 3" group-title="VIP PORTUGAL",Eleven Sports 3
+http://rafadnsvip.live:8080/joaogalao21/123456joao/58
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 3 FHD" tvg-logo="http://mylogos.xyz/LogosPT/Eleven3.png" tvg-name="Eleven Sports 3 (FullHD)" group-title="VIP PORTUGAL",Eleven Sports 3 (FullHD)
+http://rafadnsvip.live:8080/joaogalao21/123456joao/60
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 4" tvg-logo="http://mylogos.xyz/LogosPT/Eleven4.png" tvg-name="Eleven Sports 4" group-title="VIP PORTUGAL",Eleven Sports 4
+http://rafadnsvip.live:8080/joaogalao21/123456joao/284
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 4 FHD" tvg-logo="http://mylogos.xyz/LogosPT/Eleven4.1080P.png" tvg-name="Eleven Sports 4 (FullHD)" group-title="VIP PORTUGAL",Eleven Sports 4 (FullHD)
+http://rafadnsvip.live:8080/joaogalao21/123456joao/61
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 5" tvg-logo="http://mylogos.xyz/LogosPT/Eleven5.png" tvg-name="Eleven Sports 5" group-title="VIP PORTUGAL",Eleven Sports 5
+http://rafadnsvip.live:8080/joaogalao21/123456joao/286
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 5 FHD" tvg-logo="http://mylogos.xyz/LogosPT/Eleven5.1080P.png" tvg-name="Eleven Sports 5 (FullHD)" group-title="VIP PORTUGAL",Eleven Sports 5 (FullHD)
+http://rafadnsvip.live:8080/joaogalao21/123456joao/62
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 6" tvg-logo="http://mylogos.xyz/LogosPT/Eleven6.png" tvg-name="Eleven Sports 6" group-title="VIP PORTUGAL",Eleven Sports 6
+http://rafadnsvip.live:8080/joaogalao21/123456joao/289
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 6 FHD" tvg-logo="http://mylogos.xyz/LogosPT/Eleven6.1080P.png" tvg-name="Eleven Sports 6 (FullHD)" group-title="VIP PORTUGAL",Eleven Sports 6 (FullHD)
+http://rafadnsvip.live:8080/joaogalao21/123456joao/63
+#EXTINF:-1 tvg-id="SPORTING TV" tvg-logo="http://mylogos.xyz/LogosPT/SportingTV.png" tvg-name="Sporting TV" group-title="VIP PORTUGAL",Sporting TV
+http://rafadnsvip.live:8080/joaogalao21/123456joao/64
+#EXTINF:-1 tvg-id="SPORTING TV FHD" tvg-logo="http://mylogos.xyz/LogosPT/SportingTV.1080p.png" tvg-name="Sporting TV (FullHD)" group-title="VIP PORTUGAL",Sporting TV (FullHD)
+http://rafadnsvip.live:8080/joaogalao21/123456joao/23285
+#EXTINF:-1 tvg-id="EUROSPORT 1" tvg-logo="http://mylogos.xyz/LogosPT/Eurosport1.png" tvg-name="Eurosport 1" group-title="VIP PORTUGAL",Eurosport 1
+http://rafadnsvip.live:8080/joaogalao21/123456joao/70
+#EXTINF:-1 tvg-id="EUROSPORT 1 FHD" tvg-logo="http://mylogos.xyz/LogosPT/Eurosport1.1080p.png" tvg-name="Eurosport 1 (FullHD)" group-title="VIP PORTUGAL",Eurosport 1 (FullHD)
+http://rafadnsvip.live:8080/joaogalao21/123456joao/71
+#EXTINF:-1 tvg-id="EUROSPORT 2" tvg-logo="http://mylogos.xyz/LogosPT/Eurosport2.png" tvg-name="Eurosport 2" group-title="VIP PORTUGAL",Eurosport 2
+http://rafadnsvip.live:8080/joaogalao21/123456joao/72
+#EXTINF:-1 tvg-id="EUROSPORT 2 FHD" tvg-logo="http://mylogos.xyz/LogosPT/Eurosport2.png" tvg-name="Eurosport 2 (FullHD)" group-title="VIP PORTUGAL",Eurosport 2 (FullHD)
+http://rafadnsvip.live:8080/joaogalao21/123456joao/73
+#EXTINF:-1 tvg-id="" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Kids.png" tvg-name="Play ✬Kids✬" group-title="VIP PORTUGAL",Play ✬Kids✬
+http://rafadnsvip.live:8080/joaogalao21/123456joao/31158
+#EXTINF:-1 tvg-id="" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Disney.png" tvg-name="Play ✬Disney✬" group-title="VIP PORTUGAL",Play ✬Disney✬
+http://rafadnsvip.live:8080/joaogalao21/123456joao/31159
+#EXTINF:-1 tvg-id="" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Pixar.png" tvg-name="Play ✬Pixar✬" group-title="VIP PORTUGAL",Play ✬Pixar✬
+http://rafadnsvip.live:8080/joaogalao21/123456joao/42316
+#EXTINF:-1 tvg-id="" tvg-logo="http://mylogos.xyz/LogosPT/Play.Dreamworks.png" tvg-name="Play ✬DreamWorks✬" group-title="VIP PORTUGAL",Play ✬DreamWorks✬
+http://rafadnsvip.live:8080/joaogalao21/123456joao/43227
+#EXTINF:-1 tvg-id="" tvg-logo="http://mylogos.xyz/LogosPlay/Play.LucasNeto.png" tvg-name="Play ✬Luccas Neto✬" group-title="VIP PORTUGAL",Play ✬Luccas Neto✬
+http://rafadnsvip.live:8080/joaogalao21/123456joao/31163
+#EXTINF:-1 tvg-id="" tvg-logo="http://mylogos.xyz/LogosPlay/Play.ArtistaDaSemana.png" tvg-name="Play ✬Artista da Semana✬" group-title="VIP PORTUGAL",Play ✬Artista da Semana✬
+http://rafadnsvip.live:8080/joaogalao21/123456joao/32074
+#EXTINF:-1 tvg-id="" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Cinema.png" tvg-name="Play ✬Cinema✬" group-title="VIP PORTUGAL",Play ✬Cinema✬
+http://rafadnsvip.live:8080/joaogalao21/123456joao/32138
+#EXTINF:-1 tvg-id="" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Accao.png" tvg-name="Play ✬Acção✬" group-title="VIP PORTUGAL",Play ✬Acção✬
+http://rafadnsvip.live:8080/joaogalao21/123456joao/31166
+#EXTINF:-1 tvg-id="" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Comedias.png" tvg-name="Play ✬Comédias✬" group-title="VIP PORTUGAL",Play ✬Comédias✬
+http://rafadnsvip.live:8080/joaogalao21/123456joao/32978
+#EXTINF:-1 tvg-id="" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Dramas.png" tvg-name="Play ✬Dramas✬" group-title="VIP PORTUGAL",Play ✬Dramas✬
+http://rafadnsvip.live:8080/joaogalao21/123456joao/31165
+#EXTINF:-1 tvg-id="" tvg-logo="http://mylogos.xyz/LogosPlay/Play.FiccaoFantasia.png" tvg-name="Play ✬Ficção e Fantasia✬" group-title="VIP PORTUGAL",Play ✬Ficção e Fantasia✬
+http://rafadnsvip.live:8080/joaogalao21/123456joao/32137
+#EXTINF:-1 tvg-id="" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Marvel1.png" tvg-name="Play ✬Marvel✬" group-title="VIP PORTUGAL",Play ✬Marvel✬
+http://rafadnsvip.live:8080/joaogalao21/123456joao/32076
+#EXTINF:-1 tvg-id="" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Marvel2.png" tvg-name="Play ✬Marvel 2✬" group-title="VIP PORTUGAL",Play ✬Marvel 2✬
+http://rafadnsvip.live:8080/joaogalao21/123456joao/43300
+#EXTINF:-1 tvg-id="" tvg-logo="http://mylogos.xyz/LogosPlay/Play.DCcomics.png" tvg-name="Play ✬DC Comics✬" group-title="VIP PORTUGAL",Play ✬DC Comics✬
+http://rafadnsvip.live:8080/joaogalao21/123456joao/32979
+#EXTINF:-1 tvg-id="" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Sagas.png" tvg-name="Play ✬Sagas e Trilogias✬" group-title="VIP PORTUGAL",Play ✬Sagas e Trilogias✬
+http://rafadnsvip.live:8080/joaogalao21/123456joao/32152
+#EXTINF:-1 tvg-id="" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Western.2021.png" tvg-name="Play ✬Western✬" group-title="VIP PORTUGAL",Play ✬Western✬
+http://rafadnsvip.live:8080/joaogalao21/123456joao/32151
+#EXTINF:-1 tvg-id="" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Terror.png" tvg-name="Play ✬Terror✬" group-title="VIP PORTUGAL",Play ✬Terror✬
+http://rafadnsvip.live:8080/joaogalao21/123456joao/33009
+#EXTINF:-1 tvg-id="" tvg-logo="http://mylogos.xyz/LogosPlay/Play.CinemaTuga.png" tvg-name="Play ✬Cinema Português✬" group-title="VIP PORTUGAL",Play ✬Cinema Português✬
+http://rafadnsvip.live:8080/joaogalao21/123456joao/113486
+#EXTINF:-1 tvg-id="" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Documentarios.png" tvg-name="Play ✬Documentários✬" group-title="VIP PORTUGAL",Play ✬Documentários✬
+http://rafadnsvip.live:8080/joaogalao21/123456joao/82513
+#EXTINF:-1 tvg-id="" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Tomorrowland.png" tvg-name="Play ✬Tomorrowland✬" group-title="VIP PORTUGAL",Play ✬Tomorrowland✬
+http://rafadnsvip.live:8080/joaogalao21/123456joao/32139
+#EXTINF:-1 tvg-id="" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Djs.png" tvg-name="Play ✬Dj´s✬" group-title="VIP PORTUGAL",Play ✬Dj´s✬
+http://rafadnsvip.live:8080/joaogalao21/123456joao/32136
+#EXTINF:-1 tvg-id="" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Music.png" tvg-name="Play ✬Music✬" group-title="VIP PORTUGAL",Play ✬Music✬
+http://rafadnsvip.live:8080/joaogalao21/123456joao/31160
+#EXTINF:-1 tvg-id="" tvg-logo="http://mylogos.xyz/LogosPlay/Play.Concerts.png" tvg-name="Play ✬Concerts✬" group-title="VIP PORTUGAL",Play ✬Concerts✬
+http://rafadnsvip.live:8080/joaogalao21/123456joao/31161
+#EXTINF:-1 tvg-id="" tvg-logo="http://mylogos.xyz/LogosPlay/Play.TheVoice.png" tvg-name="Play ✬The Voice✬" group-title="VIP PORTUGAL",Play ✬The Voice✬
+http://rafadnsvip.live:8080/joaogalao21/123456joao/33010
+#EXTINF:-1 tvg-id="" tvg-logo="http://mylogos.xyz/LogosPlay/PlayStandup.png" tvg-name="Play ✬Stand-Up Comedy✬" group-title="VIP PORTUGAL",Play ✬Stand-Up Comedy✬
+http://rafadnsvip.live:8080/joaogalao21/123456joao/48741
+#EXTINF:-1 tvg-id="TVCine TOP" tvg-logo="http://mylogos.xyz/LogosPT/tvcine.top.png" tvg-name="TVCine Top" group-title="VIP PORTUGAL",TVCine Top
+http://rafadnsvip.live:8080/joaogalao21/123456joao/83
+#EXTINF:-1 tvg-id="TVCine TOP FHD" tvg-logo="http://mylogos.xyz/LogosPT/tvcine.top.png" tvg-name="TVCine Top (FullHD)" group-title="VIP PORTUGAL",TVCine Top (FullHD)
+http://rafadnsvip.live:8080/joaogalao21/123456joao/84
+#EXTINF:-1 tvg-id="TVCine EDITION" tvg-logo="http://mylogos.xyz/LogosPT/tvcine.edition.png" tvg-name="TVCine Edition" group-title="VIP PORTUGAL",TVCine Edition
+http://rafadnsvip.live:8080/joaogalao21/123456joao/85
+#EXTINF:-1 tvg-id="TVCine EDITION FHD" tvg-logo="http://mylogos.xyz/LogosPT/tvcine.edition.1080p.png" tvg-name="TVCine Edition (FullHD)" group-title="VIP PORTUGAL",TVCine Edition (FullHD)
+http://rafadnsvip.live:8080/joaogalao21/123456joao/86
+#EXTINF:-1 tvg-id="TVCine EMOTION" tvg-logo="http://mylogos.xyz/LogosPT/tvcine.emotion.png" tvg-name="TVCine Emotion" group-title="VIP PORTUGAL",TVCine Emotion
+http://rafadnsvip.live:8080/joaogalao21/123456joao/87
+#EXTINF:-1 tvg-id="TVCine EMOTION FHD" tvg-logo="http://mylogos.xyz/LogosPT/tvcine.emotion.png" tvg-name="TVCine Emotion (FullHD)" group-title="VIP PORTUGAL",TVCine Emotion (FullHD)
+http://rafadnsvip.live:8080/joaogalao21/123456joao/88
+#EXTINF:-1 tvg-id="TVCine ACTION" tvg-logo="http://mylogos.xyz/LogosPT/tvcine.action.png" tvg-name="TVCine Action" group-title="VIP PORTUGAL",TVCine Action
+http://rafadnsvip.live:8080/joaogalao21/123456joao/89
+#EXTINF:-1 tvg-id="TVCine ACTION FHD" tvg-logo="http://mylogos.xyz/LogosPT/tvcine.action.png" tvg-name="TVCine Action (FullHD)" group-title="VIP PORTUGAL",TVCine Action (FullHD)
+http://rafadnsvip.live:8080/joaogalao21/123456joao/90
+#EXTINF:-1 tvg-id="NOS STUDIOS" tvg-logo="http://mylogos.xyz/LogosPT/NosStudios.png" tvg-name="NOS Studios" group-title="VIP PORTUGAL",NOS Studios
+http://rafadnsvip.live:8080/joaogalao21/123456joao/14142
+#EXTINF:-1 tvg-id="NOS STUDIOS FHD" tvg-logo="http://mylogos.xyz/LogosPT/NosStudios.png" tvg-name="Nos studios (FullHD)" group-title="VIP PORTUGAL",Nos studios (FullHD)
+http://rafadnsvip.live:8080/joaogalao21/123456joao/100
+#EXTINF:-1 tvg-id="CINEMUNDO" tvg-logo="http://mylogos.xyz/LogosPT/cinemundo.png" tvg-name="Cinemundo" group-title="VIP PORTUGAL",Cinemundo
+http://rafadnsvip.live:8080/joaogalao21/123456joao/97
+#EXTINF:-1 tvg-id="Cinemundo PT" tvg-logo="http://mylogos.xyz/LogosPT/cinemundo.png" tvg-name="Cinemundo (FullHD)" group-title="VIP PORTUGAL",Cinemundo (FullHD)
+http://rafadnsvip.live:8080/joaogalao21/123456joao/22183
+#EXTINF:-1 tvg-id="HOLLYWOOD" tvg-logo="http://mylogos.xyz/LogosPT/hollywood.png" tvg-name="Hollywood" group-title="VIP PORTUGAL",Hollywood
+http://rafadnsvip.live:8080/joaogalao21/123456joao/95
+#EXTINF:-1 tvg-id="HOLLYWOOD FHD" tvg-logo="http://naoadianta696969.live:80/images/b0bac411b0b17f4e7538dd0f42023d02.png" tvg-name="Hollywood (FullHD)" group-title="VIP PORTUGAL",Hollywood (FullHD)
+http://rafadnsvip.live:8080/joaogalao21/123456joao/96
+#EXTINF:-1 tvg-id="AMC" tvg-logo="http://mylogos.xyz/LogosPT/AMC.png" tvg-name="AMC" group-title="VIP PORTUGAL",AMC
+http://rafadnsvip.live:8080/joaogalao21/123456joao/104
+#EXTINF:-1 tvg-id="AMC FHD" tvg-logo="http://mylogos.xyz/LogosPT/AMC.png" tvg-name="AMC (FullHD)" group-title="VIP PORTUGAL",AMC (FullHD)
+http://rafadnsvip.live:8080/joaogalao21/123456joao/105
+#EXTINF:-1 tvg-id="AXN" tvg-logo="http://mylogos.xyz/LogosPT/axn.png" tvg-name="AXN" group-title="VIP PORTUGAL",AXN
+http://rafadnsvip.live:8080/joaogalao21/123456joao/106
+#EXTINF:-1 tvg-id="AXN FHD" tvg-logo="http://mylogos.xyz/LogosPT/axn.1080p.png" tvg-name="AXN (FullHD)" group-title="VIP PORTUGAL",AXN (FullHD)
+http://rafadnsvip.live:8080/joaogalao21/123456joao/107
+#EXTINF:-1 tvg-id="AXN WHITE HD" tvg-logo="http://mylogos.xyz/LogosPT/axn.white.png" tvg-name="AXN White" group-title="VIP PORTUGAL",AXN White
+http://rafadnsvip.live:8080/joaogalao21/123456joao/110
+#EXTINF:-1 tvg-id="AXN WHITE FHD" tvg-logo="http://mylogos.xyz/LogosPT/axn.white.1080p.png" tvg-name="AXN White (FullHD)" group-title="VIP PORTUGAL",AXN White (FullHD)
+http://rafadnsvip.live:8080/joaogalao21/123456joao/111
+#EXTINF:-1 tvg-id="AXN MOVIES" tvg-logo="http://mylogos.xyz/LogosPT/axn.movies.png" tvg-name="AXN Movies" group-title="VIP PORTUGAL",AXN Movies
+http://rafadnsvip.live:8080/joaogalao21/123456joao/108
+#EXTINF:-1 tvg-id="AXN MOVIES FHD" tvg-logo="http://mylogos.xyz/LogosPT/axn.movies.png" tvg-name="AXN Movies (FullHD)" group-title="VIP PORTUGAL",AXN Movies (FullHD)
+http://rafadnsvip.live:8080/joaogalao21/123456joao/109
+#EXTINF:-1 tvg-id="RTP 1" tvg-logo="http://mylogos.xyz/LogosPT/Fox.png" tvg-name="FOX" group-title="VIP PORTUGAL",FOX
+http://rafadnsvip.live:8080/joaogalao21/123456joao/112
+#EXTINF:-1 tvg-id="FOX PT" tvg-logo="http://mylogos.xyz/LogosPT/Fox.png" tvg-name="FOX (FullHD)" group-title="VIP PORTUGAL",FOX (FullHD)
+http://rafadnsvip.live:8080/joaogalao21/123456joao/113
+#EXTINF:-1 tvg-id="FOX LIFE" tvg-logo="http://mylogos.xyz/LogosPT/Fox.Life.png" tvg-name="FOX Life" group-title="VIP PORTUGAL",FOX Life
+http://rafadnsvip.live:8080/joaogalao21/123456joao/116
+#EXTINF:-1 tvg-id="FOX LIFE FHD" tvg-logo="http://mylogos.xyz/LogosPT/Fox.Life.png" tvg-name="FOX Life (FullHD)" group-title="VIP PORTUGAL",FOX Life (FullHD)
+http://rafadnsvip.live:8080/joaogalao21/123456joao/117
+#EXTINF:-1 tvg-id="FOX CRIME" tvg-logo="http://mylogos.xyz/LogosPT/Fox.Crime.png" tvg-name="FOX Crime" group-title="VIP PORTUGAL",FOX Crime
+http://rafadnsvip.live:8080/joaogalao21/123456joao/115
+#EXTINF:-1 tvg-id="FOX CRIME FHD" tvg-logo="http://mylogos.xyz/LogosPT/Fox.Crime.png" tvg-name="FOX Crime (FullHD)" group-title="VIP PORTUGAL",FOX Crime (FullHD)
+http://rafadnsvip.live:8080/joaogalao21/123456joao/101
+#EXTINF:-1 tvg-id="FOX MOVIES" tvg-logo="http://mylogos.xyz/LogosPT/Fox.Movies.png" tvg-name="FOX Movies" group-title="VIP PORTUGAL",FOX Movies
+http://rafadnsvip.live:8080/joaogalao21/123456joao/102
+#EXTINF:-1 tvg-id="FOX MOVIES FHD" tvg-logo="http://mylogos.xyz/LogosPT/Fox.Movies.png" tvg-name="FOX Movies (FullHD)" group-title="VIP PORTUGAL",FOX Movies (FullHD)
+http://rafadnsvip.live:8080/joaogalao21/123456joao/25830
+#EXTINF:-1 tvg-id="RTP 1" tvg-logo="http://mylogos.xyz/LogosPT/Fox.Comedy.png" tvg-name="FOX Comedy" group-title="VIP PORTUGAL",FOX Comedy
+http://rafadnsvip.live:8080/joaogalao21/123456joao/114
+#EXTINF:-1 tvg-id="FOX COMEDY FHD" tvg-logo="http://mylogos.xyz/LogosPT/Fox.Comedy.png" tvg-name="FOX Comedy (FullHD)" group-title="VIP PORTUGAL",FOX Comedy (FullHD)
+http://rafadnsvip.live:8080/joaogalao21/123456joao/29332
+#EXTINF:-1 tvg-id="SYFY" tvg-logo="http://mylogos.xyz/LogosPT/Syfy.png" tvg-name="SYFY" group-title="VIP PORTUGAL",SYFY
+http://rafadnsvip.live:8080/joaogalao21/123456joao/93
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-logo="http://mylogos.xyz/LogosPT/Disney.Channel.png" tvg-name="Disney Channel" group-title="VIP PORTUGAL",Disney Channel
+http://rafadnsvip.live:8080/joaogalao21/123456joao/124
+#EXTINF:-1 tvg-id="DISNEY JUNIOR" tvg-logo="http://mylogos.xyz/LogosPT/Disney.Junior.png" tvg-name="Disney Junior" group-title="VIP PORTUGAL",Disney Junior
+http://rafadnsvip.live:8080/joaogalao21/123456joao/123
+#EXTINF:-1 tvg-id="BIGGS" tvg-logo="http://mylogos.xyz/LogosPT/Biggs.png" tvg-name="Biggs" group-title="VIP PORTUGAL",Biggs
+http://rafadnsvip.live:8080/joaogalao21/123456joao/120
+#EXTINF:-1 tvg-id="SIC K" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/SIC%20K.png" tvg-name="SIC K" group-title="VIP PORTUGAL",SIC K
+http://rafadnsvip.live:8080/joaogalao21/123456joao/128
+#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/CARTOON%20NETWORK.png" tvg-name="Cartoon Network" group-title="VIP PORTUGAL",Cartoon Network
+http://rafadnsvip.live:8080/joaogalao21/123456joao/122
+#EXTINF:-1 tvg-id="NICKELODEON" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/Nickelodeon.png" tvg-name="Nickelodeon" group-title="VIP PORTUGAL",Nickelodeon
+http://rafadnsvip.live:8080/joaogalao21/123456joao/125
+#EXTINF:-1 tvg-id="NICK JR" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/Nick%20Jr..png" tvg-name="Nick Jr." group-title="VIP PORTUGAL",Nick Jr.
+http://rafadnsvip.live:8080/joaogalao21/123456joao/126
+#EXTINF:-1 tvg-id="BABY TV" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/BABY%20TV.png" tvg-name="Baby TV" group-title="VIP PORTUGAL",Baby TV
+http://rafadnsvip.live:8080/joaogalao21/123456joao/118
+#EXTINF:-1 tvg-id="Panda KIDS" tvg-logo="http://mylogos.xyz/LogosPT/Panda.Kids.png" tvg-name="Panda Kids" group-title="VIP PORTUGAL",Panda Kids
+http://rafadnsvip.live:8080/joaogalao21/123456joao/76617
+#EXTINF:-1 tvg-id="CANAL PANDA" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/Canal%20Panda.png" tvg-name="Canal Panda" group-title="VIP PORTUGAL",Canal Panda
+http://rafadnsvip.live:8080/joaogalao21/123456joao/121
+#EXTINF:-1 tvg-id="Boomerang" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/Boomerang.png" tvg-name="Boomerang" group-title="VIP PORTUGAL",Boomerang
+http://rafadnsvip.live:8080/joaogalao21/123456joao/119
+#EXTINF:-1 tvg-id="NATIONAL GEOGRAPHIC HD" tvg-logo="http://mylogos.xyz/LogosPT/NatGeo.png" tvg-name="Nat Geo" group-title="VIP PORTUGAL",Nat Geo
+http://rafadnsvip.live:8080/joaogalao21/123456joao/30057
+#EXTINF:-1 tvg-id="NAT GEO WILD FHD" tvg-logo="http://mylogos.xyz/LogosPT/NatGeoWild.png" tvg-name="Nat Geo Wild" group-title="VIP PORTUGAL",Nat Geo Wild
+http://rafadnsvip.live:8080/joaogalao21/123456joao/140
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL" tvg-logo="http://mylogos.xyz/LogosPT/Discovery.Channel.png" tvg-name="Discovery Channel" group-title="VIP PORTUGAL",Discovery Channel
+http://rafadnsvip.live:8080/joaogalao21/123456joao/134
+#EXTINF:-1 tvg-id="DISCOVERY CHANNEL FHD" tvg-logo="http://mylogos.xyz/LogosPT/Discovery.Channel.png" tvg-name="Discovery Channel (FullHD)" group-title="VIP PORTUGAL",Discovery Channel (FullHD)
+http://rafadnsvip.live:8080/joaogalao21/123456joao/136
+#EXTINF:-1 tvg-id="ID INVESTIGATION DISCOVERY" tvg-logo="http://mylogos.xyz/LogosPT/InvestigationDiscovery.png" tvg-name="Investigation Discovery" group-title="VIP PORTUGAL",Investigation Discovery
+http://rafadnsvip.live:8080/joaogalao21/123456joao/30061
+#EXTINF:-1 tvg-id="CRIME INVESTIGATION" tvg-logo="http://mylogos.xyz/LogosPT/CrimeInvestigation.png" tvg-name="Crime Investigation" group-title="VIP PORTUGAL",Crime Investigation
+http://rafadnsvip.live:8080/joaogalao21/123456joao/133
+#EXTINF:-1 tvg-id="TRAVEL CHANNEL FHD" tvg-logo="http://mylogos.xyz/LogosPT/Travel.Channel.png" tvg-name="Travel Channel" group-title="VIP PORTUGAL",Travel Channel
+http://rafadnsvip.live:8080/joaogalao21/123456joao/152
+#EXTINF:-1 tvg-id="ODISSEIA" tvg-logo="http://mylogos.xyz/LogosPT/Odisseia.png" tvg-name="Odisseia" group-title="VIP PORTUGAL",Odisseia
+http://rafadnsvip.live:8080/joaogalao21/123456joao/146
+#EXTINF:-1 tvg-id="HISTÓRIA" tvg-logo="http://mylogos.xyz/LogosPT/Historia.png" tvg-name="História" group-title="VIP PORTUGAL",História
+http://rafadnsvip.live:8080/joaogalao21/123456joao/148
+#EXTINF:-1 tvg-id="CANAL Q" tvg-logo="http://mylogos.xyz/LogosPT/CanalQ.png" tvg-name="Canal Q" group-title="VIP PORTUGAL",Canal Q
+http://rafadnsvip.live:8080/joaogalao21/123456joao/169
+#EXTINF:-1 tvg-id="TLC" tvg-logo="http://mylogos.xyz/LogosPT/TLC.png" tvg-name="TLC" group-title="VIP PORTUGAL",TLC
+http://rafadnsvip.live:8080/joaogalao21/123456joao/151
+#EXTINF:-1 tvg-id="CASA E COZINHA FHD" tvg-logo="http://mylogos.xyz/LogosPT/CasaCozinha.png" tvg-name="Casa e Cozinha" group-title="VIP PORTUGAL",Casa e Cozinha
+http://rafadnsvip.live:8080/joaogalao21/123456joao/22238
+#EXTINF:-1 tvg-id="24 KITCHEN FHD" tvg-logo="http://mylogos.xyz/LogosPT/24Kitchen.png" tvg-name="24 Kitchen" group-title="VIP PORTUGAL",24 Kitchen
+http://rafadnsvip.live:8080/joaogalao21/123456joao/129
+#EXTINF:-1 tvg-id="FOOD NETWORK FHD" tvg-logo="http://mylogos.xyz/LogosPT/FoodNetwork.1080p.png" tvg-name="Food Network" group-title="VIP PORTUGAL",Food Network
+http://rafadnsvip.live:8080/joaogalao21/123456joao/29358
+#EXTINF:-1 tvg-id="FUEL TV FHD" tvg-logo="http://mylogos.xyz/LogosPT/FuelTV.png" tvg-name="Fuel TV" group-title="VIP PORTUGAL",Fuel TV
+http://rafadnsvip.live:8080/joaogalao21/123456joao/69
+#EXTINF:-1 tvg-id="MOTORVISION FHD" tvg-logo="http://mylogos.xyz/LogosPT/MotorvisionTV.png" tvg-name="Motorvision" group-title="VIP PORTUGAL",Motorvision
+http://rafadnsvip.live:8080/joaogalao21/123456joao/82
+#EXTINF:-1 tvg-id="CAÇA E PESCA" tvg-logo="http://mylogos.xyz/LogosPT/CazaPesca.png" tvg-name="Caça e Pesca" group-title="VIP PORTUGAL",Caça e Pesca
+http://rafadnsvip.live:8080/joaogalao21/123456joao/132
+#EXTINF:-1 tvg-id="CAÇAVISION" tvg-logo="http://mylogos.xyz/LogosPT/Cazavision.png" tvg-name="Caçavision" group-title="VIP PORTUGAL",Caçavision
+http://rafadnsvip.live:8080/joaogalao21/123456joao/131
+#EXTINF:-1 tvg-id="TOROS TV" tvg-logo="http://mylogos.xyz/LogosPT/TorosTv.png" tvg-name="Toros TV" group-title="VIP PORTUGAL",Toros TV
+http://rafadnsvip.live:8080/joaogalao21/123456joao/80
+#EXTINF:-1 tvg-id="" tvg-logo="http://boxlogos.top/LogosPT/MundotoroTV.png" tvg-name="Mundotoro TV" group-title="VIP PORTUGAL",Mundotoro TV
+http://rafadnsvip.live:8080/joaogalao21/123456joao/114300
+#EXTINF:-1 tvg-id="FIGHT NETWORK FHD" tvg-logo="http://www.logosmundo.net/logos/Novos/LOGOS%20ECRA%20TOTAL/fight_netowrk.png" tvg-name="Fight Network" group-title="VIP PORTUGAL",Fight Network
+http://rafadnsvip.live:8080/joaogalao21/123456joao/29357
+#EXTINF:-1 tvg-id="Cancao Nova PT" tvg-logo="https://i.imgur.com/1EGWuDA.png" tvg-name="Canção Nova" group-title="VIP PORTUGAL",Canção Nova
+http://rafadnsvip.live:8080/joaogalao21/123456joao/25555
+#EXTINF:-1 tvg-id="RTP ÁFRICA" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/AFRO%20MUSIC.png" tvg-name="Afro Music" group-title="VIP PORTUGAL",Afro Music
+http://rafadnsvip.live:8080/joaogalao21/123456joao/171
+#EXTINF:-1 tvg-id="MCM POP" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/MCM%20POP.png" tvg-name="MCM Pop" group-title="VIP PORTUGAL",MCM Pop
+http://rafadnsvip.live:8080/joaogalao21/123456joao/174
+#EXTINF:-1 tvg-id="MTV PORTUGAL" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/Mtv%20Portugal.png" tvg-name="MTV Portugal" group-title="VIP PORTUGAL",MTV Portugal
+http://rafadnsvip.live:8080/joaogalao21/123456joao/173
+#EXTINF:-1 tvg-id="MTV LIVE FHD" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/Mtv%20Live.png" tvg-name="MTV Live" group-title="VIP PORTUGAL",MTV Live
+http://rafadnsvip.live:8080/joaogalao21/123456joao/29240
+#EXTINF:-1 tvg-id="RTP 1" tvg-logo="http://mylogos.xyz/LogosPT/MTV00s.png" tvg-name="MTV 00's" group-title="VIP PORTUGAL",MTV 00's
+http://rafadnsvip.live:8080/joaogalao21/123456joao/181
+#EXTINF:-1 tvg-id="MEZZO Live FHD" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/MEZZO%20HD.png" tvg-name="Mezzo Live" group-title="VIP PORTUGAL",Mezzo Live
+http://rafadnsvip.live:8080/joaogalao21/123456joao/29361
+#EXTINF:-1 tvg-id="RTP 1" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/Blaze%20HD.png" tvg-name="Blaze" group-title="VIP PORTUGAL",Blaze
+http://rafadnsvip.live:8080/joaogalao21/123456joao/15353
+#EXTINF:-1 tvg-id="TV RECORD" tvg-logo="http://mylogos.xyz/LogosPT/RecordTV.png" tvg-name="TV Record" group-title="VIP PORTUGAL",TV Record
+http://rafadnsvip.live:8080/joaogalao21/123456joao/162
+#EXTINF:-1 tvg-id="ZAPVIVA" tvg-logo="http://www.logosmundo.net/logos/Novos/LOGOS%20ECRA%20TOTAL/zapviva.png" tvg-name="ZAP Viva" group-title="VIP PORTUGAL",ZAP Viva
+http://rafadnsvip.live:8080/joaogalao21/123456joao/26293
+#EXTINF:-1 tvg-id="Euronews PT" tvg-logo="http://www.logosmundo.net/logos/Novos/LOGOS%20ECRA%20TOTAL/euronews.png" tvg-name="EURONEWS ✬Portugal✬" group-title="VIP PORTUGAL",EURONEWS ✬Portugal✬
+http://rafadnsvip.live:8080/joaogalao21/123456joao/29067
+#EXTINF:-1 tvg-id="BBC ENTERTAINMENT" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/BBC%20Entertainment.png" tvg-name="BBC Entertainment" group-title="VIP PORTUGAL",BBC Entertainment
+http://rafadnsvip.live:8080/joaogalao21/123456joao/156
+#EXTINF:-1 tvg-id="TPA INTERNACIONAL" tvg-logo="http://all4u.ddnsgeek.com/ecratotal/Logos/TPA%20INTERNACIONAL.png" tvg-name="TPA (Angola)" group-title="VIP PORTUGAL",TPA (Angola)
+http://rafadnsvip.live:8080/joaogalao21/123456joao/26294
+
+
+
 
 
 
