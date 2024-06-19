@@ -1,76 +1,252 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="" group-title="Portugal",PT: SPORT TV 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://117tv.icu:8080/brice@rogers/790@097/167742
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 HD" tvg-logo="" group-title="Portugal",PT: SPORT TV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://117tv.icu:8080/brice@rogers/790@097/167743
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 HD" tvg-logo="" group-title="Portugal",PT: SPORT TV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://117tv.icu:8080/brice@rogers/790@097/167744
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 FHD" tvg-logo="" group-title="Portugal",PT: SPORT TV 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://117tv.icu:8080/brice@rogers/790@097/167745
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://117tv.icu:8080/brice@rogers/790@097/167747
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://117tv.icu:8080/brice@rogers/790@097/167748
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 4 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://117tv.icu:8080/brice@rogers/790@097/167749
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 5 HD" tvg-logo="" group-title="Portugal",PT: ELEVEN SPORTS 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://117tv.icu:8080/brice@rogers/790@097/167750
-#EXTINF:-1 tvg-id="" tvg-name="PT: 24 Kitchen HD" tvg-logo="" group-title="Portugal",PT: 24 Kitchen HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://117tv.icu:8080/brice@rogers/790@097/78426
-#EXTINF:-1 tvg-id="" tvg-name="PT: Canal Panda" tvg-logo="" group-title="Portugal",PT: Canal Panda
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://117tv.icu:8080/brice@rogers/790@097/78446
-#EXTINF:-1 tvg-id="" tvg-name="PT: CMTV" tvg-logo="" group-title="Portugal",PT: CMTV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://117tv.icu:8080/brice@rogers/790@097/78441
-#EXTINF:-1 tvg-id="" tvg-name="PT: National Geographic Wild" tvg-logo="" group-title="Portugal",PT: National Geographic Wild
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://117tv.icu:8080/brice@rogers/790@097/78425
-#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 2 HD" tvg-logo="" group-title="Portugal",PT: RTP 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://117tv.icu:8080/brice@rogers/790@097/78493
-#EXTINF:-1 tvg-id="" tvg-name="PT: SIC" tvg-logo="" group-title="Portugal",PT: SIC
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://117tv.icu:8080/brice@rogers/790@097/78501
-#EXTINF:-1 tvg-id="" tvg-name="PT: Sport TV 1" tvg-logo="" group-title="Portugal",PT: Sport TV 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://117tv.icu:8080/brice@rogers/790@097/78513
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVI" tvg-logo="" group-title="Portugal",PT: TVI
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://117tv.icu:8080/brice@rogers/790@097/78526
-#EXTINF:-1 tvg-id="" tvg-name="#EXTVLCOPT:network-caching=1000" tvg-logo="" group-title="Portugal",#EXTVLCOPT:network-caching=1000
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://117tv.icu:8080/brice@rogers/790@097/122682
-#EXTINF:-1 tvg-id="" tvg-name="PT BENFICA TV HD  (P)" tvg-logo="" group-title="Portugal",PT BENFICA TV HD  (P)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://117tv.icu:8080/brice@rogers/790@097/136726
-#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 1 FHD" tvg-logo="" group-title="Portugal",PT: RTP 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://117tv.icu:8080/brice@rogers/790@097/164792
-#EXTINF:-1 tvg-id="" tvg-name="PT: CNN HD" tvg-logo="" group-title="Portugal",PT: CNN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://117tv.icu:8080/brice@rogers/790@097/164802
-#EXTINF:-1 tvg-id="" tvg-name="PT: TV CINE EMOTION HD" tvg-logo="" group-title="Portugal",PT: TV CINE EMOTION HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://117tv.icu:8080/brice@rogers/790@097/164808
-#EXTINF:-1 tvg-id="" tvg-name="PT: TV CINE ACTION FHD" tvg-logo="" group-title="Portugal",PT: TV CINE ACTION FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://117tv.icu:8080/brice@rogers/790@097/164809
-#EXTINF:-1 tvg-id="" tvg-name="PT: NOS STUDIOS FHD" tvg-logo="" group-title="Portugal",PT: NOS STUDIOS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://117tv.icu:8080/brice@rogers/790@097/164811
-#EXTINF:-1 tvg-id="" tvg-name="PT: HOLLYWOOD FHD" tvg-logo="" group-title="Portugal",PT: HOLLYWOOD FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://117tv.icu:8080/brice@rogers/790@097/164813
-#EXTINF:-1 tvg-id="" tvg-name="PT: AXN WHITE FHD" tvg-logo="" group-title="Portugal",PT: AXN WHITE FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://117tv.icu:8080/brice@rogers/790@097/164815
-#EXTINF:-1 tvg-id="" tvg-name="PT: AXN MOVIES  HD" tvg-logo="" group-title="Portugal",PT: AXN MOVIES  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://117tv.icu:8080/brice@rogers/790@097/164818
-#EXTINF:-1 tvg-id="" tvg-name="PT: SYFY FHD" tvg-logo="" group-title="Portugal",PT: SYFY FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://117tv.icu:8080/brice@rogers/790@097/164821
-#EXTINF:-1 tvg-id="" tvg-name="PT: TV GLOBO HD" tvg-logo="" group-title="Portugal",PT: TV GLOBO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://117tv.icu:8080/brice@rogers/790@097/164824
-#EXTINF:-1 tvg-id="" tvg-name="PT: SIC RADICAL FHD" tvg-logo="" group-title="Portugal",PT: SIC RADICAL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://117tv.icu:8080/brice@rogers/790@097/164826
-#EXTINF:-1 tvg-id="" tvg-name="PT: CLUBBING TV" tvg-logo="" group-title="Portugal ",PT: CLUBBING TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://117tv.icu:8080/brice@rogers/790@097/164850
-#EXTINF:-1 tvg-id="" tvg-name="PT: ZAP VIVA FHD" tvg-logo="" group-title="Portugal ",PT: ZAP VIVA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://117tv.icu:8080/brice@rogers/790@097/164853
-#EXTINF:-1 tvg-id="" tvg-name="PT: TPA INTERNACIONAL SD" tvg-logo="" group-title="Portugal ",PT: TPA INTERNACIONAL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://117tv.icu:8080/brice@rogers/790@097/164855
-#EXTINF:-1 tvg-id="" tvg-name="PT: TCV INTERNACIONAL" tvg-logo="" group-title="Portugal ",PT: TCV INTERNACIONAL
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://117tv.icu:8080/brice@rogers/790@097/164857
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVC CABO VERDE" tvg-logo="" group-title="Portugal ",PT: TVC CABO VERDE
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://117tv.icu:8080/brice@rogers/790@097/164858
-#EXTINF:-1 tvg-id="" tvg-name="PT: EURONEWS" tvg-logo="" group-title="Portugal ",PT: EURONEWS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://117tv.icu:8080/brice@rogers/790@097/164859
-#EXTINF:-1 tvg-id="" tvg-name="PT: TVI REALITY" tvg-logo="" group-title="Portugal ",PT: TVI REALITY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://117tv.icu:8080/brice@rogers/790@097/164861
+
+
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-logo="https://assets-global.website-files.com/5cf5a026c170934c311c121c/5cf5ae865c5c341607d12b99_White-H-Logo-p-500.png" tvg-name="PT-  UFC Figth Pass FHD" group-title="Canais | Portugal",PT-  UFC Figth Pass FHD
+http://uniplay.link:80/850144687/p443N2966p/112088
+#EXTINF:-1 tvg-id="NFLGamePass.br" tvg-logo="https://www.logolynx.com/images/logolynx/3f/3f73be391f4b8876b4f05e5b95dbadba.png" tvg-name="PT -NFL Network HD" group-title="Canais | Portugal",PT -NFL Network HD
+http://uniplay.link:80/850144687/p443N2966p/2475
+#EXTINF:-1 tvg-id="Agromais.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" tvg-name="PT- SportTV +  HD" group-title="Canais | Portugal",PT- SportTV +  HD
+http://uniplay.link:80/850144687/p443N2966p/111993
+#EXTINF:-1 tvg-id="Agromais.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" tvg-name="PT- SportTV 1 HD" group-title="Canais | Portugal",PT- SportTV 1 HD
+http://uniplay.link:80/850144687/p443N2966p/111995
+#EXTINF:-1 tvg-id="Agromais.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" tvg-name="PT- SportTV 2 HD" group-title="Canais | Portugal",PT- SportTV 2 HD
+http://uniplay.link:80/850144687/p443N2966p/111998
+#EXTINF:-1 tvg-id="Agromais.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" tvg-name="PT- SportTV 3 HD" group-title="Canais | Portugal",PT- SportTV 3 HD
+http://uniplay.link:80/850144687/p443N2966p/112000
+#EXTINF:-1 tvg-id="Agromais.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" tvg-name="PT- SportTV 4 HD" group-title="Canais | Portugal",PT- SportTV 4 HD
+http://uniplay.link:80/850144687/p443N2966p/112002
+#EXTINF:-1 tvg-id="Agromais.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" tvg-name="PT- SportTV 5 HD" group-title="Canais | Portugal",PT- SportTV 5 HD
+http://uniplay.link:80/850144687/p443N2966p/112004
+#EXTINF:-1 tvg-id="Agromais.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" tvg-name="PT- SportTV 6 HD" group-title="Canais | Portugal",PT- SportTV 6 HD
+http://uniplay.link:80/850144687/p443N2966p/112006
+#EXTINF:-1 tvg-id="Agromais.br" tvg-logo="https://i.imgur.com/4DzM6Dw.png" tvg-name="PT- A Bola TV HD" group-title="Canais | Portugal",PT- A Bola TV HD
+http://uniplay.link:80/850144687/p443N2966p/112014
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-logo="http://i.imgur.com/9f75DdK.png" tvg-name="PT- BLOOMBERG" group-title="Canais | Portugal",PT- BLOOMBERG
+http://uniplay.link:80/850144687/p443N2966p/112030
+#EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-bmo-eSDKLm0/WDrqBACM5GI/AAAAAAAAFas/uDRGh2C-tZ0oRPUufWBWVRtVHnHBJoduwCLcB/s1600/BTV%2BHD%2Blogo.png" tvg-name="PT- BTV HD" group-title="Canais | Portugal",PT- BTV HD
+http://uniplay.link:80/850144687/p443N2966p/112010
+#EXTINF:-1 tvg-id="Agromais.br" tvg-logo="https://i.imgur.com/i0IDqQd.png" tvg-name="PT- CacaVision SD" group-title="Canais | Portugal",PT- CacaVision SD
+http://uniplay.link:80/850144687/p443N2966p/112078
+#EXTINF:-1 tvg-id="Agromais.br" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2019/07/logo11-300x200.png" tvg-name="PT- Canal 11 HD" group-title="Canais | Portugal",PT- Canal 11 HD
+http://uniplay.link:80/850144687/p443N2966p/112016
+#EXTINF:-1 tvg-id="Agromais.br" tvg-logo="https://assets.bondlayer.com/nhjtx0kggg/_assets/nwxbgehephns507vsruet.png" tvg-name="PT- Canal180" group-title="Canais | Portugal",PT- Canal180
+http://uniplay.link:80/850144687/p443N2966p/112102
+#EXTINF:-1 tvg-id="Agromais.br" tvg-logo="https://i.imgur.com/Crw0Nqu.png" tvg-name="PT- Canal Panda HD" group-title="Canais | Portugal",PT- Canal Panda HD
+http://uniplay.link:80/850144687/p443N2966p/112026
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pChUy7I.png" tvg-name="Canal Q SD" group-title="Canais | Portugal",Canal Q SD
+http://uniplay.link:80/850144687/p443N2966p/112052
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2gCvBdw.png" tvg-name="Casa Cozinha HD" group-title="Canais | Portugal",Casa Cozinha HD
+http://uniplay.link:80/850144687/p443N2966p/112045
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xpqAcSz.png" tvg-name="Caça & Pesca FHD" group-title="Canais | Portugal",Caça & Pesca FHD
+http://uniplay.link:80/850144687/p443N2966p/112079
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/urVdic4.png" tvg-name="CBS Reality SD" group-title="Canais | Portugal",CBS Reality SD
+http://uniplay.link:80/850144687/p443N2966p/112043
+#EXTINF:-1 tvg-id="" tvg-logo="https://3.bp.blogspot.com/-mHEz-7oSIXw/VSene5r6G5I/AAAAAAAAEyE/4R-rWWL9nyo/s1600/Cinemundo%2Blogo%2B1.png" tvg-name="Cine Mundo HD" group-title="Canais | Portugal",Cine Mundo HD
+http://uniplay.link:80/850144687/p443N2966p/111971
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/39/Clubbing_TV.png" tvg-name="Clubbing TV" group-title="Canais | Portugal",Clubbing TV
+http://uniplay.link:80/850144687/p443N2966p/112101
+#EXTINF:-1 tvg-id="" tvg-logo="https://4.bp.blogspot.com/-iO-o1CgV-7Y/WDrqBaMgUYI/AAAAAAAAFa8/639DZ7fRd6sryOZ8u32II8sNOO8WpG9FwCLcB/s1600/CM%2BTV%2Blogo.png" tvg-name="CMTV HD" group-title="Canais | Portugal",CMTV HD
+http://uniplay.link:80/850144687/p443N2966p/111945
+#EXTINF:-1 tvg-id="" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CNNINTERNATIONAL.png" tvg-name="CNN HD" group-title="Canais | Portugal",CNN HD
+http://uniplay.link:80/850144687/p443N2966p/111947
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/CI/logo-white.png" tvg-name="Crime Investigação SD" group-title="Canais | Portugal",Crime Investigação SD
+http://uniplay.link:80/850144687/p443N2966p/112066
+#EXTINF:-1 tvg-id="Discovery.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/DISCOVERYCHANNEL.png" tvg-name="Discovery Channel HD" group-title="Canais | Portugal",Discovery Channel HD
+http://uniplay.link:80/850144687/p443N2966p/112063
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.nos.pt/particulares/televisao/canais/exclusivos/PublishingImages/ID/logo.png" tvg-name="Discovery ID" group-title="Canais | Portugal",Discovery ID
+http://uniplay.link:80/850144687/p443N2966p/112067
+#EXTINF:-1 tvg-id="" tvg-logo="https://disneyplusbrasil.com.br/wp-content/uploads/2020/07/logo-grande.png" tvg-name="Disney +" group-title="Canais | Portugal",Disney +
+http://uniplay.link:80/850144687/p443N2966p/112022
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" tvg-name="Disney Channel SD" group-title="Canais | Portugal",Disney Channel SD
+http://uniplay.link:80/850144687/p443N2966p/112031
+#EXTINF:-1 tvg-id="" tvg-logo="https://television.mxdwn.com/wp-content/uploads/2019/08/Disney-Marvel-logo.jpg" tvg-name="Disney Marvel" group-title="Canais | Portugal",Disney Marvel
+http://uniplay.link:80/850144687/p443N2966p/112020
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/YZRmvNn/dpix.jpg" tvg-name="Disney Pixar" group-title="Canais | Portugal",Disney Pixar
+http://uniplay.link:80/850144687/p443N2966p/112019
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Star_Wars_Commander_Icon.png" tvg-name="Disney Star Wars" group-title="Canais | Portugal",Disney Star Wars
+http://uniplay.link:80/850144687/p443N2966p/112018
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/R1mVNpa.png" tvg-name="DOG TV FHD" group-title="Canais | Portugal",DOG TV FHD
+http://uniplay.link:80/850144687/p443N2966p/112054
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/DfsBEFp.png" tvg-name="E! Entertainment SD" group-title="Canais | Portugal",E! Entertainment SD
+http://uniplay.link:80/850144687/p443N2966p/112049
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" tvg-name="Eeuro News" group-title="Canais | Portugal",Eeuro News
+http://uniplay.link:80/850144687/p443N2966p/112110
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bAOA1wS.png" tvg-name="Fashion TV HD" group-title="Canais | Portugal",Fashion TV HD
+http://uniplay.link:80/850144687/p443N2966p/112068
+#EXTINF:-1 tvg-id="" tvg-logo="https://4.bp.blogspot.com/-hkMGV9ae6tU/V1ASB_QA4PI/AAAAAAAAGiE/fjlB5ne1RKAfQDv33Owvu__IYtorG_t8QCLcB/s1600/FIGHTBOX_HD-400.png" tvg-name="Fight Box HD" group-title="Canais | Portugal",Fight Box HD
+http://uniplay.link:80/850144687/p443N2966p/112086
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png" tvg-name="Fight Network" group-title="Canais | Portugal",Fight Network
+http://uniplay.link:80/850144687/p443N2966p/112087
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8usMt92.png" tvg-name="Food Network" group-title="Canais | Portugal",Food Network
+http://uniplay.link:80/850144687/p443N2966p/112048
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2jjKSSp.png" tvg-name="FOX Comedy HD" group-title="Canais | Portugal",FOX Comedy HD
+http://uniplay.link:80/850144687/p443N2966p/111989
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/cS5bZEa.png" tvg-name="FOX Crime HD" group-title="Canais | Portugal",FOX Crime HD
+http://uniplay.link:80/850144687/p443N2966p/111987
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/2213243445/fox_pt.png" tvg-name="FOX FHD" group-title="Canais | Portugal",FOX FHD
+http://uniplay.link:80/850144687/p443N2966p/111986
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/2213243445/fox_pt.png" tvg-name="FOX HD" group-title="Canais | Portugal",FOX HD
+http://uniplay.link:80/850144687/p443N2966p/111985
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/YhPfLns/Fox-Life-Brasil-Logo.png" tvg-name="FOX Life FHD" group-title="Canais | Portugal",FOX Life FHD
+http://uniplay.link:80/850144687/p443N2966p/111992
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/YhPfLns/Fox-Life-Brasil-Logo.png" tvg-name="FOX Life HD" group-title="Canais | Portugal",FOX Life HD
+http://uniplay.link:80/850144687/p443N2966p/111991
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iON4Tnu.png" tvg-name="FOX Muvies HD" group-title="Canais | Portugal",FOX Muvies HD
+http://uniplay.link:80/850144687/p443N2966p/111969
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZmZfDtk.png" tvg-name="Fuel TV FHD" group-title="Canais | Portugal",Fuel TV FHD
+http://uniplay.link:80/850144687/p443N2966p/112072
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZmZfDtk.png" tvg-name="Fuel TV HD" group-title="Canais | Portugal",Fuel TV HD
+http://uniplay.link:80/850144687/p443N2966p/112071
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/d/da/Ginx_eSports_TV_%282016-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20180608094248" tvg-name="GINX" group-title="Canais | Portugal",GINX
+http://uniplay.link:80/850144687/p443N2966p/112081
+#EXTINF:-1 tvg-id="" tvg-logo="http://app.tvdigital.link:2095/logoscanais/HBO.png" tvg-name="HBO Portugal" group-title="Canais | Portugal",HBO Portugal
+http://uniplay.link:80/850144687/p443N2966p/111976
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7NK5ReE.png" tvg-name="Hollywood HD" group-title="Canais | Portugal",Hollywood HD
+http://uniplay.link:80/850144687/p443N2966p/111967
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Investiga%C3%A7%C3%A3o_Discovery_1.png/200px-Investiga%C3%A7%C3%A3o_Discovery_1.png" tvg-name="ID Invesigation Discovery HD" group-title="Canais | Portugal",ID Invesigation Discovery HD
+http://uniplay.link:80/850144687/p443N2966p/112064
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PBr8zK4.png" tvg-name="Jim Jam SD" group-title="Canais | Portugal",Jim Jam SD
+http://uniplay.link:80/850144687/p443N2966p/112024
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NSDWjtZ.png" tvg-name="Kuriakos TV FHD" group-title="Canais | Portugal",Kuriakos TV FHD
+http://uniplay.link:80/850144687/p443N2966p/112105
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.meo.pt/PublishingImages/logos/lolly-kids-logo-meo-desktop.png" tvg-name="Lolly Kids" group-title="Canais | Portugal",Lolly Kids
+http://uniplay.link:80/850144687/p443N2966p/112091
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/M6_Music_%282012%29.png" tvg-name="M6 Music HD" group-title="Canais | Portugal",M6 Music HD
+http://uniplay.link:80/850144687/p443N2966p/112103
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/nxTIh9U.png" tvg-name="MCM POP SD" group-title="Canais | Portugal",MCM POP SD
+http://uniplay.link:80/850144687/p443N2966p/112098
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ugDPCmB.png" tvg-name="MCM TOP" group-title="Canais | Portugal",MCM TOP
+http://uniplay.link:80/850144687/p443N2966p/112097
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Mezzo_Live_HD_logo.png" tvg-name="Mezzo Live FHD" group-title="Canais | Portugal",Mezzo Live FHD
+http://uniplay.link:80/850144687/p443N2966p/112099
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/I0ZTOVi.png" tvg-name="MotorVision TV SD" group-title="Canais | Portugal",MotorVision TV SD
+http://uniplay.link:80/850144687/p443N2966p/112076
+#EXTINF:-1 tvg-id="" tvg-logo="https://wpcdn.pl/ptv-stage/logo/bright/128/439.png" tvg-name="MTV Live HD" group-title="Canais | Portugal",MTV Live HD
+http://uniplay.link:80/850144687/p443N2966p/112096
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wNvqkOM.png" tvg-name="MTV Portugal HD" group-title="Canais | Portugal",MTV Portugal HD
+http://uniplay.link:80/850144687/p443N2966p/112095
+#EXTINF:-1 tvg-id="" tvg-logo="https://masideas.com/files/2015/06/MAS-CHIC.-LOGOTIPO.png" tvg-name="Más Chic HD" group-title="Canais | Portugal",Más Chic HD
+http://uniplay.link:80/850144687/p443N2966p/112047
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Jx7AFvA.png" tvg-name="PT National Geographic HD" group-title="Canais | Portugal",PT National Geographic HD
+http://uniplay.link:80/850144687/p443N2966p/112061
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/emG4pHK.png" tvg-name="National Geographic Wild HD" group-title="Canais | Portugal",National Geographic Wild HD
+http://uniplay.link:80/850144687/p443N2966p/112059
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.meo.pt/PublishingImages/paginas/nick-plus/logo-nick-branco.png" tvg-name="Nick + HD" group-title="Canais | Portugal",Nick + HD
+http://uniplay.link:80/850144687/p443N2966p/112021
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/E8CQtKg.png" tvg-name="Nickelodeon SD" group-title="Canais | Portugal",Nickelodeon SD
+http://uniplay.link:80/850144687/p443N2966p/112025
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.nos.pt/common/img/nos.png" tvg-name="NOS StudiosHD" group-title="Canais | Portugal",NOS StudiosHD
+http://uniplay.link:80/850144687/p443N2966p/111965
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OeQhRFQ.png" tvg-name="Odisseia HD" group-title="Canais | Portugal",Odisseia HD
+http://uniplay.link:80/850144687/p443N2966p/112065
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.absatellite.com/wp-content/uploads/outdoor_channel_hd.png" tvg-name="Outdoor HD" group-title="Canais | Portugal",Outdoor HD
+http://uniplay.link:80/850144687/p443N2966p/112077
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0rAXNbf.png" tvg-name="Panda Biggs SD" group-title="Canais | Portugal",Panda Biggs SD
+http://uniplay.link:80/850144687/p443N2966p/112029
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kvmx029.png" tvg-name="PFC SD" group-title="Canais | Portugal",PFC SD
+http://uniplay.link:80/850144687/p443N2966p/112070
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BHxX7EF.png" tvg-name="Porto Canal HD" group-title="Canais | Portugal",Porto Canal HD
+http://uniplay.link:80/850144687/p443N2966p/112051
+#EXTINF:-1 tvg-id="Agromais.br" tvg-logo="https://i.imgur.com/h7zVseY.png" tvg-name="PT- 24 Kitchen HD" group-title="Canais | Portugal",PT- 24 Kitchen HD
+http://uniplay.link:80/850144687/p443N2966p/112046
+#EXTINF:-1 tvg-id="Amc.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/AMC.png" tvg-name="PT- AMC HD" group-title="Canais | Portugal",PT- AMC HD
+http://uniplay.link:80/850144687/p443N2966p/111973
+#EXTINF:-1 tvg-id="Agromais.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/AXN.png" tvg-name="PT- AXN HD" group-title="Canais | Portugal",PT- AXN HD
+http://uniplay.link:80/850144687/p443N2966p/111977
+#EXTINF:-1 tvg-id="Agromais.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/AXN.png" tvg-name="PT- AXN MOVIES  HD" group-title="Canais | Portugal",PT- AXN MOVIES  HD
+http://uniplay.link:80/850144687/p443N2966p/111981
+#EXTINF:-1 tvg-id="Agromais.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/AXN.png" tvg-name="PT- AXN WHITE HD" group-title="Canais | Portugal",PT- AXN WHITE HD
+http://uniplay.link:80/850144687/p443N2966p/111979
+#EXTINF:-1 tvg-id="Agromais.br" tvg-logo="https://i.imgur.com/UKFLfSf.png" tvg-name="PT- Baby TV SD" group-title="Canais | Portugal",PT- Baby TV SD
+http://uniplay.link:80/850144687/p443N2966p/112023
+#EXTINF:-1 tvg-id="Agromais.br" tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/blaze/logo.png" tvg-name="PT- Blaze HD" group-title="Canais | Portugal",PT- Blaze HD
+http://uniplay.link:80/850144687/p443N2966p/112053
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/COMBATE.png" tvg-name="PT- Combate HD" group-title="Canais | Portugal",PT- Combate HD
+http://uniplay.link:80/850144687/p443N2966p/112083
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/FsRDN2Z/889d7ddef09c4a3049981708eb525ed5.png" tvg-name="PT- Marvel" group-title="Canais | Portugal",PT- Marvel
+http://uniplay.link:80/850144687/p443N2966p/111935
+#EXTINF:-1 tvg-id="Agromais.br" tvg-logo="https://4.bp.blogspot.com/-3HFzezHOw2s/WB3MK6zeqTI/AAAAAAAAFRk/DhtV1HhzaL4DkDZt2reem5MVjO3711VoQCLcB/s1600/RTP%2B1%2BHD%2Blogo.png" tvg-name="PT- RTP 1 HD" group-title="Canais | Portugal",PT- RTP 1 HD
+http://uniplay.link:80/850144687/p443N2966p/111937
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-logo="https://4.bp.blogspot.com/-iC-8_X3fxMo/WB3MLP7PRrI/AAAAAAAAFRw/loEmJfcu0wIJna15b83hKr53bbsLmoRGQCLcB/s1600/RTP%2B2%2Blogo.png" tvg-name="PT- RTP 2 HD" group-title="Canais | Portugal",PT- RTP 2 HD
+http://uniplay.link:80/850144687/p443N2966p/111939
+#EXTINF:-1 tvg-id="Agromais.br" tvg-logo="https://i.imgur.com/ECoFH6v.png" tvg-name="PT- RTP 3 HD" group-title="Canais | Portugal",PT- RTP 3 HD
+http://uniplay.link:80/850144687/p443N2966p/111949
+#EXTINF:-1 tvg-id="Agromais.br" tvg-logo="https://i.imgur.com/9HzL9J3.png" tvg-name="PT- RTP Africa SD" group-title="Canais | Portugal",PT- RTP Africa SD
+http://uniplay.link:80/850144687/p443N2966p/112057
+#EXTINF:-1 tvg-id="Agromais.br" tvg-logo="https://i.imgur.com/1oHvxM5.png" tvg-name="PT- RTP Açores SD" group-title="Canais | Portugal",PT- RTP Açores SD
+http://uniplay.link:80/850144687/p443N2966p/112056
+#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-logo="https://i.imgur.com/SI9g5qp.png" tvg-name="PT- RTP MADEIRA" group-title="Canais | Portugal",PT- RTP MADEIRA
+http://uniplay.link:80/850144687/p443N2966p/112058
+#EXTINF:-1 tvg-id="Agromais.br" tvg-logo="http://prvxtv.dnsfor.me/TUGA/RTPMEMORIA.png" tvg-name="PT- RTP Memória SD" group-title="Canais | Portugal",PT- RTP Memória SD
+http://uniplay.link:80/850144687/p443N2966p/112055
+#EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/R/red-bull-logo-379EC9059E-seeklogo.com.png" tvg-name="Red Bull TV  FHD" group-title="Canais | Portugal",Red Bull TV  FHD
+http://uniplay.link:80/850144687/p443N2966p/112080
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/n8MiEHQ.png" tvg-name="SIC Caras HD" group-title="Canais | Portugal",SIC Caras HD
+http://uniplay.link:80/850144687/p443N2966p/112039
+#EXTINF:-1 tvg-id="" tvg-logo="https://4.bp.blogspot.com/-seQXpicDRC0/WDtddC4QH6I/AAAAAAAAFjg/07nSMTXxE54Vf4TlXW2rTvG35BT-d-qqQCLcB/s1600/SIC%2BHD%2Blogo.png" tvg-name="SIC HD" group-title="Canais | Portugal",SIC HD
+http://uniplay.link:80/850144687/p443N2966p/111941
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/WWW5qKT.png" tvg-name="SIC Kids HD" group-title="Canais | Portugal",SIC Kids HD
+http://uniplay.link:80/850144687/p443N2966p/112028
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YPMnEq4.png" tvg-name="SIC Mulher HD" group-title="Canais | Portugal",SIC Mulher HD
+http://uniplay.link:80/850144687/p443N2966p/112040
+#EXTINF:-1 tvg-id="" tvg-logo="https://3.bp.blogspot.com/-qnWwcwxFnnk/WDrqHavQXjI/AAAAAAAAFes/H8b9nHTH8L4RqA2OTXP9R2qeYHLw4Xw2QCLcB/s1600/SIC%2BNot%25C3%25ADcias%2Blogo.png" tvg-name="SIC Noticias HD" group-title="Canais | Portugal",SIC Noticias HD
+http://uniplay.link:80/850144687/p443N2966p/111952
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZPj99mx.png" tvg-name="SIC Radical HD" group-title="Canais | Portugal",SIC Radical HD
+http://uniplay.link:80/850144687/p443N2966p/112041
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.kindpng.com/picc/m/65-659934_transparent-background-star-hd-png-download.png" tvg-name="Star + HD" group-title="Canais | Portugal",Star + HD
+http://uniplay.link:80/850144687/p443N2966p/111975
+#EXTINF:-1 tvg-id="" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SYFY.png" tvg-name="SYFY HD" group-title="Canais | Portugal",SYFY HD
+http://uniplay.link:80/850144687/p443N2966p/111983
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.rtc.cv/admin/imgBD/estaticos/logotipo_tcv.png" tvg-name="TCV Internacioanal" group-title="Canais | Portugal",TCV Internacioanal
+http://uniplay.link:80/850144687/p443N2966p/112108
+#EXTINF:-1 tvg-id="" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TLC.png" tvg-name="TLC SD" group-title="Canais | Portugal",TLC SD
+http://uniplay.link:80/850144687/p443N2966p/112044
+#EXTINF:-1 tvg-id="" tvg-logo="s:1:/images/mg9e4VnU5MiobcDarwnBsaFZiA61jn23PT4aBLXu4Ns.png" tvg-name="Toros TV FHD" group-title="Canais | Portugal",Toros TV FHD
+http://uniplay.link:80/850144687/p443N2966p/112074
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iwj7CTK.png" tvg-name="Toros TV HD" group-title="Canais | Portugal",Toros TV HD
+http://uniplay.link:80/850144687/p443N2966p/112073
+#EXTINF:-1 tvg-id="" tvg-logo="http://3.bp.blogspot.com/_KyS0t-zNphQ/Sm8lSLMtanI/AAAAAAAAALU/BPsy3PC4LPg/s320/tpa+i.jpg" tvg-name="TPA Internacional SD" group-title="Canais | Portugal",TPA Internacional SD
+http://uniplay.link:80/850144687/p443N2966p/112106
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4M2XZfF.png" tvg-name="Trace Urban" group-title="Canais | Portugal",Trace Urban
+http://uniplay.link:80/850144687/p443N2966p/112094
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/709MBnc.png" tvg-name="Travel Channel HD" group-title="Canais | Portugal",Travel Channel HD
+http://uniplay.link:80/850144687/p443N2966p/112050
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvcaction.png" tvg-name="TV Cine Action HD" group-title="Canais | Portugal",TV Cine Action HD
+http://uniplay.link:80/850144687/p443N2966p/111963
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvcedition.png" tvg-name="TV Cine Edition HD" group-title="Canais | Portugal",TV Cine Edition HD
+http://uniplay.link:80/850144687/p443N2966p/111958
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvcemotion.png" tvg-name="TV Cine Emotion HD" group-title="Canais | Portugal",TV Cine Emotion HD
+http://uniplay.link:80/850144687/p443N2966p/111961
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvctop.png" tvg-name="TV Cine Top HD" group-title="Canais | Portugal",TV Cine Top HD
+http://uniplay.link:80/850144687/p443N2966p/111956
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8c/TV_GLOBO_2008_portugal.png" tvg-name="TV Globo HD" group-title="Canais | Portugal",TV Globo HD
+http://uniplay.link:80/850144687/p443N2966p/112036
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oC9BsVv.png" tvg-name="TV Record HD" group-title="Canais | Portugal",TV Record HD
+http://uniplay.link:80/850144687/p443N2966p/112038
+#EXTINF:-1 tvg-id="" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/cv-tcv-9220.jpg" tvg-name="TVC Cabo Verde" group-title="Canais | Portugal",TVC Cabo Verde
+http://uniplay.link:80/850144687/p443N2966p/112109
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.tvcine.pt/TVCine-PLUS-pattern.gif" tvg-name="TVCine + HD" group-title="Canais | Portugal",TVCine + HD
+http://uniplay.link:80/850144687/p443N2966p/111955
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dm0MYaW.png" tvg-name="TVI FicçãoHD" group-title="Canais | Portugal",TVI FicçãoHD
+http://uniplay.link:80/850144687/p443N2966p/112033
+#EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-t5GXF5OCKUc/WKte3ETJtsI/AAAAAAAAFrg/qTgWMdGokKsyXqjudlAMnyvRUeL6O_AlgCLcB/s1600/TVI%2Blogo.png" tvg-name="TVI HD" group-title="Canais | Portugal",TVI HD
+http://uniplay.link:80/850144687/p443N2966p/111943
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GpUO1Bb.png" tvg-name="TVI Reality" group-title="Canais | Portugal",TVI Reality
+http://uniplay.link:80/850144687/p443N2966p/112113
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GpUO1Bb.png" tvg-name="TVI Reality FHD" group-title="Canais | Portugal",TVI Reality FHD
+http://uniplay.link:80/850144687/p443N2966p/112114
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GpUO1Bb.png" tvg-name="TVI Reality HD" group-title="Canais | Portugal",TVI Reality HD
+http://uniplay.link:80/850144687/p443N2966p/112035
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GpUO1Bb.png" tvg-name="TVI Reality Low" group-title="Canais | Portugal",TVI Reality Low
+http://uniplay.link:80/850144687/p443N2966p/112112
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GpUO1Bb.png" tvg-name="TVI Reality Mosaico" group-title="Canais | Portugal",TVI Reality Mosaico
+http://uniplay.link:80/850144687/p443N2966p/112111
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Nn30UkT.png" tvg-name="VH1 SD" group-title="Canais | Portugal",VH1 SD
+http://uniplay.link:80/850144687/p443N2966p/112093
+#EXTINF:-1 tvg-id="" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a77021bb-a973-4a9b-8902-47e05787b08f/d8txzp1-3f32b570-9b7f-437d-ad29-2df8cdbf554c.png" tvg-name="WWE HD" group-title="Canais | Portugal",WWE HD
+http://uniplay.link:80/850144687/p443N2966p/112085
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c6/Zap_Viva_%28logo%29.png" tvg-name="Zap Viva FHD" group-title="Canais | Portugal",Zap Viva FHD
+http://uniplay.link:80/850144687/p443N2966p/112104
 
 
 
@@ -78,258 +254,6 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen
 
 
 
-
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: A BOLA TV ( 4K )" group-title="CANAIS | ESPORTES PORTUGAL",PT: A BOLA TV ( 4K )
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307471
-#EXTINF:-1 tvg-id="abolatv.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/A_Bola_TV_logo.png" tvg-name="PT: A Bola TV HD" group-title="CANAIS | ESPORTES PORTUGAL",PT: A Bola TV HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307927
-#EXTINF:-1 tvg-id="abolatv.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/A_Bola_TV_logo.png" tvg-name="PT: A BOLA TV*" group-title="CANAIS | ESPORTES PORTUGAL",PT: A BOLA TV*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/297187
-#EXTINF:-1 tvg-id="benficatv.pt" tvg-logo="https://curl.pk/img/u/223787d64eb754b15c80b04558a11332452.png" tvg-name="PT: BTV 4K" group-title="CANAIS | ESPORTES PORTUGAL",PT: BTV 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307464
-#EXTINF:-1 tvg-id="1plus1.pt" tvg-logo="https://media.slbenfica.pt/-/media/benficadp/images/generic_content_pages/btv/btv_logo.png" tvg-name="PT: BTV 1 FHD*" group-title="CANAIS | ESPORTES PORTUGAL",PT: BTV 1 FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/297190
-#EXTINF:-1 tvg-id="1plus1.pt" tvg-logo="https://media.slbenfica.pt/-/media/benficadp/images/generic_content_pages/btv/btv_logo.png" tvg-name="PT: BTV 1 HD" group-title="CANAIS | ESPORTES PORTUGAL",PT: BTV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/297189
-#EXTINF:-1 tvg-id="1plus1.pt" tvg-logo="https://media.slbenfica.pt/-/media/benficadp/images/generic_content_pages/btv/btv_logo.png" tvg-name="PT: BTV 1 SD*" group-title="CANAIS | ESPORTES PORTUGAL",PT: BTV 1 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/297188
-#EXTINF:-1 tvg-id="" tvg-logo="https://curl.pk/img/u/223787d64eb754b15c80b04558a11332452.png" tvg-name="PT: BTV HD*" group-title="CANAIS | ESPORTES PORTUGAL",PT: BTV HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307953
-#EXTINF:-1 tvg-id="" tvg-logo="https://curl.pk/img/u/223787d64eb754b15c80b04558a11332452.png" tvg-name="PT: BTV SD" group-title="CANAIS | ESPORTES PORTUGAL",PT: BTV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307952
-#EXTINF:-1 tvg-id="" tvg-logo="https://img-cdn.curl.pk/channels_icon/11509750541.png" tvg-name="PT: Canal 11 FHD" group-title="CANAIS | ESPORTES PORTUGAL",PT: Canal 11 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307925
-#EXTINF:-1 tvg-id="canal11.pt" tvg-logo="https://img-cdn.curl.pk/channels_icon/11509750541.png" tvg-name="PT | Canal 11 FHD*" group-title="CANAIS | ESPORTES PORTUGAL",PT | Canal 11 FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/306948
-#EXTINF:-1 tvg-id="canal11.pt" tvg-logo="https://img-cdn.curl.pk/channels_icon/11509750541.png" tvg-name="PT: CANAL 11" group-title="CANAIS | ESPORTES PORTUGAL",PT: CANAL 11
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307409
-#EXTINF:-1 tvg-id="" tvg-logo="https://img-cdn.curl.pk/channels_icon/67073602011.png" tvg-name="PT: Combat FHD" group-title="CANAIS | ESPORTES PORTUGAL",PT: Combat FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307976
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-logo="https://img-cdn.curl.pk/channels_icon/35068844511.png" tvg-name="PT: ELEVEN SPORTS 1 4K" group-title="CANAIS | ESPORTES PORTUGAL",PT: ELEVEN SPORTS 1 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307438
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-logo="https://img-cdn.curl.pk/channels_icon/35068844511.png" tvg-name="PT: ELEVEN SPORTS 1 FHD" group-title="CANAIS | ESPORTES PORTUGAL",PT: ELEVEN SPORTS 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/116716
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-logo="https://img-cdn.curl.pk/channels_icon/90929690281.png" tvg-name="PT: Eleven Sports 1 FHD*" group-title="CANAIS | ESPORTES PORTUGAL",PT: Eleven Sports 1 FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307954
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-logo="https://img-cdn.curl.pk/channels_icon/35068844511.png" tvg-name="PT: ELEVEN SPORTS 1 HD" group-title="CANAIS | ESPORTES PORTUGAL",PT: ELEVEN SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/53994
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-logo="https://img-cdn.curl.pk/channels_icon/90921186001.png" tvg-name="PT: Eleven Sports 1 HD*" group-title="CANAIS | ESPORTES PORTUGAL",PT: Eleven Sports 1 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307955
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-logo="https://img-cdn.curl.pk/channels_icon/35068844511.png" tvg-name="PT: ELEVEN SPORTS 1 SD" group-title="CANAIS | ESPORTES PORTUGAL",PT: ELEVEN SPORTS 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/53993
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-logo="https://img-cdn.curl.pk/channels_icon/35068844511.png" tvg-name="PT: Eleven Sports SD 1*" group-title="CANAIS | ESPORTES PORTUGAL",PT: Eleven Sports SD 1*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307956
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-logo="https://img-cdn.curl.pk/channels_icon/26437584021.png" tvg-name="PT: ELEVEN SPORTS 2 4K" group-title="CANAIS | ESPORTES PORTUGAL",PT: ELEVEN SPORTS 2 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307115
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-logo="https://img-cdn.curl.pk/channels_icon/26437584021.png" tvg-name="PT: ELEVEN SPORTS 2 FHD" group-title="CANAIS | ESPORTES PORTUGAL",PT: ELEVEN SPORTS 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/53996
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-logo="https://img-cdn.curl.pk/channels_icon/26437584021.png" tvg-name="PT: Eleven Sports 2 FHD*" group-title="CANAIS | ESPORTES PORTUGAL",PT: Eleven Sports 2 FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307959
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-logo="https://img-cdn.curl.pk/channels_icon/26437584021.png" tvg-name="PT: ELEVEN SPORTS  2 FHD*" group-title="CANAIS | ESPORTES PORTUGAL",PT: ELEVEN SPORTS  2 FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/297178
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-logo="https://img-cdn.curl.pk/channels_icon/66406572981.png" tvg-name="PT: Eleven Sports 2 HD" group-title="CANAIS | ESPORTES PORTUGAL",PT: Eleven Sports 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307957
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-logo="https://img-cdn.curl.pk/channels_icon/59228469501.png" tvg-name="PT: Eleven Sports 2 HD*" group-title="CANAIS | ESPORTES PORTUGAL",PT: Eleven Sports 2 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307958
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-logo="https://img-cdn.curl.pk/channels_icon/26437584021.png" tvg-name="PT: ELEVEN SPORTS 2 SD" group-title="CANAIS | ESPORTES PORTUGAL",PT: ELEVEN SPORTS 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/53995
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-logo="https://img-cdn.curl.pk/channels_icon/80528221451.png" tvg-name="PT: ELEVEN SPORTS 3 SD" group-title="CANAIS | ESPORTES PORTUGAL",PT: ELEVEN SPORTS 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/53998
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png" tvg-name="PT: ELEVEN SPORTS 3 FHD" group-title="CANAIS | ESPORTES PORTUGAL",PT: ELEVEN SPORTS 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/53999
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-logo="https://img-cdn.curl.pk/channels_icon/92758271991.png" tvg-name="PT: ELEVEN SPORTS 3 FHD*" group-title="CANAIS | ESPORTES PORTUGAL",PT: ELEVEN SPORTS 3 FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307962
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png" tvg-name="PT: ELEVEN SPORTS 3 HD" group-title="CANAIS | ESPORTES PORTUGAL",PT: ELEVEN SPORTS 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/54000
-#EXTINF:-1 tvg-id="" tvg-logo="https://img-cdn.curl.pk/channels_icon/21480419701.png" tvg-name="PT: Eleven Sports 3 HD" group-title="CANAIS | ESPORTES PORTUGAL",PT: Eleven Sports 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307961
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-logo="https://img-cdn.curl.pk/channels_icon/80528221451.png" tvg-name="PT: ELEVEN SPORTS 3 SD*" group-title="CANAIS | ESPORTES PORTUGAL",PT: ELEVEN SPORTS 3 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307960
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png" tvg-name="PT: ELEVEN SPORTS 4 FHD" group-title="CANAIS | ESPORTES PORTUGAL",PT: ELEVEN SPORTS 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/54002
-#EXTINF:-1 tvg-id="" tvg-logo="https://img-cdn.curl.pk/channels_icon/55288435571.png" tvg-name="Pt: Eleven Sports 4 FHD" group-title="CANAIS | ESPORTES PORTUGAL",Pt: Eleven Sports 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307964
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png" tvg-name="PT: ELEVEN SPORTS 4 HD" group-title="CANAIS | ESPORTES PORTUGAL",PT: ELEVEN SPORTS 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/54003
-#EXTINF:-1 tvg-id="" tvg-logo="https://img-cdn.curl.pk/channels_icon/33447846561.png" tvg-name="PT: Eleven Sports 4 HD" group-title="CANAIS | ESPORTES PORTUGAL",PT: Eleven Sports 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307965
-#EXTINF:-1 tvg-id="" tvg-logo="https://img-cdn.curl.pk/channels_icon/55246952831.png" tvg-name="Pt: Eleven Sports 4" group-title="CANAIS | ESPORTES PORTUGAL",Pt: Eleven Sports 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307963
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png" tvg-name="PT: ELEVEN SPORTS 4" group-title="CANAIS | ESPORTES PORTUGAL",PT: ELEVEN SPORTS 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/54001
-#EXTINF:-1 tvg-id="" tvg-logo="https://img-cdn.curl.pk/channels_icon/56263321141.png" tvg-name="PT: Eleven Sports 6 FHD" group-title="CANAIS | ESPORTES PORTUGAL",PT: Eleven Sports 6 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307971
-#EXTINF:-1 tvg-id="" tvg-logo="https://img-cdn.curl.pk/channels_icon/75473299161.png" tvg-name="Pt: Eleven Sports 6" group-title="CANAIS | ESPORTES PORTUGAL",Pt: Eleven Sports 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307969
-#EXTINF:-1 tvg-id="" tvg-logo="https://img-cdn.curl.pk/channels_icon/36475233501.png" tvg-name="PT: Eleven Sports 6 HD" group-title="CANAIS | ESPORTES PORTUGAL",PT: Eleven Sports 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307970
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png" tvg-name="PT: ELEVEN SPORTS 5 FHD" group-title="CANAIS | ESPORTES PORTUGAL",PT: ELEVEN SPORTS 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/54005
-#EXTINF:-1 tvg-id="" tvg-logo="https://img-cdn.curl.pk/channels_icon/13816943561.png" tvg-name="PT: Eleven Sports 5 FHD" group-title="CANAIS | ESPORTES PORTUGAL",PT: Eleven Sports 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307968
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png" tvg-name="PT: ELEVEN SPORTS 5 HD" group-title="CANAIS | ESPORTES PORTUGAL",PT: ELEVEN SPORTS 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/54006
-#EXTINF:-1 tvg-id="" tvg-logo="https://img-cdn.curl.pk/channels_icon/47038704951.png" tvg-name="PT: Eleven Sports 5 HD" group-title="CANAIS | ESPORTES PORTUGAL",PT: Eleven Sports 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307967
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png" tvg-name="PT: ELEVEN SPORTS 5" group-title="CANAIS | ESPORTES PORTUGAL",PT: ELEVEN SPORTS 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/54004
-#EXTINF:-1 tvg-id="" tvg-logo="https://img-cdn.curl.pk/channels_icon/80858478501.png" tvg-name="PT : Eleven Sports 5" group-title="CANAIS | ESPORTES PORTUGAL",PT : Eleven Sports 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307966
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png" tvg-name="PT: ELEVEN SPORTS 6 FHD" group-title="CANAIS | ESPORTES PORTUGAL",PT: ELEVEN SPORTS 6 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/54008
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png" tvg-name="PT: ELEVEN SPORTS 6 HD" group-title="CANAIS | ESPORTES PORTUGAL",PT: ELEVEN SPORTS 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/54009
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Logo_Eleven_Sports_2020.png" tvg-name="PT: ELEVEN SPORTS 6" group-title="CANAIS | ESPORTES PORTUGAL",PT: ELEVEN SPORTS 6
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/54007
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/x4ZTqDJ.png" tvg-name="PT: EUROSPORT 1 HD*" group-title="CANAIS | ESPORTES PORTUGAL",PT: EUROSPORT 1 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/297193
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/x4ZTqDJ.png" tvg-name="PT: EUROSPORT 1 SD*" group-title="CANAIS | ESPORTES PORTUGAL",PT: EUROSPORT 1 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/297192
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/x4ZTqDJ.png" tvg-name="PT: EUROSPORT 2 SD*" group-title="CANAIS | ESPORTES PORTUGAL",PT: EUROSPORT 2 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/297191
-#EXTINF:-1 tvg-id="" tvg-logo="https://img-cdn.curl.pk/channels_icon/84682087451.png" tvg-name="PT: Eurosports 1 HD" group-title="CANAIS | ESPORTES PORTUGAL",PT: Eurosports 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307973
-#EXTINF:-1 tvg-id="" tvg-logo="https://img-cdn.curl.pk/channels_icon/29719204421.png" tvg-name="PT: Eurosports 2 HD" group-title="CANAIS | ESPORTES PORTUGAL",PT: Eurosports 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307974
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/jH4yzdq.png" tvg-name="PT: FIGHT NETWORK FHD*" group-title="CANAIS | ESPORTES PORTUGAL",PT: FIGHT NETWORK FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/297179
-#EXTINF:-1 tvg-id="" tvg-logo="https://curl.pk/img/u/1e770b9d24c77bdf5f69209093b609888701.png" tvg-name="PT: Motorvision FHD" group-title="CANAIS | ESPORTES PORTUGAL",PT: Motorvision FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307978
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/3eBdDsv.png" tvg-name="PT: MOTORVISION HD*" group-title="CANAIS | ESPORTES PORTUGAL",PT: MOTORVISION HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/297185
-#EXTINF:-1 tvg-id="" tvg-logo="https://img-cdn.curl.pk/channels_icon/71471791891.png" tvg-name="PT: PFC HD" group-title="CANAIS | ESPORTES PORTUGAL",PT: PFC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307975
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/UlwiI1v.png" tvg-name="PT: PFC SD*" group-title="CANAIS | ESPORTES PORTUGAL",PT: PFC SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/297186
-#EXTINF:-1 tvg-id="sportingtv.pt" tvg-logo="https://img-cdn.curl.pk/channels_icon/96737784111.png" tvg-name="PT: SPORTING TV FHD" group-title="CANAIS | ESPORTES PORTUGAL",PT: SPORTING TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307462
-#EXTINF:-1 tvg-id="sportingtv.pt" tvg-logo="" tvg-name="PT | Sporting TV FHD" group-title="CANAIS | ESPORTES PORTUGAL",PT | Sporting TV FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/306991
-#EXTINF:-1 tvg-id="sportingtv.pt" tvg-logo="https://img-cdn.curl.pk/channels_icon/96737784111.png" tvg-name="PT: SPORTING TV SD" group-title="CANAIS | ESPORTES PORTUGAL",PT: SPORTING TV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307463
-#EXTINF:-1 tvg-id="sportingtv.pt" tvg-logo="https://img-cdn.curl.pk/channels_icon/96737784111.png" tvg-name="PT: SPORTING TV" group-title="CANAIS | ESPORTES PORTUGAL",PT: SPORTING TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307972
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-logo="https://img-cdn.curl.pk/channels_icon/42194239471.png" tvg-name="PT: SPORT TV 1 4K" group-title="CANAIS | ESPORTES PORTUGAL",PT: SPORT TV 1 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307416
-#EXTINF:-1 tvg-id="" tvg-logo="https://img-cdn.curl.pk/channels_icon/42194239471.png" tvg-name="PT: Sport TV 1 FHD" group-title="CANAIS | ESPORTES PORTUGAL",PT: Sport TV 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307936
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="https://img-cdn.curl.pk/channels_icon/42194239471.png" tvg-name="PT: SPORT TV 1 FHD*" group-title="CANAIS | ESPORTES PORTUGAL",PT: SPORT TV 1 FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307413
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="https://img-cdn.curl.pk/channels_icon/63958668851.png" tvg-name="PT : SPORT TV 1 FHD**" group-title="CANAIS | ESPORTES PORTUGAL",PT : SPORT TV 1 FHD**
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/297196
-#EXTINF:-1 tvg-id="" tvg-logo="https://img-cdn.curl.pk/channels_icon/37029653971.png" tvg-name="PT: Sport TV + HD" group-title="CANAIS | ESPORTES PORTUGAL",PT: Sport TV + HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307933
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="https://img-cdn.curl.pk/channels_icon/42194239471.png" tvg-name="PT: SPORT TV 1 HD**" group-title="CANAIS | ESPORTES PORTUGAL",PT: SPORT TV 1 HD**
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307414
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="https://img-cdn.curl.pk/channels_icon/63958668851.png" tvg-name="PT : SPORT TV 1 HD*" group-title="CANAIS | ESPORTES PORTUGAL",PT : SPORT TV 1 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/297184
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-logo="https://img-cdn.curl.pk/channels_icon/99548243601.png" tvg-name="PT: Sport TV 1 HD" group-title="CANAIS | ESPORTES PORTUGAL",PT: Sport TV 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307935
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="https://img-cdn.curl.pk/channels_icon/63958668851.png" tvg-name="PT: SPORT TV 1 SD*" group-title="CANAIS | ESPORTES PORTUGAL",PT: SPORT TV 1 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307934
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="https://img-cdn.curl.pk/channels_icon/42194239471.png" tvg-name="PT: SPORT TV 1 SD" group-title="CANAIS | ESPORTES PORTUGAL",PT: SPORT TV 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307415
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/FknzN2L.png" tvg-name="PT: SPORT TV*" group-title="CANAIS | ESPORTES PORTUGAL",PT: SPORT TV*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/297174
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="https://img-cdn.curl.pk/channels_icon/58849997341.png" tvg-name="PT: SPORT TV 2 4K" group-title="CANAIS | ESPORTES PORTUGAL",PT: SPORT TV 2 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307098
-#EXTINF:-1 tvg-id="" tvg-logo="https://img-cdn.curl.pk/channels_icon/73219314261.png" tvg-name="PT: Sport TV 2 FHD" group-title="CANAIS | ESPORTES PORTUGAL",PT: Sport TV 2 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307939
-#EXTINF:-1 tvg-id="" tvg-logo="https://img-cdn.curl.pk/channels_icon/60781612131.png" tvg-name="PT: Sport TV 2 HD" group-title="CANAIS | ESPORTES PORTUGAL",PT: Sport TV 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307938
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="https://img-cdn.curl.pk/channels_icon/58849997341.png" tvg-name="PT: SPORT TV 2 HD*" group-title="CANAIS | ESPORTES PORTUGAL",PT: SPORT TV 2 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307418
-#EXTINF:-1 tvg-id="" tvg-logo="https://img-cdn.curl.pk/channels_icon/58849997341.png" tvg-name="Pt: Sport TV 2 SD" group-title="CANAIS | ESPORTES PORTUGAL",Pt: Sport TV 2 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307937
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="https://img-cdn.curl.pk/channels_icon/94780071621.png" tvg-name="PT: Sport TV 3 FHD" group-title="CANAIS | ESPORTES PORTUGAL",PT: Sport TV 3 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/306962
-#EXTINF:-1 tvg-id="" tvg-logo="https://img-cdn.curl.pk/channels_icon/94780071621.png" tvg-name="PT: Sport TV 3 FHD*" group-title="CANAIS | ESPORTES PORTUGAL",PT: Sport TV 3 FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307942
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="https://img-cdn.curl.pk/channels_icon/94780071621.png" tvg-name="PT: SPORT TV 3 FHD**" group-title="CANAIS | ESPORTES PORTUGAL",PT: SPORT TV 3 FHD**
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307422
-#EXTINF:-1 tvg-id="" tvg-logo="https://img-cdn.curl.pk/channels_icon/71272654001.png" tvg-name="PT: Sport TV 3 HD" group-title="CANAIS | ESPORTES PORTUGAL",PT: Sport TV 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307941
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="https://img-cdn.curl.pk/channels_icon/71272654001.png" tvg-name="PT: SPORT TV 3 HD*" group-title="CANAIS | ESPORTES PORTUGAL",PT: SPORT TV 3 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307423
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png" tvg-name="PT: SPORT TV 3 LOW*" group-title="CANAIS | ESPORTES PORTUGAL",PT: SPORT TV 3 LOW*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/293485
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: SPORT TV+ LOW*" group-title="CANAIS | ESPORTES PORTUGAL",PT: SPORT TV+ LOW*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/293482
-#EXTINF:-1 tvg-id="" tvg-logo="https://img-cdn.curl.pk/channels_icon/30700435421.png" tvg-name="Pt: Sport TV 3 SD" group-title="CANAIS | ESPORTES PORTUGAL",Pt: Sport TV 3 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307940
-#EXTINF:-1 tvg-id="sporttv4k.pt" tvg-logo="" tvg-name="PT: SPORT TV 4 4K" group-title="CANAIS | ESPORTES PORTUGAL",PT: SPORT TV 4 4K
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307426
-#EXTINF:-1 tvg-id="" tvg-logo="https://img-cdn.curl.pk/channels_icon/92632581301.png" tvg-name="PT: Sport TV 4 FHD" group-title="CANAIS | ESPORTES PORTUGAL",PT: Sport TV 4 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307945
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-logo="https://img-cdn.curl.pk/channels_icon/92632581301.png" tvg-name="PT: SPORT TV 4 FHD*" group-title="CANAIS | ESPORTES PORTUGAL",PT: SPORT TV 4 FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/297176
-#EXTINF:-1 tvg-id="" tvg-logo="https://img-cdn.curl.pk/channels_icon/93955074211.png" tvg-name="PT: Sport TV 4 HD" group-title="CANAIS | ESPORTES PORTUGAL",PT: Sport TV 4 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307944
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-logo="https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png" tvg-name="PT: SPORT TV 4 HD*" group-title="CANAIS | ESPORTES PORTUGAL",PT: SPORT TV 4 HD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/297181
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-logo="https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png" tvg-name="PT: SPORT TV 4 LOW*" group-title="CANAIS | ESPORTES PORTUGAL",PT: SPORT TV 4 LOW*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/293484
-#EXTINF:-1 tvg-id="" tvg-logo="https://img-cdn.curl.pk/channels_icon/98962157641.png" tvg-name="PT: Sport TV 4 SD" group-title="CANAIS | ESPORTES PORTUGAL",PT: Sport TV 4 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307943
-#EXTINF:-1 tvg-id="" tvg-logo="https://img-cdn.curl.pk/channels_icon/32589196211.png" tvg-name="PT: Sport TV 5 FHD" group-title="CANAIS | ESPORTES PORTUGAL",PT: Sport TV 5 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307948
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/FknzN2L.png" tvg-name="PT: SPORT TV  5 FHD*" group-title="CANAIS | ESPORTES PORTUGAL",PT: SPORT TV  5 FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/297175
-#EXTINF:-1 tvg-id="" tvg-logo="https://img-cdn.curl.pk/channels_icon/28051143461.png" tvg-name="PT: Sport TV 5 HD" group-title="CANAIS | ESPORTES PORTUGAL",PT: Sport TV 5 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307947
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: SPORT TV 5 HD *" group-title="CANAIS | ESPORTES PORTUGAL",PT: SPORT TV 5 HD *
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/297180
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: SPORT TV 5 LOW*" group-title="CANAIS | ESPORTES PORTUGAL",PT: SPORT TV 5 LOW*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/293483
-#EXTINF:-1 tvg-id="" tvg-logo="https://img-cdn.curl.pk/channels_icon/13350691591.png" tvg-name="Pt: Sport TV 5 SD" group-title="CANAIS | ESPORTES PORTUGAL",Pt: Sport TV 5 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307946
-#EXTINF:-1 tvg-id="" tvg-logo="https://img-cdn.curl.pk/channels_icon/41422634401.png" tvg-name="PT: Sport TV 6 FHD" group-title="CANAIS | ESPORTES PORTUGAL",PT: Sport TV 6 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307950
-#EXTINF:-1 tvg-id="" tvg-logo="https://img-cdn.curl.pk/channels_icon/62783331421.png" tvg-name="PT: Sport TV 6 HD" group-title="CANAIS | ESPORTES PORTUGAL",PT: Sport TV 6 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307949
-#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: SPORT TV NBA FHD*" group-title="CANAIS | ESPORTES PORTUGAL",PT: SPORT TV NBA FHD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/297194
-#EXTINF:-1 tvg-id="" tvg-logo="https://img-cdn.curl.pk/channels_icon/15105191281.png" tvg-name="PT: Sport TV Nba HD" group-title="CANAIS | ESPORTES PORTUGAL",PT: Sport TV Nba HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307951
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/Eurosport_1_Logo.jpg" tvg-name="IT: Eurosport 1 HD" group-title="CANAIS | ESPORTES PORTUGAL",IT: Eurosport 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/281368
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/Eurosport_2_Logo.jpg" tvg-name="IT: Eurosport 2 HD" group-title="CANAIS | ESPORTES PORTUGAL",IT: Eurosport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/281367
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" tvg-name="IT: FOX Sport HD" group-title="CANAIS | ESPORTES PORTUGAL",IT: FOX Sport HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/281317
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.images.express.co.uk/img/dynamic/67/750x445/1369322.jpg" tvg-name="IT: Juventus TV" group-title="CANAIS | ESPORTES PORTUGAL",IT: Juventus TV
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/281328
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Tv-2-sport-premium.png" tvg-name="IT: Premium Sport 2" group-title="CANAIS | ESPORTES PORTUGAL",IT: Premium Sport 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/281308
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Tv-2-sport-premium.png" tvg-name="IT: Premium Sport HD" group-title="CANAIS | ESPORTES PORTUGAL",IT: Premium Sport HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/281330
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/Rai_Sport_1_2010.png" tvg-name="IT: Rai Sport 1" group-title="CANAIS | ESPORTES PORTUGAL",IT: Rai Sport 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/281351
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Rai_Sport_2_Logo_2010.svg/1200px-Rai_Sport_2_Logo_2010.svg.png" tvg-name="IT: Rai Sport2" group-title="CANAIS | ESPORTES PORTUGAL",IT: Rai Sport2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/281350
-#EXTINF:-1 tvg-id="" tvg-logo="https://e3.365dm.com/tvlogos/channels/1306-Logo.png" tvg-name="IT: SKY F1 HD" group-title="CANAIS | ESPORTES PORTUGAL",IT: SKY F1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/281337
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/Sky_Group_logo_2020.svg/1200px-Sky_Group_logo_2020.svg.png" tvg-name="IT: Sky Moto GP HD" group-title="CANAIS | ESPORTES PORTUGAL",IT: Sky Moto GP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/281335
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/bltfa4a7a1ade21b554/5f6078716f40ab4648b5c543/Sky_Sports_PRIMARY_RGB.jpg" tvg-name="IT: Sky Sport 2 HD" group-title="CANAIS | ESPORTES PORTUGAL",IT: Sky Sport 2 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/281332
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Sky_Sport_24_-_Logo_2018.svg/1200px-Sky_Sport_24_-_Logo_2018.svg.png" tvg-name="IT: SKY SPORT 24" group-title="CANAIS | ESPORTES PORTUGAL",IT: SKY SPORT 24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/281303
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_24_-_Logo_2020.svg/1280px-Sky_Sport_24_-_Logo_2020.svg.png" tvg-name="IT: Sky Sport 24 HD" group-title="CANAIS | ESPORTES PORTUGAL",IT: Sky Sport 24 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/281334
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/d/d3/Sky_Sports3.png.png/revision/latest/scale-to-width-down/800?cb=20201225191804" tvg-name="IT: Sky Sport 3 HD" group-title="CANAIS | ESPORTES PORTUGAL",IT: Sky Sport 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/281331
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sky_Sport_F1_-_Logo_2020.svg/1200px-Sky_Sport_F1_-_Logo_2020.svg.png" tvg-name="IT: Sky Sport F1 HD" group-title="CANAIS | ESPORTES PORTUGAL",IT: Sky Sport F1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/281333
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Sky_TG24_-_Logo_2018.svg/1280px-Sky_TG24_-_Logo_2018.svg.png" tvg-name="IT: SKY TG 24" group-title="CANAIS | ESPORTES PORTUGAL",IT: SKY TG 24
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/281304
-#EXTINF:-1 tvg-id="" tvg-logo="http://en.mediasat.info/wp-content/uploads/2015/11/logo-supertennis.png" tvg-name="IT: SUPER TENNIS (Backup)" group-title="CANAIS | ESPORTES PORTUGAL",IT: SUPER TENNIS (Backup)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/281614
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-logo="https://img-cdn.curl.pk/channels_icon/26437584021.png" tvg-name="PT: ELEVEN SPORTS 2 SD*" group-title="CANAIS | ESPORTES PORTUGAL",PT: ELEVEN SPORTS 2 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307120
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="https://img-cdn.curl.pk/channels_icon/58849997341.png" tvg-name="PT: SPORT TV 2 SD*" group-title="CANAIS | ESPORTES PORTUGAL",PT: SPORT TV 2 SD*
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR springgreen]GIF PEG [/COLOR] [COLOR orangered]TV [/COLOR]&Buffer=53654&url=http://cdn7go.xyz:8080/eliseu65/4323edsa/307420
 
 
 
