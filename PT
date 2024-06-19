@@ -255,6 +255,691 @@ http://uniplay.link:80/850144687/p443N2966p/112104
 
 
 
+#EXTM3U
+#EXTINF:-1 tvg-id="RTPxx1" tvg-logo="http://novaera4.club/logo/RTP1.png" tvg-name="RTP1" group-title="CANAIS PT",RTP1
+http://elitemaster.space:8080/cnunotv/iptv8465/56
+#EXTINF:-1 tvg-id="RTPD1" tvg-logo="http://novaera4.club/logo/RTP1HD.png" tvg-name="RTP1ᴴᴰ" group-title="CANAIS PT",RTP1ᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/57
+#EXTINF:-1 tvg-id="RTxxP2" tvg-logo="http://novaera4.club/logo/RTP2.png" tvg-name="RTP2" group-title="CANAIS PT",RTP2
+http://elitemaster.space:8080/cnunotv/iptv8465/54
+#EXTINF:-1 tvg-id="RTPD2" tvg-logo="http://novaera4.club/logo/RTP2HD.png" tvg-name="RTP2ᴴᴰ" group-title="CANAIS PT",RTP2ᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/55
+#EXTINF:-1 tvg-id="RTP3" tvg-logo="http://novaera4.club/logo/RTP3.png" tvg-name="RTP3" group-title="CANAIS PT",RTP3
+http://elitemaster.space:8080/cnunotv/iptv8465/53
+#EXTINF:-1 tvg-id="RTP3" tvg-logo="https://static.epg.best/pt/Rtp3.pt.png" tvg-name="RTP3ᴴᴰ" group-title="CANAIS PT",RTP3ᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/68654
+#EXTINF:-1 tvg-id="sic.pt" tvg-logo="http://novaera4.club/logo/SIC.png" tvg-name="SIC" group-title="CANAIS PT",SIC
+http://elitemaster.space:8080/cnunotv/iptv8465/46
+#EXTINF:-1 tvg-id="SICD" tvg-logo="http://novaera4.club/logo/SICHD.png" tvg-name="SICᴴᴰ" group-title="CANAIS PT",SICᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/48
+#EXTINF:-1 tvg-id="TVI" tvg-logo="http://novaera4.club/logo/TVI.png" tvg-name="TVI" group-title="CANAIS PT",TVI
+http://elitemaster.space:8080/cnunotv/iptv8465/9
+#EXTINF:-1 tvg-id="TVID" tvg-logo="http://novaera4.club/logo/TVIHD.png" tvg-name="TVIᴴᴰ" group-title="CANAIS PT",TVIᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/139
+#EXTINF:-1 tvg-id="TVI_FICCAO" tvg-logo="http://novaera4.club/logo/TVIFICCAO.png" tvg-name="TVI Ficção" group-title="CANAIS PT",TVI Ficção
+http://elitemaster.space:8080/cnunotv/iptv8465/7
+#EXTINF:-1 tvg-id="TVI_FICCAO" tvg-logo="http://novaera4.club/logo/TVIFiCCAOHDclaro.png" tvg-name="TVI Ficçãoᴴᴰ" group-title="CANAIS PT",TVI Ficçãoᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/21423
+#EXTINF:-1 tvg-id="TVI Reality" tvg-logo="http://novaera4.club/logo/TVIREALITY.png" tvg-name="TVI Reality" group-title="CANAIS PT",TVI Reality
+http://elitemaster.space:8080/cnunotv/iptv8465/6
+#EXTINF:-1 tvg-id="TVIReality" tvg-logo="http://novaera4.club/logo/TVIREALITY.png" tvg-name="TVI Realityᴴᴰ" group-title="CANAIS PT",TVI Realityᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/21424
+#EXTINF:-1 tvg-id="SICMhd" tvg-logo="http://novaera4.club/logo/SICMULHER.png" tvg-name="SIC Mulher" group-title="CANAIS PT",SIC Mulher
+http://elitemaster.space:8080/cnunotv/iptv8465/45
+#EXTINF:-1 tvg-id="SICM" tvg-logo="http://novaera4.club/logo/SICMULHERHD.png" tvg-name="SIC Mulherᴴᴰ" group-title="CANAIS PT",SIC Mulherᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/5454
+#EXTINF:-1 tvg-id="SICRhd" tvg-logo="http://novaera4.club/logo/SICRADICAL.png" tvg-name="SIC Radical" group-title="CANAIS PT",SIC Radical
+http://elitemaster.space:8080/cnunotv/iptv8465/43
+#EXTINF:-1 tvg-id="SICR" tvg-logo="http://novaera4.club/logo/SICRADICALHD.png" tvg-name="SIC Radicalᴴᴰ" group-title="CANAIS PT",SIC Radicalᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/5453
+#EXTINF:-1 tvg-id="SICCARAS" tvg-logo="http://novaera4.club/logo/SICCARAS.png" tvg-name="Sic Caras	" group-title="CANAIS PT",Sic Caras
+http://elitemaster.space:8080/cnunotv/iptv8465/49
+#EXTINF:-1 tvg-id="SICCARAShd" tvg-logo="https://static.epg.best/pt/SicCaras.pt.png" tvg-name="SIC Carasᴴᴰ" group-title="CANAIS PT",SIC Carasᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/68645
+#EXTINF:-1 tvg-id="SIC Novelas" tvg-logo="https://cfvod.kaltura.com/p/4526593/sp/452659300/thumbnail/entry_id/1_chqvbxry/width/0/height/0/quality/85" tvg-name="SIC NOVELAS" group-title="CANAIS PT",SIC NOVELAS
+http://elitemaster.space:8080/cnunotv/iptv8465/88700
+#EXTINF:-1 tvg-id="TV RECORD" tvg-logo="http://novaera4.club/logo/TVRECORD.png" tvg-name="TV Record" group-title="CANAIS PT",TV Record
+http://elitemaster.space:8080/cnunotv/iptv8465/20
+#EXTINF:-1 tvg-id="TV RecordHD" tvg-logo="http://novaera4.club/logo/TVRECORD.png" tvg-name="TV Recordᴴᴰ" group-title="CANAIS PT",TV Recordᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/3135
+#EXTINF:-1 tvg-id="GLObbO" tvg-logo="http://novaera4.club/logo/GLOBO.png" tvg-name="TV Globo" group-title="CANAIS PT",TV Globo
+http://elitemaster.space:8080/cnunotv/iptv8465/82
+#EXTINF:-1 tvg-id="GLObbO" tvg-logo="http://novaera4.club/logo/GLOBOHD.png" tvg-name="TV Globoᴴᴰ" group-title="CANAIS PT",TV Globoᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/2002
+#EXTINF:-1 tvg-id="SICN" tvg-logo="http://novaera4.club/logo/SICNOTICIAS.png" tvg-name="SIC Notícias" group-title="CANAIS PT",SIC Notícias
+http://elitemaster.space:8080/cnunotv/iptv8465/44
+#EXTINF:-1 tvg-id="SICNHd" tvg-logo="http://novaera4.club/logo/SICNOTICIASHD.png" tvg-name="SIC Notíciasᴴᴰ" group-title="CANAIS PT",SIC Notíciasᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/2000
+#EXTINF:-1 tvg-id="cnnportugal.pt" tvg-logo="http://novaera4.club/logo/cnn.png" tvg-name="CNN Portugal" group-title="CANAIS PT",CNN Portugal
+http://elitemaster.space:8080/cnunotv/iptv8465/39826
+#EXTINF:-1 tvg-id="cnnportugal.pt" tvg-logo="http://novaera4.club/logo/cnn.png" tvg-name="CNN Portugalᴴᴰ" group-title="CANAIS PT",CNN Portugalᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/5451
+#EXTINF:-1 tvg-id="CMTVhd" tvg-logo="http://novaera4.club/logo/CMTV.png" tvg-name="CMTV" group-title="CANAIS PT",CMTV
+http://elitemaster.space:8080/cnunotv/iptv8465/111
+#EXTINF:-1 tvg-id="CMTV" tvg-logo="http://novaera4.club/logo/CMTVHD.png" tvg-name="CMTVᴴᴰ" group-title="CANAIS PT",CMTVᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/65958
+#EXTINF:-1 tvg-id="AcfdBolaTV" tvg-logo="http://novaera4.club/logo/ABOLATV.png" tvg-name="A Bola TV" group-title="CANAIS PT",A Bola TV
+http://elitemaster.space:8080/cnunotv/iptv8465/137
+#EXTINF:-1 tvg-id="AcfdBolaTV" tvg-logo="http://novaera4.club/logo/ABOLATV.png" tvg-name="A Bola TVᴴᴰ" group-title="CANAIS PT",A Bola TVᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/5459
+#EXTINF:-1 tvg-id="CANAL11" tvg-logo="http://www.meiosepublicidade.pt/wp-content/uploads/2019/07/logo11-300x200.png" tvg-name="Canal 11" group-title="CANAIS PT",Canal 11
+http://elitemaster.space:8080/cnunotv/iptv8465/2055
+#EXTINF:-1 tvg-id="CANAL11" tvg-logo="http://www.meiosepublicidade.pt/wp-content/uploads/2019/07/logo11-300x200.png" tvg-name="Canal 11ᶠᴴᴰ" group-title="CANAIS PT",Canal 11ᶠᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/121
+#EXTINF:-1 tvg-id="splus.pt" tvg-logo="https://marketeer.sapo.pt/wp-content/uploads/2018/03/s.jpg" tvg-name="SAUDE +ᴴᴰ" group-title="CANAIS PT",SAUDE +ᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/37217
+#EXTINF:-1 tvg-id="localvisaotv.pt" tvg-logo="http://novaera4.club/logo/LOCALVISAO.png" tvg-name="Localvisão" group-title="CANAIS PT",Localvisão
+http://elitemaster.space:8080/cnunotv/iptv8465/2001
+#EXTINF:-1 tvg-id="euronews.pt" tvg-logo="http://novaera4.club/logo/EuroNews.png" tvg-name="Euronews" group-title="CANAIS PT",Euronews
+http://elitemaster.space:8080/cnunotv/iptv8465/95
+#EXTINF:-1 tvg-id="NEWS NOW" tvg-logo="https://cdn.cmjornal.pt/images/2024-05/img_432x243$2024_05_03_19_46_48_1645376.jpg" tvg-name="NewsNOW" group-title="CANAIS PT",NewsNOW
+http://elitemaster.space:8080/cnunotv/iptv8465/88925
+#EXTINF:-1 tvg-id="LOLLY" tvg-logo="https://i.ytimg.com/vi/zO7moTNR9_Y/mqdefault.jpg" tvg-name="Lolly Kids" group-title="CANAIS PT",Lolly Kids
+http://elitemaster.space:8080/cnunotv/iptv8465/27398
+#EXTINF:-1 tvg-id="disneychannel.pt" tvg-logo="http://novaera4.club/logo/DISNEYCHANNEL.png" tvg-name="Disney Channel" group-title="CANAIS PT",Disney Channel
+http://elitemaster.space:8080/cnunotv/iptv8465/105
+#EXTINF:-1 tvg-id="disneychannel.pt" tvg-logo="https://static.epg.best/kr/DisneyChannel.kr.png" tvg-name="Disney Chanelᴴᴰ" group-title="CANAIS PT",Disney Chanelᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/68646
+#EXTINF:-1 tvg-id="disneyjunior.pt" tvg-logo="http://novaera4.club/logo/DISNEYJUNIOR.png" tvg-name="Disney Junior" group-title="CANAIS PT",Disney Junior
+http://elitemaster.space:8080/cnunotv/iptv8465/104
+#EXTINF:-1 tvg-id="disneyjunior.pt" tvg-logo="https://static.epg.best/kr/DisneyJunior.kr.png" tvg-name="Diseny Juniorᴴᴰ" group-title="CANAIS PT",Diseny Juniorᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/68647
+#EXTINF:-1 tvg-id="cartoonnetwork.pt" tvg-logo="http://novaera4.club/logo/CARTOONNETWORK.png" tvg-name="Cartoon Network" group-title="CANAIS PT",Cartoon Network
+http://elitemaster.space:8080/cnunotv/iptv8465/117
+#EXTINF:-1 tvg-id="cartoonnetwork.pt" tvg-logo="https://seeklogo.com/images/C/cartoon-network-hd-logo-22798BB929-seeklogo.com.png" tvg-name="Cartoon Networkᴴᴰ" group-title="CANAIS PT",Cartoon Networkᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/68649
+#EXTINF:-1 tvg-id="BOOMERANG" tvg-logo="https://sender.epglogos.de/302x190_w/493.png" tvg-name="Cartonitoo" group-title="CANAIS PT",Cartonitoo
+http://elitemaster.space:8080/cnunotv/iptv8465/77341
+#EXTINF:-1 tvg-id="panda.pt" tvg-logo="http://novaera4.club/logo/CANALPANDA.png" tvg-name="Panda" group-title="CANAIS PT",Panda
+http://elitemaster.space:8080/cnunotv/iptv8465/120
+#EXTINF:-1 tvg-id="panda.pt" tvg-logo="https://meditel.cat/wp-content/uploads/2020/12/canal-panda.jpg" tvg-name="Pandaᴴᴰ" group-title="CANAIS PT",Pandaᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/68648
+#EXTINF:-1 tvg-id="biggs.pt" tvg-logo="http://novaera4.club/logo/pandabiggs.png" tvg-name="Panda Biggs" group-title="CANAIS PT",Panda Biggs
+http://elitemaster.space:8080/cnunotv/iptv8465/127
+#EXTINF:-1 tvg-id="PANDA KIDS" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2021/05/image001-9.png" tvg-name="Panda Kids" group-title="CANAIS PT",Panda Kids
+http://elitemaster.space:8080/cnunotv/iptv8465/36498
+#EXTINF:-1 tvg-id="babytv.pt" tvg-logo="http://novaera4.club/logo/BABYTV.png" tvg-name="Baby TV" group-title="CANAIS PT",Baby TV
+http://elitemaster.space:8080/cnunotv/iptv8465/130
+#EXTINF:-1 tvg-id="nickelodeon.pt" tvg-logo="http://novaera4.club/logo/NICKJR.png" tvg-name="NICK JR	" group-title="CANAIS PT",NICK JR
+http://elitemaster.space:8080/cnunotv/iptv8465/65
+#EXTINF:-1 tvg-id="nickelodeon.pt" tvg-logo="http://novaera4.club/logo/NICKELODEON.png" tvg-name="Nickelodeon" group-title="CANAIS PT",Nickelodeon
+http://elitemaster.space:8080/cnunotv/iptv8465/64
+#EXTINF:-1 tvg-id="sick.pt" tvg-logo="http://novaera4.club/logo/ALL/sick.png" tvg-name="SIC K" group-title="CANAIS PT",SIC K
+http://elitemaster.space:8080/cnunotv/iptv8465/47
+#EXTINF:-1 tvg-id="sick.pt" tvg-logo="http://novaera4.club/logo/ALL/sick.png" tvg-name="Sic Kᴴᴰ" group-title="CANAIS PT",Sic Kᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/68650
+#EXTINF:-1 tvg-id="sporttvplus.pt" tvg-logo="http://novaera4.club/logo/SPORTTV+.png" tvg-name="SPORT.TV+" group-title="CANAIS PT",SPORT.TV+
+http://elitemaster.space:8080/cnunotv/iptv8465/41
+#EXTINF:-1 tvg-id="sporttvplus.pt" tvg-logo="http://novaera4.club/logo/SPORTTV+HD.png" tvg-name="SPORT.TV+ᴴᴰ" group-title="CANAIS PT",SPORT.TV+ᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/1059
+#EXTINF:-1 tvg-id="SPORT.TVJH 1 FULL HD" tvg-logo="http://novaera4.club/logo/sportv.png" tvg-name="Sport.TV4K UHD" group-title="CANAIS PT",Sport.TV4K UHD
+http://elitemaster.space:8080/cnunotv/iptv8465/22627
+#EXTINF:-1 tvg-id="SPORT.TV 1" tvg-logo="http://novaera4.club/logo/SPORTTV1.png" tvg-name="SPORT.TV1" group-title="CANAIS PT",SPORT.TV1
+http://elitemaster.space:8080/cnunotv/iptv8465/40
+#EXTINF:-1 tvg-id="SPORT.TV 1" tvg-logo="http://novaera4.club/logo/SPORTTV1HD.png" tvg-name="Sport.TV1 ᴴᴰ" group-title="CANAIS PT",Sport.TV1 ᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/38
+#EXTINF:-1 tvg-id="SPORT.TVJH 1 FULL HD" tvg-logo="http://novaera4.club/logo/SPORTTV1HD.png" tvg-name="SPORT.TV1ᶠᴴᴰ" group-title="CANAIS PT",SPORT.TV1ᶠᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/39
+#EXTINF:-1 tvg-id="SPORT.TVJH 1 FULL HD" tvg-logo="http://novaera4.club/logo/SPORTTV1HD.png" tvg-name="SPORT.TV1 ᴴ²⁶⁵" group-title="CANAIS PT",SPORT.TV1 ᴴ²⁶⁵
+http://elitemaster.space:8080/cnunotv/iptv8465/5438
+#EXTINF:-1 tvg-id="SPORT.TV 2 HD" tvg-logo="http://novaera4.club/logo/SPORTTV2.png" tvg-name="SPORT.TV2" group-title="CANAIS PT",SPORT.TV2
+http://elitemaster.space:8080/cnunotv/iptv8465/37
+#EXTINF:-1 tvg-id="SPORT.TV 2 HD" tvg-logo="http://novaera4.club/logo/SPORTTV2HD.png" tvg-name="Sport.TV2ᴴᴰ" group-title="CANAIS PT",Sport.TV2ᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/35
+#EXTINF:-1 tvg-id="SPORT.TVJH 2 FULL HD" tvg-logo="http://novaera4.club/logo/SPORTTV2HD.png" tvg-name="SPORT.TV2ᶠᴴᴰ" group-title="CANAIS PT",SPORT.TV2ᶠᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/36
+#EXTINF:-1 tvg-id="SPORT.TVJH 2 FULL HD" tvg-logo="http://novaera4.club/logo/SPORTTV2HD.png" tvg-name="SPORT.TV2 ᴴ²⁶⁵" group-title="CANAIS PT",SPORT.TV2 ᴴ²⁶⁵
+http://elitemaster.space:8080/cnunotv/iptv8465/5439
+#EXTINF:-1 tvg-id="SPORT.TV 3" tvg-logo="http://novaera4.club/logo/SPORTTV3.png" tvg-name="SPORT.TV3" group-title="CANAIS PT",SPORT.TV3
+http://elitemaster.space:8080/cnunotv/iptv8465/34
+#EXTINF:-1 tvg-id="SPORT.TV 3 HD" tvg-logo="http://novaera4.club/logo/SPORTTV3HD.png" tvg-name="Sport.TV3 ᴴᴰ" group-title="CANAIS PT",Sport.TV3 ᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/32
+#EXTINF:-1 tvg-id="SPORT.TV KJ3 FULL HD" tvg-logo="http://novaera4.club/logo/SPORTTV3HD.png" tvg-name="SPORT.TV3ᶠᴴᴰ" group-title="CANAIS PT",SPORT.TV3ᶠᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/33
+#EXTINF:-1 tvg-id="SPORT.TV KJ3 FULL HD" tvg-logo="http://novaera4.club/logo/SPORTTV3HD.png" tvg-name="SPORT.TV3ᴴ²⁶⁵" group-title="CANAIS PT",SPORT.TV3ᴴ²⁶⁵
+http://elitemaster.space:8080/cnunotv/iptv8465/21427
+#EXTINF:-1 tvg-id="SPORT.TV 4" tvg-logo="http://novaera4.club/logo/SPORTTV4.png" tvg-name="SPORT.TV4" group-title="CANAIS PT",SPORT.TV4
+http://elitemaster.space:8080/cnunotv/iptv8465/31
+#EXTINF:-1 tvg-id="SPORT.TV 4 HD" tvg-logo="http://novaera4.club/logo/SPORTTV4HD.png" tvg-name="Sport.TV4ᴴᴰ" group-title="CANAIS PT",Sport.TV4ᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/363
+#EXTINF:-1 tvg-id="SPORT.TVHG 4 FULL HD" tvg-logo="http://novaera4.club/logo/SPORTTV4HD.png" tvg-name="SPORT.TV4ᶠᴴᴰ" group-title="CANAIS PT",SPORT.TV4ᶠᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/1992
+#EXTINF:-1 tvg-id="SPORT.TV 5" tvg-logo="http://novaera4.club/logo/SPORTTV5.png" tvg-name="SPORT.TV5" group-title="CANAIS PT",SPORT.TV5
+http://elitemaster.space:8080/cnunotv/iptv8465/30
+#EXTINF:-1 tvg-id="SPORT.TV 5 HD" tvg-logo="http://novaera4.club/logo/SPORTTV5HD.png" tvg-name="Sport.TV5ᴴᴰ" group-title="CANAIS PT",Sport.TV5ᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/362
+#EXTINF:-1 tvg-id="SPORT.TVHG 5 FULL HD" tvg-logo="http://novaera4.club/logo/SPORTTV5HD.png" tvg-name="SPORT.TV5ᶠᴴᴰ" group-title="CANAIS PT",SPORT.TV5ᶠᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/1993
+#EXTINF:-1 tvg-id="SPORT.TVHG 6 FULL HD" tvg-logo="http://novaera4.club/logo/SPORTTV6.png" tvg-name="Sport.TV6ᴴᴰ" group-title="CANAIS PT",Sport.TV6ᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/60546
+#EXTINF:-1 tvg-id="SPORT.TVHG 6 FULL HD" tvg-logo="https://seeklogo.com/images/S/sport-tv6-2023-logo-2C16121341-seeklogo.com.png" tvg-name="SPORT.TV6ᶠᴴᴰ" group-title="CANAIS PT",SPORT.TV6ᶠᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/36497
+#EXTINF:-1 tvg-id="BTV1hd" tvg-logo="http://novaera4.club/logo/BenficaTV4k.png" tvg-name="Benfica TV 4K UHD" group-title="CANAIS PT",Benfica TV 4K UHD
+http://elitemaster.space:8080/cnunotv/iptv8465/16974
+#EXTINF:-1 tvg-id="BTV 1hd" tvg-logo="http://novaera4.club/logo/BTV.png" tvg-name="Benfica TV	" group-title="CANAIS PT",Benfica TV
+http://elitemaster.space:8080/cnunotv/iptv8465/124
+#EXTINF:-1 tvg-id="BTV 1hd" tvg-logo="http://novaera4.club/logo/BenficaTV4k.png" tvg-name="Benfica TVᴴᴰ" group-title="CANAIS PT",Benfica TVᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/122
+#EXTINF:-1 tvg-id="BTV1hd" tvg-logo="http://novaera4.club/logo/BenficaTV4k.png" tvg-name="Benfica TVᶠᴴᴰ" group-title="CANAIS PT",Benfica TVᶠᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/123
+#EXTINF:-1 tvg-id="BTV1hd" tvg-logo="http://novaera4.club/logo/BenficaTV4k.png" tvg-name="BENFICA TV ᴴ²⁶⁵" group-title="CANAIS PT",BENFICA TV ᴴ²⁶⁵
+http://elitemaster.space:8080/cnunotv/iptv8465/5443
+#EXTINF:-1 tvg-id="BTV1hd" tvg-logo="https://uploads-eu-west-1.insided.com/nos-pt/attachment/f352b629-b745-4a40-9900-ed991a747a20.png" tvg-name="BTV Multicamarasᶠᴴᴰ" group-title="CANAIS PT",BTV Multicamarasᶠᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/83711
+#EXTINF:-1 tvg-id="ELEVENSPORT 1" tvg-logo="http://novaera4.club/logo/ELEVENSPORTS1.png" tvg-name="Eleven Sports 1" group-title="CANAIS PT",Eleven Sports 1
+http://elitemaster.space:8080/cnunotv/iptv8465/370
+#EXTINF:-1 tvg-id="ELEVENSPORT 1 HD" tvg-logo="http://novaera4.club/logo/ELEVENSPORTS1.png" tvg-name="Eleven Sports 1ᴴᴰ" group-title="CANAIS PT",Eleven Sports 1ᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/667
+#EXTINF:-1 tvg-id="ELEVENSPORT 1 HD" tvg-logo="http://novaera4.club/logo/ELEVENSPORTS1.png" tvg-name="Eleven Sports 1ᶠᴴᴰ" group-title="CANAIS PT",Eleven Sports 1ᶠᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/102
+#EXTINF:-1 tvg-id="ELEVENSPORT 1 HD" tvg-logo="http://novaera4.club/logo/ELEVENSPORTS1.png" tvg-name="Eleven Sports 1ᴴ²⁶⁵" group-title="CANAIS PT",Eleven Sports 1ᴴ²⁶⁵
+http://elitemaster.space:8080/cnunotv/iptv8465/22442
+#EXTINF:-1 tvg-id="ELEVENSPORT 1 HD" tvg-logo="http://novaera4.club/logo/Elevenspor1.png" tvg-name="Eleven Sports 1 4K UHD" group-title="CANAIS PT",Eleven Sports 1 4K UHD
+http://elitemaster.space:8080/cnunotv/iptv8465/16975
+#EXTINF:-1 tvg-id="ELEVENSPORT 2 HD" tvg-logo="http://novaera4.club/logo/ELEVENSPORTS2.png" tvg-name="Eleven Sports 2" group-title="CANAIS PT",Eleven Sports 2
+http://elitemaster.space:8080/cnunotv/iptv8465/368
+#EXTINF:-1 tvg-id="ELEVENSPORT 2 HD" tvg-logo="http://novaera4.club/logo/ELEVENSPORTS2.png" tvg-name="Eleven Sports 2ᴴᴰ" group-title="CANAIS PT",Eleven Sports 2ᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/367
+#EXTINF:-1 tvg-id="ELEVENSPORT 2 HD" tvg-logo="http://novaera4.club/logo/ELEVENSPORTS2.png" tvg-name="Eleven Sports 2ᶠᴴᴰ" group-title="CANAIS PT",Eleven Sports 2ᶠᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/101
+#EXTINF:-1 tvg-id="ELEVENSPORT 3" tvg-logo="http://novaera4.club/logo/ELEVENSPORTS3.png" tvg-name="Eleven Sports 3" group-title="CANAIS PT",Eleven Sports 3
+http://elitemaster.space:8080/cnunotv/iptv8465/100
+#EXTINF:-1 tvg-id="ELEVENSPORT 3 HD" tvg-logo="http://novaera4.club/logo/ELEVENSPORTS3.png" tvg-name="Eleven Sports 3ᴴᴰ" group-title="CANAIS PT",Eleven Sports 3ᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/365
+#EXTINF:-1 tvg-id="ELEVENSPORT 3 HD" tvg-logo="http://novaera4.club/logo/ELEVENSPORTS3.png" tvg-name="Eleven Sports 3ᶠᴴᴰ" group-title="CANAIS PT",Eleven Sports 3ᶠᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/366
+#EXTINF:-1 tvg-id="ELEVENSPORT 4" tvg-logo="http://novaera4.club/logo/ELEVENSPORTS4.png" tvg-name="Eleven Sports 4" group-title="CANAIS PT",Eleven Sports 4
+http://elitemaster.space:8080/cnunotv/iptv8465/99
+#EXTINF:-1 tvg-id="ELEVENSPORT 4 HD" tvg-logo="http://novaera4.club/logo/ELEVENSPORTS4.png" tvg-name="Eleven Sports 4ᴴᴰ" group-title="CANAIS PT",Eleven Sports 4ᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/1990
+#EXTINF:-1 tvg-id="ELEVENSPORT 4 HD" tvg-logo="http://novaera4.club/logo/ELEVENSPORTS4.png" tvg-name="Eleven Sports 4ᶠᴴᴰ" group-title="CANAIS PT",Eleven Sports 4ᶠᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/1991
+#EXTINF:-1 tvg-id="ELEVENSPORT 5" tvg-logo="http://novaera4.club/logo/ELEVENSPORTS5.png" tvg-name="Eleven Sports 5" group-title="CANAIS PT",Eleven Sports 5
+http://elitemaster.space:8080/cnunotv/iptv8465/98
+#EXTINF:-1 tvg-id="ELEVENSPORT 5 HD" tvg-logo="http://novaera4.club/logo/ELEVENSPORTS5.png" tvg-name="Eleven Sports 5ᴴᴰ" group-title="CANAIS PT",Eleven Sports 5ᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/60547
+#EXTINF:-1 tvg-id="ELEVENSPORT 5 HD" tvg-logo="http://novaera4.club/logo/ELEVENSPORTS5.png" tvg-name="Eleven Sports 5ᶠᴴᴰ" group-title="CANAIS PT",Eleven Sports 5ᶠᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/60548
+#EXTINF:-1 tvg-id="ELEVENSPORT 6" tvg-logo="http://novaera4.club/logo/ELEVENSPORTS6.png" tvg-name="Eleven Sports 6" group-title="CANAIS PT",Eleven Sports 6
+http://elitemaster.space:8080/cnunotv/iptv8465/97
+#EXTINF:-1 tvg-id="ELEVENSPORT 6 HD" tvg-logo="http://novaera4.club/logo/ELEVENSPORTS6.png" tvg-name="Eleven Sports 6ᶠᴴᴰ" group-title="CANAIS PT",Eleven Sports 6ᶠᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/60549
+#EXTINF:-1 tvg-id="wsport" tvg-logo="https://uploads-eu-west-1.insided.com/nos-pt/attachment/7f7023c3-2567-4861-a1ea-fbc9b0b74211.png" tvg-name="W-Sport" group-title="CANAIS PT",W-Sport
+http://elitemaster.space:8080/cnunotv/iptv8465/86204
+#EXTINF:-1 tvg-id="arena" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/397f1500-9968-4b38-bff4-30fa87b2ee4d-profile_image-300x300.png" tvg-name="RTP Arena" group-title="CANAIS PT",RTP Arena
+http://elitemaster.space:8080/cnunotv/iptv8465/28370
+#EXTINF:-1 tvg-id="ginx.pt" tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f675b5e4ea757a0b73df_ginx.jpeg" tvg-name="Ginx" group-title="CANAIS PT",Ginx
+http://elitemaster.space:8080/cnunotv/iptv8465/37214
+#EXTINF:-1 tvg-id="gametoon.pt" tvg-logo="https://wpcdn.pl/ptv-stage/logo/bright/128/803.png" tvg-name="Gametoonᴴᴰ" group-title="CANAIS PT",Gametoonᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/37095
+#EXTINF:-1 tvg-id="eurosport1.pt" tvg-logo="http://novaera4.club/logo/EUROSPORT1.png" tvg-name="Eurosport 1" group-title="CANAIS PT",Eurosport 1
+http://elitemaster.space:8080/cnunotv/iptv8465/94
+#EXTINF:-1 tvg-id="eurosport1.pt" tvg-logo="http://novaera4.club/logo/EUROSPORT1HD.png" tvg-name="Eurosport 1ᴴᴰ" group-title="CANAIS PT",Eurosport 1ᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/93
+#EXTINF:-1 tvg-id="eurosport2.pt" tvg-logo="http://novaera4.club/logo/EUROSPORT2.png" tvg-name="Eurosport 2" group-title="CANAIS PT",Eurosport 2
+http://elitemaster.space:8080/cnunotv/iptv8465/92
+#EXTINF:-1 tvg-id="EuroSport 2" tvg-logo="http://novaera4.club/logo/EUROSPORT2HD.png" tvg-name="Eurosport 2ᴴᴰ" group-title="CANAIS PT",Eurosport 2ᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/77597
+#EXTINF:-1 tvg-id="pfc.pt" tvg-logo="http://novaera4.club/logo/PFC.png" tvg-name="PFC" group-title="CANAIS PT",PFC
+http://elitemaster.space:8080/cnunotv/iptv8465/61
+#EXTINF:-1 tvg-id="PORTOhd" tvg-logo="http://novaera4.club/logo/PORTOCANAL.png" tvg-name="Porto Canal" group-title="CANAIS PT",Porto Canal
+http://elitemaster.space:8080/cnunotv/iptv8465/59
+#EXTINF:-1 tvg-id="PORTO" tvg-logo="http://novaera4.club/logo/PORTOCANALHD.png" tvg-name="Porto Canalᴴᴰ" group-title="CANAIS PT",Porto Canalᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/1998
+#EXTINF:-1 tvg-id="sportingtv.pt" tvg-logo="http://novaera4.club/logo/SPORTINGTV.png" tvg-name="Sporting TV" group-title="CANAIS PT",Sporting TV
+http://elitemaster.space:8080/cnunotv/iptv8465/28
+#EXTINF:-1 tvg-id="sportingtv.pt" tvg-logo="http://novaera4.club/logo/SPORTINGTVHD.png" tvg-name="Sporting TVᴴᴰ" group-title="CANAIS PT",Sporting TVᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/4855
+#EXTINF:-1 tvg-id="fightnetworkhd.pt" tvg-logo="http://novaera4.club/logo/FIGHTNETWORKHD.png" tvg-name="Fight Network HD" group-title="CANAIS PT",Fight Network HD
+http://elitemaster.space:8080/cnunotv/iptv8465/1997
+#EXTINF:-1 tvg-id="" tvg-logo="https://fightsports.tv/wp-content/uploads/fightsports140-logo-rr-2.png" tvg-name="Fight Sportsᴴᴰ" group-title="CANAIS PT",Fight Sportsᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/68651
+#EXTINF:-1 tvg-id="FIGHT BOX" tvg-logo="https://pbs.twimg.com/profile_images/710024950518833152/pigvyRHT_400x400.jpg" tvg-name="FightBoxᴴᴰ" group-title="CANAIS PT",FightBoxᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/68652
+#EXTINF:-1 tvg-id="sporttvnba.pt" tvg-logo="http://novaera4.club/logo/SPORTTVNBA.png" tvg-name="SPORT.TV NBA" group-title="CANAIS PT",SPORT.TV NBA
+http://elitemaster.space:8080/cnunotv/iptv8465/29
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.wrc.com/images/logo/logoRallyTv1.png" tvg-name="Rally.TVᴴᴰ" group-title="CANAIS PT",Rally.TVᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/35890
+#EXTINF:-1 tvg-id="" tvg-logo="https://tvonline.es/wp-content/uploads/2022/04/dazn-f1-logo.png" tvg-name="DAZN F1" group-title="CANAIS PT",DAZN F1
+http://elitemaster.space:8080/cnunotv/iptv8465/88669
+#EXTINF:-1 tvg-id="redbulltv.us" tvg-logo="http://novaera4.club/logo/REDBULLTV.png" tvg-name="RedBull TVᴴᴰ" group-title="CANAIS PT",RedBull TVᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/4859
+#EXTINF:-1 tvg-id="motorvision.pt" tvg-logo="http://novaera4.club/logo/motorvisao.png" tvg-name="Motorvision" group-title="CANAIS PT",Motorvision
+http://elitemaster.space:8080/cnunotv/iptv8465/71
+#EXTINF:-1 tvg-id="fueltv.pt" tvg-logo="http://novaera4.club/logo/FUELTV.png" tvg-name="Fuel TV" group-title="CANAIS PT",Fuel TV
+http://elitemaster.space:8080/cnunotv/iptv8465/83
+#EXTINF:-1 tvg-id="nostudios.pt" tvg-logo="http://novaera4.club/logo/NOSStudios.png" tvg-name="NOS Studios" group-title="CANAIS PT",NOS Studios
+http://elitemaster.space:8080/cnunotv/iptv8465/12136
+#EXTINF:-1 tvg-id="nostudios.pt" tvg-logo="http://novaera4.club/logo/NOSStudios.png" tvg-name="NOS Studiosᴴᴰ" group-title="CANAIS PT",NOS Studiosᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/63
+#EXTINF:-1 tvg-id="TVCg1" tvg-logo="http://novaera4.club/logo/TvCineTop.png" tvg-name="TVCine TOP" group-title="CANAIS PT",TVCine TOP
+http://elitemaster.space:8080/cnunotv/iptv8465/29842
+#EXTINF:-1 tvg-id="TVCg1" tvg-logo="http://novaera4.club/logo/TvCineTopHDv2.png" tvg-name="TVCine TOPᴴᴰ" group-title="CANAIS PT",TVCine TOPᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/18
+#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-logo="http://novaera4.club/logo/TvCineEdition.png" tvg-name="TVCine EDITION" group-title="CANAIS PT",TVCine EDITION
+http://elitemaster.space:8080/cnunotv/iptv8465/29843
+#EXTINF:-1 tvg-id="tvcineedition.pt" tvg-logo="http://novaera4.club/logo/TvCineEditionHDv2.png" tvg-name="TVCine EDITIONᴴᴰ" group-title="CANAIS PT",TVCine EDITIONᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/16
+#EXTINF:-1 tvg-id="tvcineemotion.pt" tvg-logo="http://novaera4.club/logo/TvCineEmotion.png" tvg-name="TVCine EMOTION" group-title="CANAIS PT",TVCine EMOTION
+http://elitemaster.space:8080/cnunotv/iptv8465/29844
+#EXTINF:-1 tvg-id="tvcineemotion.pt" tvg-logo="http://novaera4.club/logo/TvCineEmotionv2.png" tvg-name="TVCine EMOTIONᴴᴰ" group-title="CANAIS PT",TVCine EMOTIONᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/14
+#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-logo="http://novaera4.club/logo/TvCineAction.png" tvg-name="TVCine ACTION" group-title="CANAIS PT",TVCine ACTION
+http://elitemaster.space:8080/cnunotv/iptv8465/29845
+#EXTINF:-1 tvg-id="tvcineaction.pt" tvg-logo="http://novaera4.club/logo/TvCineActionHDv2.png" tvg-name="TVCine ACTIONᴴᴰ" group-title="CANAIS PT",TVCine ACTIONᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/12
+#EXTINF:-1 tvg-id="canalhollywood.pt" tvg-logo="http://novaera4.club/logo/HOLLYWOOD.png" tvg-name="Hollywood" group-title="CANAIS PT",Hollywood
+http://elitemaster.space:8080/cnunotv/iptv8465/79
+#EXTINF:-1 tvg-id="canalhollywood.pt" tvg-logo="http://novaera4.club/logo/HOLLYWOODHD.png" tvg-name="Hollywoodᴴᴰ" group-title="CANAIS PT",Hollywoodᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/78
+#EXTINF:-1 tvg-id="cinemundo.pt" tvg-logo="http://novaera4.club/logo/CINEMUNDO.png" tvg-name="Cinemundo" group-title="CANAIS PT",Cinemundo
+http://elitemaster.space:8080/cnunotv/iptv8465/112
+#EXTINF:-1 tvg-id="cinemundo.pt" tvg-logo="http://novaera4.club/logo/CINEMUNDOHD.png" tvg-name="Cinemundoᴴᴰ" group-title="CANAIS PT",Cinemundoᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/2006
+#EXTINF:-1 tvg-id="foxmovies.pt" tvg-logo="https://seeklogo.com/images/S/star-movies-2023-logo-D90185EC1F-seeklogo.com.png" tvg-name="STAR Movies" group-title="CANAIS PT",STAR Movies
+http://elitemaster.space:8080/cnunotv/iptv8465/87
+#EXTINF:-1 tvg-id="foxmovies.pt" tvg-logo="https://seeklogo.com/images/S/star-movies-2023-logo-D90185EC1F-seeklogo.com.png" tvg-name="STAR Moviesᴴᴰ" group-title="CANAIS PT",STAR Moviesᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/2011
+#EXTINF:-1 tvg-id="axnmovies.pt" tvg-logo="http://novaera4.club/logo/AXN_MOVIES.png" tvg-name="AXN Movies" group-title="CANAIS PT",AXN Movies
+http://elitemaster.space:8080/cnunotv/iptv8465/2004
+#EXTINF:-1 tvg-id="axnmovies.pt" tvg-logo="http://novaera4.club/logo/AXN_MOVIES.png" tvg-name="AXN Moviesᴴᴰ" group-title="CANAIS PT",AXN Moviesᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/133
+#EXTINF:-1 tvg-id="syfy.pt" tvg-logo="http://novaera4.club/logo/SYFY.png" tvg-name="SyFy" group-title="CANAIS PT",SyFy
+http://elitemaster.space:8080/cnunotv/iptv8465/27
+#EXTINF:-1 tvg-id="syfy.pt" tvg-logo="http://novaera4.club/logo/SYFYHD.png" tvg-name="SyFyᴴᴰ" group-title="CANAIS PT",SyFyᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/2007
+#EXTINF:-1 tvg-id="axn.pt" tvg-logo="http://novaera4.club/logo/AXN.png" tvg-name="AXN" group-title="CANAIS PT",AXN
+http://elitemaster.space:8080/cnunotv/iptv8465/2003
+#EXTINF:-1 tvg-id="axn.pt" tvg-logo="http://novaera4.club/logo/AXNHD.png" tvg-name="AXNᴴᴰ" group-title="CANAIS PT",AXNᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/132
+#EXTINF:-1 tvg-id="Dizi" tvg-logo="http://novaera4.club/logo/DIZI.png" tvg-name="Dizi" group-title="CANAIS PT",Dizi
+http://elitemaster.space:8080/cnunotv/iptv8465/37215
+#EXTINF:-1 tvg-id="amc.pt" tvg-logo="http://novaera4.club/logo/AMC.png" tvg-name="AMC" group-title="CANAIS PT",AMC
+http://elitemaster.space:8080/cnunotv/iptv8465/135
+#EXTINF:-1 tvg-id="amc.pt" tvg-logo="http://novaera4.club/logo/Amchd.png" tvg-name="AMCᴴᴰ" group-title="CANAIS PT",AMCᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/134
+#EXTINF:-1 tvg-id="axnwhite.pt" tvg-logo="http://novaera4.club/logo/axnwhite.png" tvg-name="AXN White" group-title="CANAIS PT",AXN White
+http://elitemaster.space:8080/cnunotv/iptv8465/2005
+#EXTINF:-1 tvg-id="axnwhite.pt" tvg-logo="http://novaera4.club/logo/AXNWHITEHD.png" tvg-name="AXN Whiteᴴᴰ" group-title="CANAIS PT",AXN Whiteᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/131
+#EXTINF:-1 tvg-id="fox.pt" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-9D8C031AFB-seeklogo.com.png" tvg-name="STAR Channel" group-title="CANAIS PT",STAR Channel
+http://elitemaster.space:8080/cnunotv/iptv8465/2008
+#EXTINF:-1 tvg-id="fox.pt" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-9D8C031AFB-seeklogo.com.png" tvg-name="STAR Channelᴴᴰ" group-title="CANAIS PT",STAR Channelᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/89
+#EXTINF:-1 tvg-id="foxcrime.pt" tvg-logo="https://seeklogo.com/images/S/star-crime-logo-2C5FFAA03E-seeklogo.com.png" tvg-name="STAR Crime" group-title="CANAIS PT",STAR Crime
+http://elitemaster.space:8080/cnunotv/iptv8465/2009
+#EXTINF:-1 tvg-id="foxcrime.pt" tvg-logo="https://seeklogo.com/images/S/star-crime-logo-2C5FFAA03E-seeklogo.com.png" tvg-name="STAR Crimeᴴᴰ" group-title="CANAIS PT",STAR Crimeᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/90
+#EXTINF:-1 tvg-id="foxcomedy.pt" tvg-logo="https://images.seeklogo.com/logo-png/52/1/star-comedy-logo-png_seeklogo-520560.png" tvg-name="STAR Comedy" group-title="CANAIS PT",STAR Comedy
+http://elitemaster.space:8080/cnunotv/iptv8465/91
+#EXTINF:-1 tvg-id="foxcomedy.pt" tvg-logo="https://images.seeklogo.com/logo-png/52/1/star-comedy-logo-png_seeklogo-520560.png" tvg-name="STAR Comedyᴴᴰ" group-title="CANAIS PT",STAR Comedyᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/4858
+#EXTINF:-1 tvg-id="foxlife.pt" tvg-logo="https://seeklogo.com/images/S/star-life-logo-D8AFE50BAF-seeklogo.com.png" tvg-name="STAR Life" group-title="CANAIS PT",STAR Life
+http://elitemaster.space:8080/cnunotv/iptv8465/2010
+#EXTINF:-1 tvg-id="foxlife.pt" tvg-logo="https://seeklogo.com/images/S/star-life-logo-D8AFE50BAF-seeklogo.com.png" tvg-name="STAR Lifeᴴᴰ" group-title="CANAIS PT",STAR Lifeᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/88
+#EXTINF:-1 tvg-id="investigationdiscovery.pt" tvg-logo="https://seeklogo.com/images/I/investigation-discovery-logo-D8839FBD94-seeklogo.com.png" tvg-name="ID Investigation Discovery" group-title="CANAIS PT",ID Investigation Discovery
+http://elitemaster.space:8080/cnunotv/iptv8465/76
+#EXTINF:-1 tvg-id="crimeinvestigation.pt" tvg-logo="http://novaera4.club/logo/AMCCRIME.png" tvg-name="AMC Crime " group-title="CANAIS PT",AMC Crime
+http://elitemaster.space:8080/cnunotv/iptv8465/50876
+#EXTINF:-1 tvg-id="discoverychannel.pt" tvg-logo="http://novaera4.club/logo/DISCOVERYCHANNEL.png" tvg-name="Discovery Channel" group-title="CANAIS PT",Discovery Channel
+http://elitemaster.space:8080/cnunotv/iptv8465/107
+#EXTINF:-1 tvg-id="discoverychannel.pt" tvg-logo="http://novaera4.club/logo/DISCOVERYCHANNEL.png" tvg-name="Discovery Channelᴴᴰ" group-title="CANAIS PT",Discovery Channelᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/106
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn6.aptoide.com/imgs/5/1/7/51713cb38f60e82562a65727ce7d5493_icon.png" tvg-name="Love Nature 4K" group-title="CANAIS PT",Love Nature 4K
+http://elitemaster.space:8080/cnunotv/iptv8465/78915
+#EXTINF:-1 tvg-id="nationalgeographicwild.pt" tvg-logo="http://novaera4.club/logo/NATGEOWILD.png" tvg-name="Nat Geo Wild" group-title="CANAIS PT",Nat Geo Wild
+http://elitemaster.space:8080/cnunotv/iptv8465/67
+#EXTINF:-1 tvg-id="nationalgeographicwild.pt" tvg-logo="http://novaera4.club/logo/NATGEOWILDHD.png" tvg-name="Nat Geo Wildᴴᴰ" group-title="CANAIS PT",Nat Geo Wildᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/35848
+#EXTINF:-1 tvg-id="nationalgeographic.pt" tvg-logo="http://novaera4.club/logo/NATIONALGEOGRAPHIC.png" tvg-name="National Geographic" group-title="CANAIS PT",National Geographic
+http://elitemaster.space:8080/cnunotv/iptv8465/5467
+#EXTINF:-1 tvg-id="nationalgeographic.pt" tvg-logo="http://novaera4.club/logo/NATIONALGEOGRAPHICHD.png" tvg-name="National Geographicᴴᴰ" group-title="CANAIS PT",National Geographicᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/68
+#EXTINF:-1 tvg-id="historia.pt" tvg-logo="http://novaera4.club/logo/historia.png" tvg-name="History Channel" group-title="CANAIS PT",History Channel
+http://elitemaster.space:8080/cnunotv/iptv8465/80
+#EXTINF:-1 tvg-id="historia.pt" tvg-logo="https://i.pinimg.com/originals/f0/f5/85/f0f5853626e544b66b851b80af88ef9a.png" tvg-name="History Channelᴴᴰ" group-title="CANAIS PT",History Channelᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/22138
+#EXTINF:-1 tvg-id="odisseia.pt" tvg-logo="http://novaera4.club/logo/ODISSEIA.png" tvg-name="Odisseia" group-title="CANAIS PT",Odisseia
+http://elitemaster.space:8080/cnunotv/iptv8465/62
+#EXTINF:-1 tvg-id="odisseia.pt" tvg-logo="http://novaera4.club/logo/ODISSEIAHD.png" tvg-name="Odisseiaᴴᴰ" group-title="CANAIS PT",Odisseiaᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/2013
+#EXTINF:-1 tvg-id="tcvinternational.pt" tvg-logo="https://rtc.cv/upload/img/programas/logotipo_tcv.png" tvg-name="TCV Cabo Verde" group-title="CANAIS PT",TCV Cabo Verde
+http://elitemaster.space:8080/cnunotv/iptv8465/75762
+#EXTINF:-1 tvg-id="blaze.pt" tvg-logo="http://novaera4.club/logo/AMCBRECK.png" tvg-name="AMC Break" group-title="CANAIS PT",AMC Break
+http://elitemaster.space:8080/cnunotv/iptv8465/126
+#EXTINF:-1 tvg-id="amcbreak.pt" tvg-logo="http://novaera4.club/logo/AMCBRECK.png" tvg-name="AMC Breakᴴᴰ" group-title="CANAIS PT",AMC Breakᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/1989
+#EXTINF:-1 tvg-id="cacaepesca.pt" tvg-logo="http://novaera4.club/logo/CACAEPESCAHD.png" tvg-name="CACAPESCA" group-title="CANAIS PT",CACAPESCA
+http://elitemaster.space:8080/cnunotv/iptv8465/116
+#EXTINF:-1 tvg-id="cacaepesca.pt" tvg-logo="http://novaera4.club/logo/CACAEPESCAHD.png" tvg-name="CACAPESCAᴴᴰ" group-title="CANAIS PT",CACAPESCAᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/8077
+#EXTINF:-1 tvg-id="cacavisionhd.pt" tvg-logo="http://novaera4.club/logo/CACAVISION.png" tvg-name="CaçaVision" group-title="CANAIS PT",CaçaVision
+http://elitemaster.space:8080/cnunotv/iptv8465/115
+#EXTINF:-1 tvg-id="" tvg-logo="http://novaera4.club/logo/nauticachanel.png" tvg-name="Nautical Channel" group-title="CANAIS PT",Nautical Channel
+http://elitemaster.space:8080/cnunotv/iptv8465/73702
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.directions.pt/uploads/2021/12/Captura-de-ecra%CC%83-2021-12-01-a%CC%80s-23.56.02.png" tvg-name="OPTO SIC" group-title="CANAIS PT",OPTO SIC
+http://elitemaster.space:8080/cnunotv/iptv8465/70455
+#EXTINF:-1 tvg-id="OneToro" tvg-logo="https://i.blogs.es/bd3791/mundotoro/1366_521.jpeg" tvg-name="Onetoro TV ᴴᴰ" group-title="CANAIS PT",Onetoro TV ᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/72571
+#EXTINF:-1 tvg-id="" tvg-logo="http://novaera4.club/logo/campopequenotv_logo.png" tvg-name="Campo Pequeno" group-title="CANAIS PT",Campo Pequeno
+http://elitemaster.space:8080/cnunotv/iptv8465/50875
+#EXTINF:-1 tvg-id="dogtv.pt" tvg-logo="http://novaera4.club/logo/DOGTV.png" tvg-name="DOGTV" group-title="CANAIS PT",DOGTV
+http://elitemaster.space:8080/cnunotv/iptv8465/5469
+#EXTINF:-1 tvg-id="RTPM" tvg-logo="http://novaera4.club/logo/RTPMEMORIA.png" tvg-name="RTP Memoria" group-title="CANAIS PT",RTP Memoria
+http://elitemaster.space:8080/cnunotv/iptv8465/50
+#EXTINF:-1 tvg-id="RTP Madeira" tvg-logo="http://novaera4.club/logo/RTPMADEIRA.png" tvg-name="RTP Madeira" group-title="CANAIS PT",RTP Madeira
+http://elitemaster.space:8080/cnunotv/iptv8465/51
+#EXTINF:-1 tvg-id="RTP AÇORES" tvg-logo="http://novaera4.club/logo/RTPACORES.png" tvg-name="RTP Acores" group-title="CANAIS PT",RTP Acores
+http://elitemaster.space:8080/cnunotv/iptv8465/52
+#EXTINF:-1 tvg-id="rtpafrica.pt" tvg-logo="http://novaera4.club/logo/RTPAFRICA.png" tvg-name="RTP Africa" group-title="CANAIS PT",RTP Africa
+http://elitemaster.space:8080/cnunotv/iptv8465/58
+#EXTINF:-1 tvg-id="CanaljQ" tvg-logo="http://novaera4.club/logo/CANALQ.png" tvg-name="Canal Q" group-title="CANAIS PT",Canal Q
+http://elitemaster.space:8080/cnunotv/iptv8465/119
+#EXTINF:-1 tvg-id="tpainternational.pt" tvg-logo="http://novaera4.club/logo/TPAINTERNACIONAL.png" tvg-name="TPA Internacional" group-title="CANAIS PT",TPA Internacional
+http://elitemaster.space:8080/cnunotv/iptv8465/2056
+#EXTINF:-1 tvg-id="cnnportugal.pt" tvg-logo="http://novaera4.club/logo/cnn.png" tvg-name="CNN" group-title="CANAIS PT",CNN
+http://elitemaster.space:8080/cnunotv/iptv8465/109
+#EXTINF:-1 tvg-id="24kitchen.pt" tvg-logo="http://novaera4.club/logo/24KITCHEN.png" tvg-name="24 Kitchenᴴᴰ" group-title="CANAIS PT",24 Kitchenᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/138
+#EXTINF:-1 tvg-id="foodnetwork.pt" tvg-logo="http://novaera4.club/logo/FOODNETWORKHD.png" tvg-name="Food Network	" group-title="CANAIS PT",Food Network
+http://elitemaster.space:8080/cnunotv/iptv8465/5457
+#EXTINF:-1 tvg-id="casaecozinha.pt" tvg-logo="https://uploads-eu-west-1.insided.com/nos-pt/attachment/4f8fb888-2ed7-4de5-86cb-bc4ddc6eb23e.png" tvg-name="Casa e Cozinha HD" group-title="CANAIS PT",Casa e Cozinha HD
+http://elitemaster.space:8080/cnunotv/iptv8465/21270
+#EXTINF:-1 tvg-id="eentertainment.pt" tvg-logo="http://novaera4.club/logo/e-entertainment.png" tvg-name="E! Entertainment" group-title="CANAIS PT",E! Entertainment
+http://elitemaster.space:8080/cnunotv/iptv8465/103
+#EXTINF:-1 tvg-id="travelchannel.pt" tvg-logo="http://novaera4.club/logo/TRAVELCHANNEL.png" tvg-name="Travel Channel" group-title="CANAIS PT",Travel Channel
+http://elitemaster.space:8080/cnunotv/iptv8465/22
+#EXTINF:-1 tvg-id="zapviva.pt" tvg-logo="http://novaera4.club/logo/ZAPVIVAHD.png" tvg-name="Zap Vivaᴴᴰ" group-title="CANAIS PT",Zap Vivaᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/1
+#EXTINF:-1 tvg-id="tlc.pt" tvg-logo="http://novaera4.club/logo/TLC.png" tvg-name="TLC" group-title="CANAIS PT",TLC
+http://elitemaster.space:8080/cnunotv/iptv8465/26
+#EXTINF:-1 tvg-id="mtv.pt" tvg-logo="http://novaera4.club/logo/MTV.png" tvg-name="MTVᴴᴰ" group-title="CANAIS PT",MTVᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/70
+#EXTINF:-1 tvg-id="almalusa" tvg-logo="http://novaera4.club/logo/Almalusa.png" tvg-name="AlmaLusaᴴᴰ" group-title="CANAIS PT",AlmaLusaᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/37218
+#EXTINF:-1 tvg-id="afromusicchannel.pt" tvg-logo="http://novaera4.club/logo/AFROMUSIC.png" tvg-name="Afro Music" group-title="CANAIS PT",Afro Music
+http://elitemaster.space:8080/cnunotv/iptv8465/136
+#EXTINF:-1 tvg-id="traceurban.pt" tvg-logo="http://novaera4.club/logo/TRACEURBAN.png" tvg-name="Trace Urban" group-title="CANAIS PT",Trace Urban
+http://elitemaster.space:8080/cnunotv/iptv8465/23
+#EXTINF:-1 tvg-id="tracetoca.pt" tvg-logo="https://trace.tv/trace-toca/wp-content/uploads/2016/11/logo_toca2.png" tvg-name="Trace Toca" group-title="CANAIS PT",Trace Toca
+http://elitemaster.space:8080/cnunotv/iptv8465/24
+#EXTINF:-1 tvg-id="TraceAfrica.fr" tvg-logo="http://novaera4.club/logo/TRACEAFRICA.png" tvg-name="Trace Africaᴴᴰ" group-title="CANAIS PT",Trace Africaᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/4856
+#EXTINF:-1 tvg-id="Trace TV" tvg-logo="http://novaera4.club/logo/TRACENAIJA.png" tvg-name="TRACE NAIJA" group-title="CANAIS PT",TRACE NAIJA
+http://elitemaster.space:8080/cnunotv/iptv8465/5464
+#EXTINF:-1 tvg-id="mcmpop.pt" tvg-logo="http://novaera4.club/logo/MCMPOP.png" tvg-name="MCM Pop" group-title="CANAIS PT",MCM Pop
+http://elitemaster.space:8080/cnunotv/iptv8465/73
+#EXTINF:-1 tvg-id="vh1.pt" tvg-logo="http://novaera4.club/logo/VH1.png" tvg-name="VH1" group-title="CANAIS PT",VH1
+http://elitemaster.space:8080/cnunotv/iptv8465/2
+#EXTINF:-1 tvg-id="cancaonova.pt" tvg-logo="http://novaera4.club/logo/CANCAONOVA.png" tvg-name="Canção Nova" group-title="CANAIS PT",Canção Nova
+http://elitemaster.space:8080/cnunotv/iptv8465/118
+#EXTINF:-1 tvg-id="dummy012" tvg-logo="https://seeklogo.com/images/C/capelinha-nossa-senhora-de-fatima-logo-5D737673EE-seeklogo.com.png" tvg-name="Santuario De Fátimaᴴᴰ" group-title="CANAIS PT",Santuario De Fátimaᴴᴰ
+http://elitemaster.space:8080/cnunotv/iptv8465/1060
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/v1Kmmfd.png" tvg-name="MARVEL" group-title="CANAIS PT",MARVEL
+http://elitemaster.space:8080/cnunotv/iptv8465/75768
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/v1Kmmfd.png" tvg-name="MARVEL II" group-title="CANAIS PT",MARVEL II
+http://elitemaster.space:8080/cnunotv/iptv8465/75769
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.pngkey.com/png/detail/83-832539_dc-comics-december-2018-solicitations-logo-dc-serie.png" tvg-name="DC TV" group-title="CANAIS PT",DC TV
+http://elitemaster.space:8080/cnunotv/iptv8465/75770
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/originals/ac/36/21/ac3621a2356d9773f3015c9523c91f3f.png" tvg-name="NETFLIX" group-title="CANAIS PT",NETFLIX
+http://elitemaster.space:8080/cnunotv/iptv8465/75771
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hbgiCQM.png" tvg-name="HBOMAX PORTUGAL" group-title="CANAIS PT",HBOMAX PORTUGAL
+http://elitemaster.space:8080/cnunotv/iptv8465/75772
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tqc0GEd.png" tvg-name="ACTION" group-title="CANAIS PT",ACTION
+http://elitemaster.space:8080/cnunotv/iptv8465/75773
+#EXTINF:-1 tvg-id="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91v6dKchYAL.png" tvg-name="FILMES CLÁSSICOS" group-title="CANAIS PT",FILMES CLÁSSICOS
+http://elitemaster.space:8080/cnunotv/iptv8465/75774
+#EXTINF:-1 tvg-id="" tvg-logo="https://steamcdn-a.akamaihd.net/steam/apps/576980/extras/main_logo.png" tvg-name="FILMES WESTERN" group-title="CANAIS PT",FILMES WESTERN
+http://elitemaster.space:8080/cnunotv/iptv8465/75775
+#EXTINF:-1 tvg-id="" tvg-logo="https://tamilmovienight.com/wp-content/uploads/2019/08/Comedy-Movies-2.jpg" tvg-name="FILMES COMÉDIA" group-title="CANAIS PT",FILMES COMÉDIA
+http://elitemaster.space:8080/cnunotv/iptv8465/75776
+#EXTINF:-1 tvg-id="" tvg-logo="https://consequenceofsound.net/wp-content/uploads/2016/04/screen-shot-2016-04-12-at-12-22-40-pm.png" tvg-name="DENZEL WASHINGTON" group-title="CANAIS PT",DENZEL WASHINGTON
+http://elitemaster.space:8080/cnunotv/iptv8465/75777
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.mikethefanboy.com/wp-content/uploads/2013/08/Screen-Shot-2013-08-22-at-4.44.52-PM-e1377215690204.png" tvg-name="SYLVESTER STALLONE" group-title="CANAIS PT",SYLVESTER STALLONE
+http://elitemaster.space:8080/cnunotv/iptv8465/75778
+#EXTINF:-1 tvg-id="" tvg-logo="https://media.fstatic.com/Y6eC2e0DRvGGqh3IsHev7YfBDpQ=/fit-in/290x478/smart/media/movies/covers/2011/08/b9ac257a1043b855e671a79d483eb646.jpg" tvg-name="JACKIE CHAN ADVENTURES" group-title="CANAIS PT",JACKIE CHAN ADVENTURES
+http://elitemaster.space:8080/cnunotv/iptv8465/75779
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.pngitem.com/pimgs/m/189-1890159_tom-cruise-png-download-illustration-transparent-png.png" tvg-name="TOM CRUISE" group-title="CANAIS PT",TOM CRUISE
+http://elitemaster.space:8080/cnunotv/iptv8465/75780
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aVpRvIw.png" tvg-name="FILMES VAN DAMME" group-title="CANAIS PT",FILMES VAN DAMME
+http://elitemaster.space:8080/cnunotv/iptv8465/75781
+#EXTINF:-1 tvg-id="" tvg-logo="https://img1.gratispng.com/20180201/lle/kisspng-samuel-l-jackson-cartoon-samuel-l-jackson-png-free-download-5a73e7e3331f12.5227017015175454432094.jpg" tvg-name="SAMUEL L JACKSON" group-title="CANAIS PT",SAMUEL L JACKSON
+http://elitemaster.space:8080/cnunotv/iptv8465/75782
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CWomZxd.png" tvg-name="STARWARS" group-title="CANAIS PT",STARWARS
+http://elitemaster.space:8080/cnunotv/iptv8465/75783
+#EXTINF:-1 tvg-id="" tvg-logo="http://apaixonadosporseries.com.br/wp-content/themes/apx17/img/apaixonados-por-series-logo-17.png" tvg-name="SÉRIES 24/7" group-title="CANAIS PT",SÉRIES 24/7
+http://elitemaster.space:8080/cnunotv/iptv8465/75784
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2013/03/os-malucos-do-riso.jpg" tvg-name="OS MALUCOS DO RISO" group-title="CANAIS PT",OS MALUCOS DO RISO
+http://elitemaster.space:8080/cnunotv/iptv8465/75785
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.ctvnews.ca/polopoly_fs/1.2503403.1438796134!/httpImage/image.png_gen/derivatives/landscape_620/image.png" tvg-name="APANHADOS" group-title="CANAIS PT",APANHADOS
+http://elitemaster.space:8080/cnunotv/iptv8465/75786
+#EXTINF:-1 tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/tvpediabrasil/images/f/fa/Jkshow.png/revision/latest?cb=20180712203138&path-prefix=pt-br" tvg-name="APANHADOS 2" group-title="CANAIS PT",APANHADOS 2
+http://elitemaster.space:8080/cnunotv/iptv8465/75787
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.flyproducoes.com/images/logo%20renew%20v2-crop-u10817_2x.png" tvg-name="PORTUGAL A RIR" group-title="CANAIS PT",PORTUGAL A RIR
+http://elitemaster.space:8080/cnunotv/iptv8465/75788
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PNkRBu2.png" tvg-name="OS SIMPSONS" group-title="CANAIS PT",OS SIMPSONS
+http://elitemaster.space:8080/cnunotv/iptv8465/75789
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.n00py.io/wp-content/uploads/2017/10/1448135365608.png" tvg-name="RICK AND MORTY" group-title="CANAIS PT",RICK AND MORTY
+http://elitemaster.space:8080/cnunotv/iptv8465/75790
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oieijVh.png" tvg-name="DRAGON BALL SUPER" group-title="CANAIS PT",DRAGON BALL SUPER
+http://elitemaster.space:8080/cnunotv/iptv8465/75791
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.logolynx.com/images/logolynx/b4/b47b6a8361e9921e8d499c1b3a42dcc1.jpeg" tvg-name="FILMES ANIMAÇÃO FALADOS EM PORTUGUÊS" group-title="CANAIS PT",FILMES ANIMAÇÃO FALADOS EM PORTUGUÊS
+http://elitemaster.space:8080/cnunotv/iptv8465/75792
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/s33LtiE.png" tvg-name="CINE TV" group-title="CANAIS PT",CINE TV
+http://elitemaster.space:8080/cnunotv/iptv8465/75793
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.filmfare.com/awards/short-films-2020/images/best_movie_fiction.png" tvg-name="FICTION MOVIES" group-title="CANAIS PT",FICTION MOVIES
+http://elitemaster.space:8080/cnunotv/iptv8465/75794
+#EXTINF:-1 tvg-id="" tvg-logo="https://dcassetcdn.com/design_img/27286/18899/18899_567604_27286_image.png" tvg-name="ROBOT MOVIES" group-title="CANAIS PT",ROBOT MOVIES
+http://elitemaster.space:8080/cnunotv/iptv8465/75795
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.assets.tomorrowland.com/2020/opengraph.jpg" tvg-name="TOMORROWLAND MUSIC" group-title="CANAIS PT",TOMORROWLAND MUSIC
+http://elitemaster.space:8080/cnunotv/iptv8465/75796
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/v1Kmmfd.png" tvg-name="MARVEL SERIES" group-title="CANAIS PT",MARVEL SERIES
+http://elitemaster.space:8080/cnunotv/iptv8465/75797
+#EXTINF:-1 tvg-id="" tvg-logo="https://i1.sndcdn.com/artworks-000407532159-891oed-t500x500.jpg" tvg-name="BOOM" group-title="CANAIS PT",BOOM
+http://elitemaster.space:8080/cnunotv/iptv8465/75798
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2011/07/Portugal-tal-Qual.jpg" tvg-name="PORTUGAL TAL E QUAL" group-title="CANAIS PT",PORTUGAL TAL E QUAL
+http://elitemaster.space:8080/cnunotv/iptv8465/75799
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/1280px-Disney%2B_logo.svg.png" tvg-name="DISNEY +" group-title="CANAIS PT",DISNEY +
+http://elitemaster.space:8080/cnunotv/iptv8465/75800
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn-images.rtp.pt/EPG/imagens/13327_40318_517.jpg?amp;w=270" tvg-name="BACALHAU COM TODOS" group-title="CANAIS PT",BACALHAU COM TODOS
+http://elitemaster.space:8080/cnunotv/iptv8465/75801
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.winudf.com/v2/image/Y29tLmFuZ2VsdmEudG9tY2F0X3NjcmVlbl8wXzE1MjU4MjkxMjJfMDgx/screen-0.jpg?fakeurl=1&type=.jpg" tvg-name="TALKING TOM CAT AND FRIENDS" group-title="CANAIS PT",TALKING TOM CAT AND FRIENDS
+http://elitemaster.space:8080/cnunotv/iptv8465/75802
+#EXTINF:-1 tvg-id="" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/d8642f9448611.560ce8d825232.jpg" tvg-name="NETFLIX KIDS" group-title="CANAIS PT",NETFLIX KIDS
+http://elitemaster.space:8080/cnunotv/iptv8465/75803
+#EXTINF:-1 tvg-id="" tvg-logo="https://s3-sa-east-1.amazonaws.com/projetos-artes/fullsize%2F2011%2F09%2F08%2F11%2FWDL-Logo-6807_21289_041155406_2114204758.jpg" tvg-name="SERTANEJO" group-title="CANAIS PT",SERTANEJO
+http://elitemaster.space:8080/cnunotv/iptv8465/75804
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.pinimg.com/originals/ed/ef/d8/edefd894813ff042cc0d30739799e656.jpg" tvg-name="MAGIC FOR HUMANS" group-title="CANAIS PT",MAGIC FOR HUMANS
+http://elitemaster.space:8080/cnunotv/iptv8465/75805
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.cinema7arte.com/wp-content/uploads/2018/09/cinemateca_20170504_pc.jpg" tvg-name="CINEMA PORTUGAL" group-title="CANAIS PT",CINEMA PORTUGAL
+http://elitemaster.space:8080/cnunotv/iptv8465/75806
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.autoracing.com.br/wp-content/uploads/2017/11/f1-logo-700.jpg" tvg-name="INSIDE FORMULA 1" group-title="CANAIS PT",INSIDE FORMULA 1
+http://elitemaster.space:8080/cnunotv/iptv8465/75807
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/V0DS5Wd.png" tvg-name="GATO FEDORENTO" group-title="CANAIS PT",GATO FEDORENTO
+http://elitemaster.space:8080/cnunotv/iptv8465/75808
+#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDk3ZTE0YmYtYjIzMS00OWIxLThjNTgtOWU5MjFlODFjNmJmXkEyXkFqcGdeQXVyNjQ5MjkyMDk@._V1_SY360_SX463_AL_.jpg" tvg-name="OS BATANETES" group-title="CANAIS PT",OS BATANETES
+http://elitemaster.space:8080/cnunotv/iptv8465/75809
+#EXTINF:-1 tvg-id="" tvg-logo="https://animais.culturamix.com/blog/wp-content/uploads/2012/05/Touradas-e-Marradas.jpg" tvg-name="TOURADAS E MARRADAS" group-title="CANAIS PT",TOURADAS E MARRADAS
+http://elitemaster.space:8080/cnunotv/iptv8465/75810
+#EXTINF:-1 tvg-id="" tvg-logo="https://warface.hype.games/operacao-nova-era/assets/images/logo/nova-era.png" tvg-name="Top MotoGP" group-title="CANAIS PT",Top MotoGP
+http://elitemaster.space:8080/cnunotv/iptv8465/77954
+#EXTINF:-1 tvg-id="" tvg-logo="https://warface.hype.games/operacao-nova-era/assets/images/logo/nova-era.png" tvg-name="Top Formula1" group-title="CANAIS PT",Top Formula1
+http://elitemaster.space:8080/cnunotv/iptv8465/77955
+#EXTINF:-1 tvg-id="" tvg-logo="https://warface.hype.games/operacao-nova-era/assets/images/logo/nova-era.png" tvg-name="Top Cinema Kids" group-title="CANAIS PT",Top Cinema Kids
+http://elitemaster.space:8080/cnunotv/iptv8465/77929
+#EXTINF:-1 tvg-id="" tvg-logo="https://warface.hype.games/operacao-nova-era/assets/images/logo/nova-era.png" tvg-name="Top Pixar" group-title="CANAIS PT",Top Pixar
+http://elitemaster.space:8080/cnunotv/iptv8465/77930
+#EXTINF:-1 tvg-id="" tvg-logo="https://warface.hype.games/operacao-nova-era/assets/images/logo/nova-era.png" tvg-name="Top Disney" group-title="CANAIS PT",Top Disney
+http://elitemaster.space:8080/cnunotv/iptv8465/77931
+#EXTINF:-1 tvg-id="" tvg-logo="https://warface.hype.games/operacao-nova-era/assets/images/logo/nova-era.png" tvg-name="Top Dreamworks" group-title="CANAIS PT",Top Dreamworks
+http://elitemaster.space:8080/cnunotv/iptv8465/77932
+#EXTINF:-1 tvg-id="" tvg-logo="https://warface.hype.games/operacao-nova-era/assets/images/logo/nova-era.png" tvg-name="Top Marvel 1" group-title="CANAIS PT",Top Marvel 1
+http://elitemaster.space:8080/cnunotv/iptv8465/77933
+#EXTINF:-1 tvg-id="" tvg-logo="https://warface.hype.games/operacao-nova-era/assets/images/logo/nova-era.png" tvg-name="Top Marvel 2" group-title="CANAIS PT",Top Marvel 2
+http://elitemaster.space:8080/cnunotv/iptv8465/77934
+#EXTINF:-1 tvg-id="" tvg-logo="https://warface.hype.games/operacao-nova-era/assets/images/logo/nova-era.png" tvg-name="Top  DC Comics" group-title="CANAIS PT",Top  DC Comics
+http://elitemaster.space:8080/cnunotv/iptv8465/77935
+#EXTINF:-1 tvg-id="" tvg-logo="https://warface.hype.games/operacao-nova-era/assets/images/logo/nova-era.png" tvg-name="Top Cinema Portugues" group-title="CANAIS PT",Top Cinema Portugues
+http://elitemaster.space:8080/cnunotv/iptv8465/77936
+#EXTINF:-1 tvg-id="" tvg-logo="https://warface.hype.games/operacao-nova-era/assets/images/logo/nova-era.png" tvg-name="Top Da Semana" group-title="CANAIS PT",Top Da Semana
+http://elitemaster.space:8080/cnunotv/iptv8465/77937
+#EXTINF:-1 tvg-id="" tvg-logo="https://warface.hype.games/operacao-nova-era/assets/images/logo/nova-era.png" tvg-name="Top Cinema" group-title="CANAIS PT",Top Cinema
+http://elitemaster.space:8080/cnunotv/iptv8465/77938
+#EXTINF:-1 tvg-id="" tvg-logo="https://warface.hype.games/operacao-nova-era/assets/images/logo/nova-era.png" tvg-name="Top Accao" group-title="CANAIS PT",Top Accao
+http://elitemaster.space:8080/cnunotv/iptv8465/77939
+#EXTINF:-1 tvg-id="" tvg-logo="https://warface.hype.games/operacao-nova-era/assets/images/logo/nova-era.png" tvg-name="Top Comedias" group-title="CANAIS PT",Top Comedias
+http://elitemaster.space:8080/cnunotv/iptv8465/77940
+#EXTINF:-1 tvg-id="" tvg-logo="https://warface.hype.games/operacao-nova-era/assets/images/logo/nova-era.png" tvg-name="Top Dramas" group-title="CANAIS PT",Top Dramas
+http://elitemaster.space:8080/cnunotv/iptv8465/77941
+#EXTINF:-1 tvg-id="" tvg-logo="https://warface.hype.games/operacao-nova-era/assets/images/logo/nova-era.png" tvg-name="Top Ficção e Fantasia" group-title="CANAIS PT",Top Ficção e Fantasia
+http://elitemaster.space:8080/cnunotv/iptv8465/77942
+#EXTINF:-1 tvg-id="" tvg-logo="https://warface.hype.games/operacao-nova-era/assets/images/logo/nova-era.png" tvg-name="Top Terror" group-title="CANAIS PT",Top Terror
+http://elitemaster.space:8080/cnunotv/iptv8465/77943
+#EXTINF:-1 tvg-id="" tvg-logo="https://warface.hype.games/operacao-nova-era/assets/images/logo/nova-era.png" tvg-name="Top Western" group-title="CANAIS PT",Top Western
+http://elitemaster.space:8080/cnunotv/iptv8465/77944
+#EXTINF:-1 tvg-id="" tvg-logo="https://warface.hype.games/operacao-nova-era/assets/images/logo/nova-era.png" tvg-name="Top Sagas e trilogias" group-title="CANAIS PT",Top Sagas e trilogias
+http://elitemaster.space:8080/cnunotv/iptv8465/77945
+#EXTINF:-1 tvg-id="" tvg-logo="https://warface.hype.games/operacao-nova-era/assets/images/logo/nova-era.png" tvg-name="Top Documentarios" group-title="CANAIS PT",Top Documentarios
+http://elitemaster.space:8080/cnunotv/iptv8465/77946
+#EXTINF:-1 tvg-id="" tvg-logo="https://warface.hype.games/operacao-nova-era/assets/images/logo/nova-era.png" tvg-name="Top StandUp" group-title="CANAIS PT",Top StandUp
+http://elitemaster.space:8080/cnunotv/iptv8465/77947
+#EXTINF:-1 tvg-id="" tvg-logo="https://warface.hype.games/operacao-nova-era/assets/images/logo/nova-era.png" tvg-name="Top Luccas Neto" group-title="CANAIS PT",Top Luccas Neto
+http://elitemaster.space:8080/cnunotv/iptv8465/77948
+#EXTINF:-1 tvg-id="" tvg-logo="https://warface.hype.games/operacao-nova-era/assets/images/logo/nova-era.png" tvg-name="Top The Voice" group-title="CANAIS PT",Top The Voice
+http://elitemaster.space:8080/cnunotv/iptv8465/77949
+#EXTINF:-1 tvg-id="" tvg-logo="https://warface.hype.games/operacao-nova-era/assets/images/logo/nova-era.png" tvg-name="Top Music" group-title="CANAIS PT",Top Music
+http://elitemaster.space:8080/cnunotv/iptv8465/77950
+#EXTINF:-1 tvg-id="" tvg-logo="https://warface.hype.games/operacao-nova-era/assets/images/logo/nova-era.png" tvg-name="Top Concerts" group-title="CANAIS PT",Top Concerts
+http://elitemaster.space:8080/cnunotv/iptv8465/77951
+#EXTINF:-1 tvg-id="" tvg-logo="https://warface.hype.games/operacao-nova-era/assets/images/logo/nova-era.png" tvg-name="Top Djs" group-title="CANAIS PT",Top Djs
+http://elitemaster.space:8080/cnunotv/iptv8465/77952
+#EXTINF:-1 tvg-id="" tvg-logo="https://warface.hype.games/operacao-nova-era/assets/images/logo/nova-era.png" tvg-name="Top Tomorrowland" group-title="CANAIS PT",Top Tomorrowland
+http://elitemaster.space:8080/cnunotv/iptv8465/77953
+#EXTINF:-1 tvg-id="RTPxx1" tvg-logo="http://novaera4.club/logo/RTP1.png" tvg-name="RTP1ᴸᴼᵂ" group-title="CANAIS PT",RTP1ᴸᴼᵂ
+http://elitemaster.space:8080/cnunotv/iptv8465/65393
+#EXTINF:-1 tvg-id="RTxxP2" tvg-logo="http://novaera4.club/logo/RTP2.png" tvg-name="RTP2ᴸᴼᵂ" group-title="CANAIS PT",RTP2ᴸᴼᵂ
+http://elitemaster.space:8080/cnunotv/iptv8465/65394
+#EXTINF:-1 tvg-id="RTP3" tvg-logo="http://novaera4.club/logo/RTP3.png" tvg-name="RTP3ᴸᴼᵂ" group-title="CANAIS PT",RTP3ᴸᴼᵂ
+http://elitemaster.space:8080/cnunotv/iptv8465/65395
+#EXTINF:-1 tvg-id="SIC" tvg-logo="http://novaera4.club/logo/SIC.png" tvg-name="SICᴸᴼᵂ" group-title="CANAIS PT",SICᴸᴼᵂ
+http://elitemaster.space:8080/cnunotv/iptv8465/65397
+#EXTINF:-1 tvg-id="TVI" tvg-logo="http://novaera4.club/logo/TVI.png" tvg-name="TVIᴸᴼᵂ" group-title="CANAIS PT",TVIᴸᴼᵂ
+http://elitemaster.space:8080/cnunotv/iptv8465/65402
+#EXTINF:-1 tvg-id="TVI_FICCAO" tvg-logo="http://novaera4.club/logo/TVIFICCAO.png" tvg-name="TVI Ficçãoᴸᴼᵂ" group-title="CANAIS PT",TVI Ficçãoᴸᴼᵂ
+http://elitemaster.space:8080/cnunotv/iptv8465/65401
+#EXTINF:-1 tvg-id="TVI Reality" tvg-logo="http://novaera4.club/logo/TVIREALITY.png" tvg-name="TVI Realityᴸᴼᵂ" group-title="CANAIS PT",TVI Realityᴸᴼᵂ
+http://elitemaster.space:8080/cnunotv/iptv8465/65403
+#EXTINF:-1 tvg-id="SICMhd" tvg-logo="http://novaera4.club/logo/SICMULHER.png" tvg-name="SIC Mulherᴸᴼᵂ" group-title="CANAIS PT",SIC Mulherᴸᴼᵂ
+http://elitemaster.space:8080/cnunotv/iptv8465/65398
+#EXTINF:-1 tvg-id="SICN" tvg-logo="http://novaera4.club/logo/SICNOTICIAS.png" tvg-name="SIC Notíciasᴸᴼᵂ" group-title="CANAIS PT",SIC Notíciasᴸᴼᵂ
+http://elitemaster.space:8080/cnunotv/iptv8465/65399
+#EXTINF:-1 tvg-id="SICRhd" tvg-logo="http://novaera4.club/logo/SICRADICAL.png" tvg-name="SIC Radicalᴸᴼᵂ" group-title="CANAIS PT",SIC Radicalᴸᴼᵂ
+http://elitemaster.space:8080/cnunotv/iptv8465/65400
+#EXTINF:-1 tvg-id="CMTVhd" tvg-logo="http://novaera4.club/logo/CMTV.png" tvg-name="CMTVᴸᴼᵂ" group-title="CANAIS PT",CMTVᴸᴼᵂ
+http://elitemaster.space:8080/cnunotv/iptv8465/65425
+#EXTINF:-1 tvg-id="CNN Portugal" tvg-logo="http://novaera4.club/logo/cnn.png" tvg-name="CNN Portugalᴸᴼᵂ" group-title="CANAIS PT",CNN Portugalᴸᴼᵂ
+http://elitemaster.space:8080/cnunotv/iptv8465/65426
+#EXTINF:-1 tvg-id="Discovcxvery" tvg-logo="http://novaera4.club/logo/DISCOVERYCHANNEL.png" tvg-name="Discovery Channelᴸᴼᵂ" group-title="CANAIS PT",Discovery Channelᴸᴼᵂ
+http://elitemaster.space:8080/cnunotv/iptv8465/65427
+#EXTINF:-1 tvg-id="GLObbO" tvg-logo="http://novaera4.club/logo/GLOBO.png" tvg-name="Globoᴸᴼᵂ" group-title="CANAIS PT",Globoᴸᴼᵂ
+http://elitemaster.space:8080/cnunotv/iptv8465/65437
+#EXTINF:-1 tvg-id="TV Record HD" tvg-logo="http://novaera4.club/logo/RECORDTV.png" tvg-name="TV Recordᴸᴼᵂ" group-title="CANAIS PT",TV Recordᴸᴼᵂ
+http://elitemaster.space:8080/cnunotv/iptv8465/65460
+#EXTINF:-1 tvg-id="HIST" tvg-logo="http://novaera4.club/logo/CANALHISTORIA.png" tvg-name="Historiaᴸᴼᵂ" group-title="CANAIS PT",Historiaᴸᴼᵂ
+http://elitemaster.space:8080/cnunotv/iptv8465/65440
+#EXTINF:-1 tvg-id="NGCWILD" tvg-logo="http://novaera4.club/logo/NATGEOWILD.png" tvg-name="National Geo Wildᴸᴼᵂ" group-title="CANAIS PT",National Geo Wildᴸᴼᵂ
+http://elitemaster.space:8080/cnunotv/iptv8465/65442
+#EXTINF:-1 tvg-id="NGC33" tvg-logo="http://novaera4.club/logo/NATIONALGEOGRAPHIC.png" tvg-name="National Geoᴸᴼᵂ" group-title="CANAIS PT",National Geoᴸᴼᵂ
+http://elitemaster.space:8080/cnunotv/iptv8465/65443
+#EXTINF:-1 tvg-id="HOLLYHD" tvg-logo="http://novaera4.club/logo/HOLLYWOOD.png" tvg-name="Hollywoodᴸᴼᵂ" group-title="CANAIS PT",Hollywoodᴸᴼᵂ
+http://elitemaster.space:8080/cnunotv/iptv8465/65404
+#EXTINF:-1 tvg-id="SYFYHD" tvg-logo="http://novaera4.club/logo/SYFY.png" tvg-name="SyFyᴸᴼᵂ" group-title="CANAIS PT",SyFyᴸᴼᵂ
+http://elitemaster.space:8080/cnunotv/iptv8465/65405
+#EXTINF:-1 tvg-id="TVCg4" tvg-logo="http://novaera4.club/logo/TvCineAction.png" tvg-name="TVCine ACTIONᴸᴼᵂ" group-title="CANAIS PT",TVCine ACTIONᴸᴼᵂ
+http://elitemaster.space:8080/cnunotv/iptv8465/65406
+#EXTINF:-1 tvg-id="TVCg3" tvg-logo="http://novaera4.club/logo/TvCineEdition.png" tvg-name="TVCine EDITIONᴸᴼᵂ" group-title="CANAIS PT",TVCine EDITIONᴸᴼᵂ
+http://elitemaster.space:8080/cnunotv/iptv8465/65407
+#EXTINF:-1 tvg-id="TVCg2" tvg-logo="http://novaera4.club/logo/TvCineEmotion.png" tvg-name="TVCine EMOTIONᴸᴼᵂ" group-title="CANAIS PT",TVCine EMOTIONᴸᴼᵂ
+http://elitemaster.space:8080/cnunotv/iptv8465/65408
+#EXTINF:-1 tvg-id="TVCg1" tvg-logo="http://novaera4.club/logo/TvCineTop.png" tvg-name="TVCine TOPᴸᴼᵂ" group-title="CANAIS PT",TVCine TOPᴸᴼᵂ
+http://elitemaster.space:8080/cnunotv/iptv8465/65409
+#EXTINF:-1 tvg-id="FXCOMEDY" tvg-logo="https://images.seeklogo.com/logo-png/52/1/star-comedy-logo-png_seeklogo-520560.png" tvg-name="STAR Comedyᴸᴼᵂ" group-title="CANAIS PT",STAR Comedyᴸᴼᵂ
+http://elitemaster.space:8080/cnunotv/iptv8465/65410
+#EXTINF:-1 tvg-id="FOXCRIMEHD" tvg-logo="https://seeklogo.com/images/S/star-crime-logo-2C5FFAA03E-seeklogo.com.png" tvg-name="STAR Crimeᴸᴼᵂ" group-title="CANAIS PT",STAR Crimeᴸᴼᵂ
+http://elitemaster.space:8080/cnunotv/iptv8465/65411
+#EXTINF:-1 tvg-id="FOXLIFEHD" tvg-logo="https://seeklogo.com/images/S/star-life-logo-D8AFE50BAF-seeklogo.com.png" tvg-name="STAR Lifeᴸᴼᵂ" group-title="CANAIS PT",STAR Lifeᴸᴼᵂ
+http://elitemaster.space:8080/cnunotv/iptv8465/65412
+#EXTINF:-1 tvg-id="FOXHD" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-9D8C031AFB-seeklogo.com.png" tvg-name="STAR Channelᴸᴼᵂ" group-title="CANAIS PT",STAR Channelᴸᴼᵂ
+http://elitemaster.space:8080/cnunotv/iptv8465/65413
+#EXTINF:-1 tvg-id="FOXMOVIESHD" tvg-logo="https://seeklogo.com/images/S/star-movies-2023-logo-D90185EC1F-seeklogo.com.png" tvg-name="STAR Moviesᴸᴼᵂ" group-title="CANAIS PT",STAR Moviesᴸᴼᵂ
+http://elitemaster.space:8080/cnunotv/iptv8465/65414
+#EXTINF:-1 tvg-id="amc" tvg-logo="http://novaera4.club/logo/AMC.png" tvg-name="AMCᴸᴼᵂ" group-title="CANAIS PT",AMCᴸᴼᵂ
+http://elitemaster.space:8080/cnunotv/iptv8465/65415
+#EXTINF:-1 tvg-id="AXN" tvg-logo="http://novaera4.club/logo/AXN.png" tvg-name="AXNᴸᴼᵂ" group-title="CANAIS PT",AXNᴸᴼᵂ
+http://elitemaster.space:8080/cnunotv/iptv8465/65416
+#EXTINF:-1 tvg-id="AXN MOVIES" tvg-logo="http://novaera4.club/logo/AXN_MOVIES.png" tvg-name="AXN Moviesᴸᴼᵂ" group-title="CANAIS PT",AXN Moviesᴸᴼᵂ
+http://elitemaster.space:8080/cnunotv/iptv8465/65417
+#EXTINF:-1 tvg-id="AXN White HD" tvg-logo="http://novaera4.club/logo/axnwhith.png" tvg-name="AXN Whiteᴸᴼᵂ" group-title="CANAIS PT",AXN Whiteᴸᴼᵂ
+http://elitemaster.space:8080/cnunotv/iptv8465/65418
+#EXTINF:-1 tvg-id="CINEMUNDO" tvg-logo="http://novaera4.club/logo/CINEMUNDO.png" tvg-name="Cinemundoᴸᴼᵂ" group-title="CANAIS PT",Cinemundoᴸᴼᵂ
+http://elitemaster.space:8080/cnunotv/iptv8465/65423
+#EXTINF:-1 tvg-id="NOSStudiosHD" tvg-logo="http://novaera4.club/logo/NOSStudios.png" tvg-name="NOS Studiosᴸᴼᵂ" group-title="CANAIS PT",NOS Studiosᴸᴼᵂ
+http://elitemaster.space:8080/cnunotv/iptv8465/65424
+#EXTINF:-1 tvg-id="CANAL11" tvg-logo="http://novaera4.club/logo/canal11.png" tvg-name="Canal 11ᴸᴼᵂ" group-title="CANAIS PT",Canal 11ᴸᴼᵂ
+http://elitemaster.space:8080/cnunotv/iptv8465/65421
+#EXTINF:-1 tvg-id="PORTOhd" tvg-logo="http://novaera4.club/logo/PORTOCANAL.png" tvg-name="Porto Canalᴸᴼᵂ" group-title="CANAIS PT",Porto Canalᴸᴼᵂ
+http://elitemaster.space:8080/cnunotv/iptv8465/65449
+#EXTINF:-1 tvg-id="SPORT TV+" tvg-logo="http://novaera4.club/logo/SPORTTV+.png" tvg-name="Sport.TV+ᴸᴼᵂ" group-title="CANAIS PT",Sport.TV+ᴸᴼᵂ
+http://elitemaster.space:8080/cnunotv/iptv8465/65450
+#EXTINF:-1 tvg-id="SPORT.TV 1" tvg-logo="http://novaera4.club/logo/SPORTTV1.png" tvg-name="Sport.TV1ᴸᴼᵂ" group-title="CANAIS PT",Sport.TV1ᴸᴼᵂ
+http://elitemaster.space:8080/cnunotv/iptv8465/65451
+#EXTINF:-1 tvg-id="SPORT.TV 2" tvg-logo="http://novaera4.club/logo/SPORTTV2.png" tvg-name="Sport.TV2ᴸᴼᵂ" group-title="CANAIS PT",Sport.TV2ᴸᴼᵂ
+http://elitemaster.space:8080/cnunotv/iptv8465/65452
+#EXTINF:-1 tvg-id="SPORT.TV 3" tvg-logo="http://novaera4.club/logo/SPORTTV3.png" tvg-name="Sport.TV3ᴸᴼᵂ" group-title="CANAIS PT",Sport.TV3ᴸᴼᵂ
+http://elitemaster.space:8080/cnunotv/iptv8465/65453
+#EXTINF:-1 tvg-id="SPORT.TV 4" tvg-logo="http://novaera4.club/logo/SPORTTV4.png" tvg-name="Sport.TV4ᴸᴼᵂ" group-title="CANAIS PT",Sport.TV4ᴸᴼᵂ
+http://elitemaster.space:8080/cnunotv/iptv8465/65455
+#EXTINF:-1 tvg-id="SPORT.TV 5" tvg-logo="http://novaera4.club/logo/SPORTTV5.png" tvg-name="Sport.TV5ᴸᴼᵂ" group-title="CANAIS PT",Sport.TV5ᴸᴼᵂ
+http://elitemaster.space:8080/cnunotv/iptv8465/65456
+#EXTINF:-1 tvg-id="SPORT TV 6 LOW" tvg-logo="http://novaera4.club/logo/SPORTTV6.png" tvg-name="Sport.TV6ᴸᴼᵂ" group-title="CANAIS PT",Sport.TV6ᴸᴼᵂ
+http://elitemaster.space:8080/cnunotv/iptv8465/65457
+#EXTINF:-1 tvg-id="AcfdBolaTV" tvg-logo="http://novaera4.club/logo/ABOLATV.png" tvg-name="A Bola TVᴸᴼᵂ" group-title="CANAIS PT",A Bola TVᴸᴼᵂ
+http://elitemaster.space:8080/cnunotv/iptv8465/65428
+#EXTINF:-1 tvg-id="BTV 1hd" tvg-logo="http://novaera4.club/logo/BTV.png" tvg-name="Benfica TVᴸᴼᵂ" group-title="CANAIS PT",Benfica TVᴸᴼᵂ
+http://elitemaster.space:8080/cnunotv/iptv8465/65429
+#EXTINF:-1 tvg-id="ELEVENSPORT 1" tvg-logo="http://novaera4.club/logo/ELEVENSPORTS1.png" tvg-name="Eleven Sports 1ᴸᴼᵂ" group-title="CANAIS PT",Eleven Sports 1ᴸᴼᵂ
+http://elitemaster.space:8080/cnunotv/iptv8465/65430
+#EXTINF:-1 tvg-id="ELEVENSPORT 2" tvg-logo="http://novaera4.club/logo/ELEVENSPORTS2.png" tvg-name="Eleven Sports 2ᴸᴼᵂ" group-title="CANAIS PT",Eleven Sports 2ᴸᴼᵂ
+http://elitemaster.space:8080/cnunotv/iptv8465/65431
+#EXTINF:-1 tvg-id="ELEVENSPORT 3" tvg-logo="http://novaera4.club/logo/ELEVENSPORTS3.png" tvg-name="Eleven Sports 3ᴸᴼᵂ" group-title="CANAIS PT",Eleven Sports 3ᴸᴼᵂ
+http://elitemaster.space:8080/cnunotv/iptv8465/65432
+#EXTINF:-1 tvg-id="ELEVENSPORT 4" tvg-logo="http://novaera4.club/logo/ELEVENSPORTS4.png" tvg-name="Eleven Sports 4ᴸᴼᵂ" group-title="CANAIS PT",Eleven Sports 4ᴸᴼᵂ
+http://elitemaster.space:8080/cnunotv/iptv8465/65433
+#EXTINF:-1 tvg-id="ELEVENSPORT 5" tvg-logo="http://novaera4.club/logo/ELEVENSPORTS5.png" tvg-name="Eleven Sports 5ᴸᴼᵂ" group-title="CANAIS PT",Eleven Sports 5ᴸᴼᵂ
+http://elitemaster.space:8080/cnunotv/iptv8465/65434
+#EXTINF:-1 tvg-id="EuroSport HD" tvg-logo="http://novaera4.club/logo/EUROSPORT1.png" tvg-name="Eurosport 1ᴸᴼᵂ" group-title="CANAIS PT",Eurosport 1ᴸᴼᵂ
+http://elitemaster.space:8080/cnunotv/iptv8465/65435
+#EXTINF:-1 tvg-id="EuroSport 2" tvg-logo="http://novaera4.club/logo/EUROSPORT2.png" tvg-name="Eurosport 2ᴸᴼᵂ" group-title="CANAIS PT",Eurosport 2ᴸᴼᵂ
+http://elitemaster.space:8080/cnunotv/iptv8465/65436
+#EXTINF:-1 tvg-id="PANDA" tvg-logo="http://novaera4.club/logo/CANALPANDA.png" tvg-name="Pandaᴸᴼᵂ" group-title="CANAIS PT",Pandaᴸᴼᵂ
+http://elitemaster.space:8080/cnunotv/iptv8465/65422
+#EXTINF:-1 tvg-id="DISNY" tvg-logo="http://novaera4.club/logo/DISNEYCHANNEL.png" tvg-name="Disney Channelᴸᴼᵂ" group-title="CANAIS PT",Disney Channelᴸᴼᵂ
+http://elitemaster.space:8080/cnunotv/iptv8465/65444
+#EXTINF:-1 tvg-id="DISNEYJUNIOR" tvg-logo="http://novaera4.club/logo/DISNEYJUNIOR.png" tvg-name="Disney Juniorᴸᴼᵂ" group-title="CANAIS PT",Disney Juniorᴸᴼᵂ
+http://elitemaster.space:8080/cnunotv/iptv8465/65445
+#EXTINF:-1 tvg-id="Nickejvgu" tvg-logo="http://novaera4.club/logo/NICKJR.png" tvg-name="Nick JRᴸᴼᵂ" group-title="CANAIS PT",Nick JRᴸᴼᵂ
+http://elitemaster.space:8080/cnunotv/iptv8465/65446
+#EXTINF:-1 tvg-id="Biggs" tvg-logo="http://novaera4.club/logo/BIGGS.png" tvg-name="Panda Biggsᴸᴼᵂ" group-title="CANAIS PT",Panda Biggsᴸᴼᵂ
+http://elitemaster.space:8080/cnunotv/iptv8465/65448
+
+
+
+
+
+
+
+
 
 
 
