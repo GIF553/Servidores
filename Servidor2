@@ -1,1 +1,186 @@
-rausndmdud
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" tvg-name="ESPN FHD" group-title="Canais | ESPN",ESPN FHD
+http://uniplay.link:80/262144514/mega96502/309458
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" tvg-name="ESPN UHD" group-title="Canais | ESPN",ESPN UHD
+http://uniplay.link:80/262144514/mega96502/21315
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" tvg-name="ESPN H265" group-title="Canais | ESPN",ESPN H265
+http://uniplay.link:80/262144514/mega96502/123947
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" tvg-name="ESPN HD" group-title="Canais | ESPN",ESPN HD
+http://uniplay.link:80/262144514/mega96502/208
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" tvg-name="ESPN HD²" group-title="Canais | ESPN",ESPN HD²
+http://uniplay.link:80/262144514/mega96502/209
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" tvg-name="ESPN SD" group-title="Canais | ESPN",ESPN SD
+http://uniplay.link:80/262144514/mega96502/207
+#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" tvg-name="ESPN2 FHD" group-title="Canais | ESPN",ESPN2 FHD
+http://uniplay.link:80/262144514/mega96502/215
+#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" tvg-name="ESPN2 UHD" group-title="Canais | ESPN",ESPN2 UHD
+http://uniplay.link:80/262144514/mega96502/52091
+#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" tvg-name="ESPN2 H265" group-title="Canais | ESPN",ESPN2 H265
+http://uniplay.link:80/262144514/mega96502/362050
+#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" tvg-name="ESPN2 HD" group-title="Canais | ESPN",ESPN2 HD
+http://uniplay.link:80/262144514/mega96502/213
+#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" tvg-name="ESPN2 HD²" group-title="Canais | ESPN",ESPN2 HD²
+http://uniplay.link:80/262144514/mega96502/214
+#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" tvg-name="ESPN2 SD" group-title="Canais | ESPN",ESPN2 SD
+http://uniplay.link:80/262144514/mega96502/212
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" tvg-name="ESPN3 FHD" group-title="Canais | ESPN",ESPN3 FHD
+http://uniplay.link:80/262144514/mega96502/220
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" tvg-name="ESPN3 UHD" group-title="Canais | ESPN",ESPN3 UHD
+http://uniplay.link:80/262144514/mega96502/21235
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" tvg-name="ESPN3 H265" group-title="Canais | ESPN",ESPN3 H265
+http://uniplay.link:80/262144514/mega96502/362051
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" tvg-name="ESPN3 HD" group-title="Canais | ESPN",ESPN3 HD
+http://uniplay.link:80/262144514/mega96502/218
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" tvg-name="ESPN3 HD²" group-title="Canais | ESPN",ESPN3 HD²
+http://uniplay.link:80/262144514/mega96502/219
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" tvg-name="ESPN3  SD" group-title="Canais | ESPN",ESPN3  SD
+http://uniplay.link:80/262144514/mega96502/217
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" tvg-name="ESPN4 FHD" group-title="Canais | ESPN",ESPN4 FHD
+http://uniplay.link:80/262144514/mega96502/225
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" tvg-name="ESPN4 UHD" group-title="Canais | ESPN",ESPN4 UHD
+http://uniplay.link:80/262144514/mega96502/21318
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" tvg-name="ESPN4 H265" group-title="Canais | ESPN",ESPN4 H265
+http://uniplay.link:80/262144514/mega96502/362052
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" tvg-name="ESPN4 HD" group-title="Canais | ESPN",ESPN4 HD
+http://uniplay.link:80/262144514/mega96502/223
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" tvg-name="ESPN4 HD²" group-title="Canais | ESPN",ESPN4 HD²
+http://uniplay.link:80/262144514/mega96502/224
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" tvg-name="ESPN4 SD" group-title="Canais | ESPN",ESPN4 SD
+http://uniplay.link:80/262144514/mega96502/222
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" tvg-name="ESPN Extra FHD" group-title="Canais | ESPN",ESPN Extra FHD
+http://uniplay.link:80/262144514/mega96502/230
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" tvg-name="ESPN Extra UHD" group-title="Canais | ESPN",ESPN Extra UHD
+http://uniplay.link:80/262144514/mega96502/21236
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" tvg-name="ESPN Extra H265" group-title="Canais | ESPN",ESPN Extra H265
+http://uniplay.link:80/262144514/mega96502/362053
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" tvg-name="ESPN Extra HD" group-title="Canais | ESPN",ESPN Extra HD
+http://uniplay.link:80/262144514/mega96502/228
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" tvg-name="ESPN Extra² HD" group-title="Canais | ESPN",ESPN Extra² HD
+http://uniplay.link:80/262144514/mega96502/229
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/ESPN.png" tvg-name="ESPN Extra SD" group-title="Canais | ESPN",ESPN Extra SD
+http://uniplay.link:80/262144514/mega96502/227
+#EXTINF:-1 tvg-id="Amc.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/AMC.png" tvg-name="AMC FHD" group-title="Canais | Filmes & Series",AMC FHD
+http://uniplay.link:80/262144514/mega96502/671
+#EXTINF:-1 tvg-id="Amc.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/AMC.png" tvg-name="AMC HD" group-title="Canais | Filmes & Series",AMC HD
+http://uniplay.link:80/262144514/mega96502/669
+#EXTINF:-1 tvg-id="Amc.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/AMC.png" tvg-name="AMC HD²" group-title="Canais | Filmes & Series",AMC HD²
+http://uniplay.link:80/262144514/mega96502/670
+#EXTINF:-1 tvg-id="Amc.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/AMC.png" tvg-name="AMC SD" group-title="Canais | Filmes & Series",AMC SD
+http://uniplay.link:80/262144514/mega96502/668
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TNT.png" tvg-name="TNT Novelas FHD" group-title="Canais | Filmes & Series",TNT Novelas FHD
+http://uniplay.link:80/262144514/mega96502/264555
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TNT.png" tvg-name="TNT Novelas  HD" group-title="Canais | Filmes & Series",TNT Novelas  HD
+http://uniplay.link:80/262144514/mega96502/264556
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TNT.png" tvg-name="TNT Novelas  SD" group-title="Canais | Filmes & Series",TNT Novelas  SD
+http://uniplay.link:80/262144514/mega96502/264557
+#EXTINF:-1 tvg-id="Ae.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/A&E.png" tvg-name="A&E FHD" group-title="Canais | Filmes & Series",A&E FHD
+http://uniplay.link:80/262144514/mega96502/666
+#EXTINF:-1 tvg-id="Ae.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/A&E.png" tvg-name="A&E UHD" group-title="Canais | Filmes & Series",A&E UHD
+http://uniplay.link:80/262144514/mega96502/21292
+#EXTINF:-1 tvg-id="Ae.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/A&E.png" tvg-name="A&E HD" group-title="Canais | Filmes & Series",A&E HD
+http://uniplay.link:80/262144514/mega96502/664
+#EXTINF:-1 tvg-id="Ae.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/A&E.png" tvg-name="A&E HD²" group-title="Canais | Filmes & Series",A&E HD²
+http://uniplay.link:80/262144514/mega96502/665
+#EXTINF:-1 tvg-id="Ae.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/A&E.png" tvg-name="A&E SD" group-title="Canais | Filmes & Series",A&E SD
+http://uniplay.link:80/262144514/mega96502/663
+#EXTINF:-1 tvg-id="Axn.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/AXN.png" tvg-name="AXN FHD" group-title="Canais | Filmes & Series",AXN FHD
+http://uniplay.link:80/262144514/mega96502/676
+#EXTINF:-1 tvg-id="Axn.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/AXN.png" tvg-name="AXN UHD" group-title="Canais | Filmes & Series",AXN UHD
+http://uniplay.link:80/262144514/mega96502/21223
+#EXTINF:-1 tvg-id="Axn.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/AXN.png" tvg-name="AXN HD" group-title="Canais | Filmes & Series",AXN HD
+http://uniplay.link:80/262144514/mega96502/674
+#EXTINF:-1 tvg-id="Axn.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/AXN.png" tvg-name="AXN HD²" group-title="Canais | Filmes & Series",AXN HD²
+http://uniplay.link:80/262144514/mega96502/675
+#EXTINF:-1 tvg-id="Axn.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/AXN.png" tvg-name="AXN SD" group-title="Canais | Filmes & Series",AXN SD
+http://uniplay.link:80/262144514/mega96502/673
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/CanalBrasil_logos_700px_0-03.png" tvg-name="Canal Brasil FHD" group-title="Canais | Filmes & Series",Canal Brasil FHD
+http://uniplay.link:80/262144514/mega96502/146
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/CanalBrasil_logos_700px_0-03.png" tvg-name="Canal Brasil HD" group-title="Canais | Filmes & Series",Canal Brasil HD
+http://uniplay.link:80/262144514/mega96502/145
+#EXTINF:-1 tvg-id="Sony.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SONYCHANNEL.png" tvg-name="Canal Sony FHD" group-title="Canais | Filmes & Series",Canal Sony FHD
+http://uniplay.link:80/262144514/mega96502/702
+#EXTINF:-1 tvg-id="Sony.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SONYCHANNEL.png" tvg-name="Canal Sony UHD" group-title="Canais | Filmes & Series",Canal Sony UHD
+http://uniplay.link:80/262144514/mega96502/21229
+#EXTINF:-1 tvg-id="Sony.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SONYCHANNEL.png" tvg-name="Canal Sony HD" group-title="Canais | Filmes & Series",Canal Sony HD
+http://uniplay.link:80/262144514/mega96502/700
+#EXTINF:-1 tvg-id="Sony.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SONYCHANNEL.png" tvg-name="Canal Sony HD²" group-title="Canais | Filmes & Series",Canal Sony HD²
+http://uniplay.link:80/262144514/mega96502/701
+#EXTINF:-1 tvg-id="Sony.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SONYCHANNEL.png" tvg-name="Canal Sony SD" group-title="Canais | Filmes & Series",Canal Sony SD
+http://uniplay.link:80/262144514/mega96502/699
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CINEMAX.png" tvg-name="Cinemax FHD" group-title="Canais | Filmes & Series",Cinemax FHD
+http://uniplay.link:80/262144514/mega96502/682
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CINEMAX.png" tvg-name="Cinemax UHD" group-title="Canais | Filmes & Series",Cinemax UHD
+http://uniplay.link:80/262144514/mega96502/21231
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CINEMAX.png" tvg-name="Cinemax HD" group-title="Canais | Filmes & Series",Cinemax HD
+http://uniplay.link:80/262144514/mega96502/680
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CINEMAX.png" tvg-name="Cinemax HD²" group-title="Canais | Filmes & Series",Cinemax HD²
+http://uniplay.link:80/262144514/mega96502/681
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/CINEMAX.png" tvg-name="Cinemax SD" group-title="Canais | Filmes & Series",Cinemax SD
+http://uniplay.link:80/262144514/mega96502/679
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/COMEDYCENTRAL.png" tvg-name="Comedy Central FHD" group-title="Canais | Filmes & Series",Comedy Central FHD
+http://uniplay.link:80/262144514/mega96502/687
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/COMEDYCENTRAL.png" tvg-name="Comedy Central UHD" group-title="Canais | Filmes & Series",Comedy Central UHD
+http://uniplay.link:80/262144514/mega96502/21233
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/COMEDYCENTRAL.png" tvg-name="Comedy Central HD" group-title="Canais | Filmes & Series",Comedy Central HD
+http://uniplay.link:80/262144514/mega96502/685
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/COMEDYCENTRAL.png" tvg-name="Comedy Central HD²" group-title="Canais | Filmes & Series",Comedy Central HD²
+http://uniplay.link:80/262144514/mega96502/686
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/COMEDYCENTRAL.png" tvg-name="Comedy Central SD" group-title="Canais | Filmes & Series",Comedy Central SD
+http://uniplay.link:80/262144514/mega96502/684
+#EXTINF:-1 tvg-id="Megapix.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MEGAPIX.png" tvg-name="Megapix FHD" group-title="Canais | Filmes & Series",Megapix FHD
+http://uniplay.link:80/262144514/mega96502/692
+#EXTINF:-1 tvg-id="Megapix.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MEGAPIX.png" tvg-name="Megapix HD" group-title="Canais | Filmes & Series",Megapix HD
+http://uniplay.link:80/262144514/mega96502/690
+#EXTINF:-1 tvg-id="Megapix.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MEGAPIX.png" tvg-name="Megapix HD²" group-title="Canais | Filmes & Series",Megapix HD²
+http://uniplay.link:80/262144514/mega96502/691
+#EXTINF:-1 tvg-id="Megapix.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MEGAPIX.png" tvg-name="Megapix SD" group-title="Canais | Filmes & Series",Megapix SD
+http://uniplay.link:80/262144514/mega96502/689
+#EXTINF:-1 tvg-id="Megapix.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/MEGAPIX.png" tvg-name="Megapix UHD" group-title="Canais | Filmes & Series",Megapix UHD
+http://uniplay.link:80/262144514/mega96502/21257
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PARAMOUNTNETWORK.png" tvg-name="Paramount Network FHD" group-title="Canais | Filmes & Series",Paramount Network FHD
+http://uniplay.link:80/262144514/mega96502/697
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PARAMOUNTNETWORK.png" tvg-name="Paramount Network UHD" group-title="Canais | Filmes & Series",Paramount Network UHD
+http://uniplay.link:80/262144514/mega96502/21265
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PARAMOUNTNETWORK.png" tvg-name="Paramount Network HD" group-title="Canais | Filmes & Series",Paramount Network HD
+http://uniplay.link:80/262144514/mega96502/695
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PARAMOUNTNETWORK.png" tvg-name="Paramount Network HD²" group-title="Canais | Filmes & Series",Paramount Network HD²
+http://uniplay.link:80/262144514/mega96502/696
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/PARAMOUNTNETWORK.png" tvg-name="Paramount Network SD" group-title="Canais | Filmes & Series",Paramount Network SD
+http://uniplay.link:80/262144514/mega96502/694
+#EXTINF:-1 tvg-id="Space.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPACE.png" tvg-name="Space FHD" group-title="Canais | Filmes & Series",Space FHD
+http://uniplay.link:80/262144514/mega96502/707
+#EXTINF:-1 tvg-id="Space.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPACE.png" tvg-name="Space HD" group-title="Canais | Filmes & Series",Space HD
+http://uniplay.link:80/262144514/mega96502/705
+#EXTINF:-1 tvg-id="Space.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPACE.png" tvg-name="Space HD²" group-title="Canais | Filmes & Series",Space HD²
+http://uniplay.link:80/262144514/mega96502/706
+#EXTINF:-1 tvg-id="Space.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPACE.png" tvg-name="Space SD" group-title="Canais | Filmes & Series",Space SD
+http://uniplay.link:80/262144514/mega96502/704
+#EXTINF:-1 tvg-id="Space.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPACE.png" tvg-name="Space UHD" group-title="Canais | Filmes & Series",Space UHD
+http://uniplay.link:80/262144514/mega96502/21272
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STUDIOUNIVERSAL.png" tvg-name="Studio Universal FHD" group-title="Canais | Filmes & Series",Studio Universal FHD
+http://uniplay.link:80/262144514/mega96502/713
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STUDIOUNIVERSAL.png" tvg-name="Studio Universal UHD" group-title="Canais | Filmes & Series",Studio Universal UHD
+http://uniplay.link:80/262144514/mega96502/21276
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STUDIOUNIVERSAL.png" tvg-name="Studio Universal HD" group-title="Canais | Filmes & Series",Studio Universal HD
+http://uniplay.link:80/262144514/mega96502/711
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STUDIOUNIVERSAL.png" tvg-name="Studio Universal HD²" group-title="Canais | Filmes & Series",Studio Universal HD²
+http://uniplay.link:80/262144514/mega96502/712
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/STUDIOUNIVERSAL.png" tvg-name="Studio Universal SD" group-title="Canais | Filmes & Series",Studio Universal SD
+http://uniplay.link:80/262144514/mega96502/710
+#EXTINF:-1 tvg-id="Syfy.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SYFY.png" tvg-name="SYFY FHD" group-title="Canais | Filmes & Series",SYFY FHD
+http://uniplay.link:80/262144514/mega96502/718
+#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SYFY.png" tvg-name="SYFY UHD" group-title="Canais | Filmes & Series",SYFY UHD
+http://uniplay.link:80/262144514/mega96502/21277
+#EXTINF:-1 tvg-id="Syfy.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SYFY.png" tvg-name="SYFY HD" group-title="Canais | Filmes & Series",SYFY HD
+http://uniplay.link:80/262144514/mega96502/716
+#EXTINF:-1 tvg-id="Syfy.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SYFY.png" tvg-name="SYFY HD²" group-title="Canais | Filmes & Series",SYFY HD²
+http://uniplay.link:80/262144514/mega96502/717
+#EXTINF:-1 tvg-id="Syfy.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SYFY.png" tvg-name="SYFY SD" group-title="Canais | Filmes & Series",SYFY SD
+http://uniplay.link:80/262144514/mega96502/715
+#EXTINF:-1 tvg-id="Tbs.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TBS.png" tvg-name="TBS FHD" group-title="Canais | Filmes & Series",TBS FHD
+http://uniplay.link:80/262144514/mega96502/723
+#EXTINF:-1 tvg-id="Tbs.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TBS.png" tvg-name="TBS UHD" group-title="Canais | Filmes & Series",TBS UHD
+http://uniplay.link:80/262144514/mega96502/21278
+#EXTINF:-1 tvg-id="Tbs.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TBS.png" tvg-name="TBS HD" group-title="Canais | Filmes & Series",TBS HD
+http://uniplay.link:80/262144514/mega96502/721
+#EXTINF:-1 tvg-id="Tbs.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/TBS.png" tvg-name="TBS HD²" group-t
