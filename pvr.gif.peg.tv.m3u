@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="http://xdns.ws:80/xmltv.php?username=Miranda12&password=24998494803"
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.live_delay=99
 #KODIPROP:inputstream.adaptive.manifest_type=hls
