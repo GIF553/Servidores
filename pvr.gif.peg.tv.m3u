@@ -1,6 +1,10 @@
 #EXTM3U url-tvg="http://1111.wf:80/xmltv.php?username=612785397&password=T431u2294M"
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://" tvg-name="[COLOR yellow]GIF PEG [COLOR gold]TV [COLOR red]LISTA GRÁTIS [/COLOR]" group-title="LISTA GIF PEG TV GRATUITA!",[COLOR yellow]GIF PEG [COLOR gold]TV [COLOR red]LISTA GRÁTIS [/COLOR]
+https://
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://" tvg-name="[COLOR yellow]GIF PEG [COLOR gold]TV [COLOR red]LISTA GRÁTIS [/COLOR]" group-title="USE O F4MTESTER VERSÃO 4.1.3",[COLOR yellow]USE O F4MTESTER VERSÃO [COLOR gold]4.1.3 [COLOR red] [/COLOR]
+http://
 
 
 #EXTINF:-1 tvg-id="Sportv.br" tvg-logo="http://app.tvdigital.link:2095/logoscanais/SPORTV.png" tvg-name="SPORTV 4K" group-title="Canais | 4K",SPORTV 4K
