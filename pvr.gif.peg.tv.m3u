@@ -1,4 +1,4 @@
-EXTM3U url-tvg="http://cdnr1.xyz:80/xmltv.php?username=34PW8x&password=1z8rmP"
+#EXTM3U url-tvg="http://cdnr1.xyz:80/xmltv.php?username=34PW8x&password=1z8rmP"
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://" tvg-name="[COLOR yellow]GIF PEG [COLOR gold]TV [COLOR red]LISTA GRÁTIS [/COLOR]" group-title="LISTA GIF PEG TV GRATUITA!",[COLOR yellow]GIF PEG [COLOR gold]TV [COLOR red]LISTA GRÁTIS [/COLOR]
 https://
