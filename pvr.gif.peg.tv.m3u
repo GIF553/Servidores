@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=GIF PEG PVR TV&maxbitrate=0&buffer=-1&url=http://grianze.com:80/xmltv.php?username=276966883&password=2224188"
+#EXTM3U url-tvg="http://grianze.com:80/xmltv.php?username=276966883&password=2224188"
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://" tvg-name="[COLOR yellow]GIF PEG [COLOR gold]TV [COLOR red]LISTA GRÁTIS [/COLOR]" group-title="LISTA GIF PEG TV GRATUITA!",[COLOR yellow]GIF PEG [COLOR gold]TV [COLOR red]LISTA GRÁTIS [/COLOR]
