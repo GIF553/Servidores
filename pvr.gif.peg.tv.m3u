@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="http://grianze.com:80/xmltv.php?username=276966883&password=2224188"
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream.adaptive.live_delay=99
