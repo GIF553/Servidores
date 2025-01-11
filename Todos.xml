@@ -74,7 +74,7 @@
 </channel>
 
 <channel>
-<name>[B][COLOR white]SERVIDOR 9[/COLOR][COLOR springgreen] USE F4MPROXY[/COLOR][/B]</name>
+<name>[B][COLOR white]SERVIDOR 9[/COLOR][COLOR springgreen] USE PROXY 2 [B][COLOR white]|[/COLOR] PROXY - HLSRETRY[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/AeaVwsA.jpg</thumbnail>
 <fanart>https://i.imgur.com/AeaVwsA.jpg</fanart>
 <info>[COLOR white]SERVIDOR 9[/COLOR]</info>
@@ -85,7 +85,7 @@
 
 
 <channel>
-<name>[B][COLOR red]LISTA PVR GIF PEG[/COLOR][/B]</name>
+<name>[B][COLOR red]LISTA PVR GIF PEG[/COLOR][/B][COLOR springgreen] USE F4MPROXY [B][COLOR white]|[/COLOR] INPUTSTREAM ADAPTATIVE[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/AeaVwsA.jpg</thumbnail>
 <fanart>https://i.imgur.com/AeaVwsA.jpg</fanart>
 <info>[COLOR red]AREA DE TESTES DE LISTAS[/COLOR]</info>
