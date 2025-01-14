@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="" tvg-logo="https://epg.svrtv.xyz/logos/bbb1.png" tvg-name="CAM 1" group-title="REALITY  BBB 2025✨",CAM 1
 http://servertr4.top:80/live/Leonardo12/Leonardo12/1521284.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://epg.svrtv.xyz/logos/bbb1.png" tvg-name="CAM 2" group-title="REALITY  BBB 2025✨",CAM 2
-http://servertr4.top:80/live/Leonardo12/Leonardo12/1521285.m3u8
+http://192.168.1.115:80/hdmi
 #EXTINF:-1 tvg-id="" tvg-logo="https://epg.svrtv.xyz/logos/bbb1.png" tvg-name="CAM 3" group-title="REALITY  BBB 2025✨",CAM 3
 http://servertr4.top:80/live/Leonardo12/Leonardo12/1521286.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://epg.svrtv.xyz/logos/bbb1.png" tvg-name="CAM 4" group-title="REALITY  BBB 2025✨",CAM 4
