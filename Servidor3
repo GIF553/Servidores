@@ -1,4 +1,68 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB 1 SD" group-title="Canais | BBB",BBB 1 SD
+http://trutrend.net:80/live/562284026/8515825/298258.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB 1 FHD" group-title="Canais | BBB",BBB 1 FHD
+http://trutrend.net:80/live/562284026/8515825/298260.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB 1 HD" group-title="Canais | BBB",BBB 1 HD
+http://trutrend.net:80/live/562284026/8515825/298259.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB 2 FHD" group-title="Canais | BBB",BBB 2 FHD
+http://trutrend.net:80/live/562284026/8515825/298263.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB 2 HD" group-title="Canais | BBB",BBB 2 HD
+http://trutrend.net:80/live/562284026/8515825/298262.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB 2 SD" group-title="Canais | BBB",BBB 2 SD
+http://trutrend.net:80/live/562284026/8515825/298261.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB 3 FHD" group-title="Canais | BBB",BBB 3 FHD
+http://trutrend.net:80/live/562284026/8515825/298266.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB 3 HD" group-title="Canais | BBB",BBB 3 HD
+http://trutrend.net:80/live/562284026/8515825/298265.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB 3 SD" group-title="Canais | BBB",BBB 3 SD
+http://trutrend.net:80/live/562284026/8515825/298264.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB Quarto Gnomo  FHD" group-title="Canais | BBB",BBB Quarto Gnomo  FHD
+http://trutrend.net:80/live/562284026/8515825/298269.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB 4 SD" group-title="Canais | BBB",BBB 4 SD
+http://trutrend.net:80/live/562284026/8515825/298273.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB 4 FHD" group-title="Canais | BBB",BBB 4 FHD
+http://trutrend.net:80/live/562284026/8515825/298272.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB 4 HD" group-title="Canais | BBB",BBB 4 HD
+http://trutrend.net:80/live/562284026/8515825/298271.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB 5 SD" group-title="Canais | BBB",BBB 5 SD
+http://trutrend.net:80/live/562284026/8515825/298270.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB 5 FHD" group-title="Canais | BBB",BBB 5 FHD
+http://trutrend.net:80/live/562284026/8515825/298275.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB 5 HD" group-title="Canais | BBB",BBB 5 HD
+http://trutrend.net:80/live/562284026/8515825/298274.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB 6 FHD" group-title="Canais | BBB",BBB 6 FHD
+http://trutrend.net:80/live/562284026/8515825/298278.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB 6 HD" group-title="Canais | BBB",BBB 6 HD
+http://trutrend.net:80/live/562284026/8515825/298277.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB 6 SD" group-title="Canais | BBB",BBB 6 SD
+http://trutrend.net:80/live/562284026/8515825/298276.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB 7 FHD" group-title="Canais | BBB",BBB 7 FHD
+http://trutrend.net:80/live/562284026/8515825/298281.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB 7 HD" group-title="Canais | BBB",BBB 7 HD
+http://trutrend.net:80/live/562284026/8515825/298280.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB 7 SD" group-title="Canais | BBB",BBB 7 SD
+http://trutrend.net:80/live/562284026/8515825/298279.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB Cozinha Delícia SD" group-title="Canais | BBB",BBB Cozinha Delícia SD
+http://trutrend.net:80/live/562284026/8515825/298282.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB Cozinha Delícia HD" group-title="Canais | BBB",BBB Cozinha Delícia HD
+http://trutrend.net:80/live/562284026/8515825/298283.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB Cozinha Delícia FHD" group-title="Canais | BBB",BBB Cozinha Delícia FHD
+http://trutrend.net:80/live/562284026/8515825/298284.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB Academia Rexona FHD" group-title="Canais | BBB",BBB Academia Rexona FHD
+http://trutrend.net:80/live/562284026/8515825/298287.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB Academia Rexona HD" group-title="Canais | BBB",BBB Academia Rexona HD
+http://trutrend.net:80/live/562284026/8515825/298286.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB Academia Rexona SD" group-title="Canais | BBB",BBB Academia Rexona SD
+http://trutrend.net:80/live/562284026/8515825/298285.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB Piscina SD" group-title="Canais | BBB",BBB Piscina SD
+http://trutrend.net:80/live/562284026/8515825/298288.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB Piscina HD" group-title="Canais | BBB",BBB Piscina HD
+http://trutrend.net:80/live/562284026/8515825/298289.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB Piscina FHD" group-title="Canais | BBB",BBB Piscina FHD
+http://trutrend.net:80/live/562284026/8515825/298290.m3u8
+
 #EXTINF:-1 tvg-id="Sportv.br" tvg-logo="http://storage4you.net:2095/logoscanais/SPORTV.png" tvg-name="SPORTV 4K" group-title="Canais | 4K",SPORTV 4K
 http://trutrend.net:80/562284026/8515825/284576
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-logo="http://storage4you.net:2095/logoscanais/PREMIERE.png" tvg-name="Premiere Clubes 4K " group-title="Canais | 4K",Premiere Clubes 4K
