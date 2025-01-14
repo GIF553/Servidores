@@ -1,4 +1,259 @@
 #EXTM3U x-tvg-url="http://grianze.com:80/xmltv.php?username=276966883&password=2224188"
+
+#EXTM3U
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.hls_ignore_endlist=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_mediasequence=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_discsequence=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB 1 SD" group-title="Canais | BBB",BBB 1 SD
+http://grianze.com:80/live/276966883/2224188/298258.m3u8
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.hls_ignore_endlist=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_mediasequence=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_discsequence=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB 1 FHD" group-title="Canais | BBB",BBB 1 FHD
+http://grianze.com:80/live/276966883/2224188/298260.m3u8
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.hls_ignore_endlist=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_mediasequence=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_discsequence=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB 1 HD" group-title="Canais | BBB",BBB 1 HD
+http://grianze.com:80/live/276966883/2224188/298259.m3u8
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.hls_ignore_endlist=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_mediasequence=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_discsequence=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB 2 FHD" group-title="Canais | BBB",BBB 2 FHD
+http://grianze.com:80/live/276966883/2224188/298263.m3u8
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.hls_ignore_endlist=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_mediasequence=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_discsequence=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB 2 HD" group-title="Canais | BBB",BBB 2 HD
+http://grianze.com:80/live/276966883/2224188/298262.m3u8
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.hls_ignore_endlist=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_mediasequence=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_discsequence=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB 2 SD" group-title="Canais | BBB",BBB 2 SD
+http://grianze.com:80/live/276966883/2224188/298261.m3u8
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.hls_ignore_endlist=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_mediasequence=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_discsequence=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB 3 FHD" group-title="Canais | BBB",BBB 3 FHD
+http://grianze.com:80/live/276966883/2224188/298266.m3u8
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.hls_ignore_endlist=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_mediasequence=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_discsequence=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB 3 HD" group-title="Canais | BBB",BBB 3 HD
+http://grianze.com:80/live/276966883/2224188/298265.m3u8
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.hls_ignore_endlist=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_mediasequence=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_discsequence=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB 3 SD" group-title="Canais | BBB",BBB 3 SD
+http://grianze.com:80/live/276966883/2224188/298264.m3u8
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.hls_ignore_endlist=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_mediasequence=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_discsequence=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB Quarto Gnomo  FHD" group-title="Canais | BBB",BBB Quarto Gnomo  FHD
+http://grianze.com:80/live/276966883/2224188/298269.m3u8
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.hls_ignore_endlist=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_mediasequence=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_discsequence=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB 4 SD" group-title="Canais | BBB",BBB 4 SD
+http://grianze.com:80/live/276966883/2224188/298273.m3u8
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.hls_ignore_endlist=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_mediasequence=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_discsequence=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB 4 FHD" group-title="Canais | BBB",BBB 4 FHD
+http://grianze.com:80/live/276966883/2224188/298272.m3u8
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.hls_ignore_endlist=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_mediasequence=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_discsequence=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB 4 HD" group-title="Canais | BBB",BBB 4 HD
+http://grianze.com:80/live/276966883/2224188/298271.m3u8
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.hls_ignore_endlist=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_mediasequence=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_discsequence=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB 5 SD" group-title="Canais | BBB",BBB 5 SD
+http://grianze.com:80/live/276966883/2224188/298270.m3u8
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.hls_ignore_endlist=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_mediasequence=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_discsequence=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB 5 FHD" group-title="Canais | BBB",BBB 5 FHD
+http://grianze.com:80/live/276966883/2224188/298275.m3u8
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.hls_ignore_endlist=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_mediasequence=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_discsequence=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB 5 HD" group-title="Canais | BBB",BBB 5 HD
+http://grianze.com:80/live/276966883/2224188/298274.m3u8
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.hls_ignore_endlist=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_mediasequence=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_discsequence=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB 6 FHD" group-title="Canais | BBB",BBB 6 FHD
+http://grianze.com:80/live/276966883/2224188/298278.m3u8
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.hls_ignore_endlist=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_mediasequence=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_discsequence=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB 6 HD" group-title="Canais | BBB",BBB 6 HD
+http://grianze.com:80/live/276966883/2224188/298277.m3u8
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.hls_ignore_endlist=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_mediasequence=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_discsequence=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB 6 SD" group-title="Canais | BBB",BBB 6 SD
+http://grianze.com:80/live/276966883/2224188/298276.m3u8
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.hls_ignore_endlist=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_mediasequence=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_discsequence=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB 7 FHD" group-title="Canais | BBB",BBB 7 FHD
+http://grianze.com:80/live/276966883/2224188/298281.m3u8
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.hls_ignore_endlist=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_mediasequence=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_discsequence=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB 7 HD" group-title="Canais | BBB",BBB 7 HD
+http://grianze.com:80/live/276966883/2224188/298280.m3u8
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.hls_ignore_endlist=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_mediasequence=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_discsequence=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB 7 SD" group-title="Canais | BBB",BBB 7 SD
+http://grianze.com:80/live/276966883/2224188/298279.m3u8
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.hls_ignore_endlist=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_mediasequence=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_discsequence=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB Cozinha Delícia SD" group-title="Canais | BBB",BBB Cozinha Delícia SD
+http://grianze.com:80/live/276966883/2224188/298282.m3u8
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.hls_ignore_endlist=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_mediasequence=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_discsequence=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB Cozinha Delícia HD" group-title="Canais | BBB",BBB Cozinha Delícia HD
+http://grianze.com:80/live/276966883/2224188/298283.m3u8
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.hls_ignore_endlist=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_mediasequence=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_discsequence=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB Cozinha Delícia FHD" group-title="Canais | BBB",BBB Cozinha Delícia FHD
+http://grianze.com:80/live/276966883/2224188/298284.m3u8
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.hls_ignore_endlist=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_mediasequence=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_discsequence=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB Academia Rexona FHD" group-title="Canais | BBB",BBB Academia Rexona FHD
+http://grianze.com:80/live/276966883/2224188/298287.m3u8
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.hls_ignore_endlist=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_mediasequence=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_discsequence=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB Academia Rexona HD" group-title="Canais | BBB",BBB Academia Rexona HD
+http://grianze.com:80/live/276966883/2224188/298286.m3u8
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.hls_ignore_endlist=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_mediasequence=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_discsequence=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB Academia Rexona SD" group-title="Canais | BBB",BBB Academia Rexona SD
+http://grianze.com:80/live/276966883/2224188/298285.m3u8
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.hls_ignore_endlist=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_mediasequence=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_discsequence=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB Piscina SD" group-title="Canais | BBB",BBB Piscina SD
+http://grianze.com:80/live/276966883/2224188/298288.m3u8
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.hls_ignore_endlist=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_mediasequence=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_discsequence=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB Piscina HD" group-title="Canais | BBB",BBB Piscina HD
+http://grianze.com:80/live/276966883/2224188/298289.m3u8
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.hls_ignore_endlist=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_mediasequence=true
+#KODIPROP:inputstream.ffmpegdirect.hls_fix_discsequence=true
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#EXTINF:-1 tvg-id="" tvg-logo="http://beststorage4you.com:2095/logoscanais/bbb.png" tvg-name="BBB Piscina FHD" group-title="Canais | BBB",BBB Piscina FHD
+http://grianze.com:80/live/276966883/2224188/298290.m3u8
+
+
+
+
+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 #KODIPROP:inputstream.adaptive.live_delay=99
