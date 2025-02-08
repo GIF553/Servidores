@@ -84,12 +84,6 @@
 
 
 
-<channel>
-<name>[B][COLOR red]LISTA PVR GIF PEG[/COLOR][/B][COLOR springgreen] USE F4MPROXY [B][COLOR white]|[/COLOR] INPUTSTREAM ADAPTATIVE[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/AeaVwsA.jpg</thumbnail>
-<fanart>https://i.imgur.com/AeaVwsA.jpg</fanart>
-<info>[COLOR red]AREA DE TESTES DE LISTAS[/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/GIF553/Servidores/refs/heads/main/pvr.gif.peg.tv.m3u</externallink>
-</channel>
+
 
 </channels>
