@@ -9,4 +9,4 @@
 #KODIPROP:inputstream.ffmpegdirect.default_programme_duration=3600
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="LISTA DESCONTINUADA" group-title="LISTA DESCONTINUADA",LISTA DESCONTINUADA
-http://cdn.lvbxtv.com:80/
+http://cdn.lvbxtv.com:80
