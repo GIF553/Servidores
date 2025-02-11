@@ -3,8 +3,8 @@
 http://contentsdeliver.link:8080/y8pyggvo/j6xq376f/342933
 #EXTINF:-1 tvg-id="" tvg-logo="http://contentsdeliver.link/logos/bbb_hd.png" tvg-name="BBB 2025 MOSAICO HD²" group-title="CANAIS | BBB 2025",BBB 2025 MOSAICO HD²
 http://contentsdeliver.link:8080/y8pyggvo/j6xq376f/342922
-#EXTINF:-1 tvg-id="" tvg-logo="http://contentsdeliver.link/logos/bbb_hd.png" tvg-name="BBB 2025 CAM 01 HD¹" group-title="CANAIS | BBB 2025",BBB 2025 CAM 01 HD¹
-http://contentsdeliver.link:8080/y8pyggvo/j6xq376f/342906
+#EXTINF:-1 tvg-id="" tvg-logo="http://contentsdeliver.link/logos/bbb_hd.png" tvg-name="BBB 2025 CAM 01 HD¹" group-title="CANAIS | BBB 2025",BBB 2025 CAM 01 HD¹TS
+http://contentsdeliver.link:8080/live/y8pyggvo/j6xq376f/342906.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://contentsdeliver.link/logos/bbb_hd.png" tvg-name="BBB 2025 CAM 01 HD²" group-title="CANAIS | BBB 2025",BBB 2025 CAM 01 HD²
 http://contentsdeliver.link:8080/y8pyggvo/j6xq376f/342923
 #EXTINF:-1 tvg-id="" tvg-logo="http://contentsdeliver.link/logos/bbb_hd.png" tvg-name="BBB 2025 CAM 02 HD¹" group-title="CANAIS | BBB 2025",BBB 2025 CAM 02 HD¹
