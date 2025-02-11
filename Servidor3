@@ -1205,18 +1205,18 @@ http://38.101.149.2:80/Ines7865/8765478/1352835
 http://38.101.149.2:80/Ines7865/8765478/1352836
 #EXTINF:-1 tvg-id="" tvg-logo="http://router965.online:8080/logos/globonews.png" tvg-name="GLOBO NEWS FHD" group-title="CANAIS • NOTÍCIAS",GLOBO NEWS FHD
 http://38.101.149.2:80/Ines7865/8765478/1352837
-#EXTINF:-1 tvg-id="" tvg-logo="http://router965.online:8080/logos/globonews.png" tvg-name="GLOBO NEWS HD" group-title="CANAIS • NOTÍCIAS",GLOBO NEWS HD
-http://38.101.149.2:80/Ines7865/8765478/1352838
-#EXTINF:-1 tvg-id="" tvg-logo="http://router965.online:8080/logos/globonews.png" tvg-name="GLOBO NEWS HD²" group-title="CANAIS • NOTÍCIAS",GLOBO NEWS HD²
-http://38.101.149.2:80/Ines7865/8765478/1352839
+#EXTINF:-1 tvg-id="" tvg-logo="http://router965.online:8080/logos/globonews.png" tvg-name="GLOBO NEWS HD" group-title="CANAIS • NOTÍCIAS",GLOBO NEWS HD TESTE TS
+http://38.101.149.2:80/live/Ines7865/8765478/1352838.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://router965.online:8080/logos/globonews.png" tvg-name="GLOBO NEWS HD²" group-title="CANAIS • NOTÍCIAS",GLOBO NEWS HD² TESTE TS
+http://38.101.149.2:80/live/Ines7865/8765478/1352839.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://router965.online:8080/logos/globonews.png" tvg-name="GLOBO NEWS SD" group-title="CANAIS • NOTÍCIAS",GLOBO NEWS SD
 http://38.101.149.2:80/Ines7865/8765478/1352840
 #EXTINF:-1 tvg-id="" tvg-logo="http://router965.online:8080/logos/jpnews.png" tvg-name="JOVEM PAN NEWS FHD" group-title="CANAIS • NOTÍCIAS",JOVEM PAN NEWS FHD
 http://38.101.149.2:80/Ines7865/8765478/1352841
-#EXTINF:-1 tvg-id="" tvg-logo="http://router965.online:8080/logos/jpnews.png" tvg-name="JOVEM PAN NEWS HD" group-title="CANAIS • NOTÍCIAS",JOVEM PAN NEWS HD
-http://38.101.149.2:80/Ines7865/8765478/1352842
-#EXTINF:-1 tvg-id="" tvg-logo="http://router965.online:8080/logos/jpnews.png" tvg-name="JOVEM PAN NEWS HD²" group-title="CANAIS • NOTÍCIAS",JOVEM PAN NEWS HD²
-http://38.101.149.2:80/Ines7865/8765478/1352843
+#EXTINF:-1 tvg-id="" tvg-logo="http://router965.online:8080/logos/jpnews.png" tvg-name="JOVEM PAN NEWS HD" group-title="CANAIS • NOTÍCIAS",JOVEM PAN NEWS HD TESTE TS
+http://38.101.149.2:80/live/Ines7865/8765478/1352842.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://router965.online:8080/logos/jpnews.png" tvg-name="JOVEM PAN NEWS HD²" group-title="CANAIS • NOTÍCIAS",JOVEM PAN NEWS HD² TESTE TS
+http://38.101.149.2:80/live/Ines7865/8765478/1352843.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://router965.online:8080/logos/jpnews.png" tvg-name="JOVEM PAN NEWS SD" group-title="CANAIS • NOTÍCIAS",JOVEM PAN NEWS SD
 http://38.101.149.2:80/Ines7865/8765478/1352844
 #EXTINF:-1 tvg-id="" tvg-logo="http://router965.online:8080/logos/recordnews.png" tvg-name="RECORD NEWS FHD" group-title="CANAIS • NOTÍCIAS",RECORD NEWS FHD
