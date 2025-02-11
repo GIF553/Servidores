@@ -1029,10 +1029,10 @@ http://38.101.149.2:80/Ines7865/8765478/1352422
 http://38.101.149.2:80/Ines7865/8765478/1352423
 #EXTINF:-1 tvg-id="" tvg-logo="http://router965.online:8080/logos/natgeo.png" tvg-name="NATIONAL GEOGRAPHIC FHD" group-title="CANAIS • DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC FHD
 http://38.101.149.2:80/Ines7865/8765478/1352424
-#EXTINF:-1 tvg-id="" tvg-logo="http://router965.online:8080/logos/natgeo.png" tvg-name="NATIONAL GEOGRAPHIC HD" group-title="CANAIS • DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC HD
-http://38.101.149.2:80/Ines7865/8765478/1352425
-#EXTINF:-1 tvg-id="" tvg-logo="http://router965.online:8080/logos/natgeo.png" tvg-name="NATIONAL GEOGRAPHIC HD²" group-title="CANAIS • DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC HD²
-http://38.101.149.2:80/Ines7865/8765478/1352426
+#EXTINF:-1 tvg-id="" tvg-logo="http://router965.online:8080/logos/natgeo.png" tvg-name="NATIONAL GEOGRAPHIC HD" group-title="CANAIS • DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC HD TESTE .TS
+http://38.101.149.2:80/live/Ines7865/8765478/1352425.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://router965.online:8080/logos/natgeo.png" tvg-name="NATIONAL GEOGRAPHIC HD²" group-title="CANAIS • DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC HD² TESTE HLS
+http://38.101.149.2:80/Ines7865/8765478/1352426.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://router965.online:8080/logos/natgeo.png" tvg-name="NATIONAL GEOGRAPHIC SD" group-title="CANAIS • DOCUMENTÁRIOS",NATIONAL GEOGRAPHIC SD
 http://38.101.149.2:80/Ines7865/8765478/1352427
 #EXTINF:-1 tvg-id="" tvg-logo="http://router965.online:8080/logos/tlc.png" tvg-name="TLC FHD" group-title="CANAIS • DOCUMENTÁRIOS",TLC FHD
