@@ -658,11 +658,11 @@ http://cloud-nany.cc:80/Adm0001/10908070D/7923
 #EXTINF:-1 tvg-id="Tnt.br" tvg-logo="https://i.imgur.com/qMVtaM9.png" tvg-name="TNT 4K" group-title="FILMES/SERIES",TNT 4K
 http://cloud-nany.cc:80/Adm0001/10908070D/149842
 #EXTINF:-1 tvg-id="Tnt.br" tvg-logo="https://i.imgur.com/qMVtaM9.png" tvg-name="TNT FHD" group-title="FILMES/SERIES",TNT FHD TS
-http://cloud-nany.cc:80/live/Adm0001/10908070D/13511.ts
+http://cloud-nany.cc:80/Adm0001/10908070D/13511.ts
 #EXTINF:-1 tvg-id="Tnt.br" tvg-logo="https://i.imgur.com/qMVtaM9.png" tvg-name="TNT FHD H265" group-title="FILMES/SERIES",TNT FHD H265
 http://cloud-nany.cc:80/Adm0001/10908070D/24265
 #EXTINF:-1 tvg-id="Tnt.br" tvg-logo="https://i.imgur.com/qMVtaM9.png" tvg-name="TNT HD" group-title="FILMES/SERIES",TNT HD TS
-http://cloud-nany.cc:80/live/Adm0001/10908070D/7906.ts
+http://cloud-nany.cc:80/Adm0001/10908070D/7906.ts
 #EXTINF:-1 tvg-id="Tnt.br" tvg-logo="https://i.imgur.com/qMVtaM9.png" tvg-name="TNT HD [ALTER]" group-title="FILMES/SERIES",TNT HD [ALTER]
 http://cloud-nany.cc:80/Adm0001/10908070D/1095
 #EXTINF:-1 tvg-id="Tnt.br" tvg-logo="https://i.imgur.com/qMVtaM9.png" tvg-name="TNT SD" group-title="FILMES/SERIES",TNT SD
