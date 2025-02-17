@@ -1,5 +1,92 @@
 #EXTM3U x-tvg-url="http://todexs.com:80/xmltv.php?username=Ines7865&password=8765478"
 
+#EXTM3U
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Bbb.br" tvg-logo="https://s2-globo-play.glbimg.com/slf0iHXilm1cuxbExNiX6DesuC4=/285x285/filters:quality(100)/https://s2-globo-play.glbimg.com/Xc6vX282kWyH1tcNqOYdrS-Kpik=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2025/M/N/jO8zygQ4KIfaqOadmzFg/2024-4607-bbb-25-generico-logo-canais.png" tvg-name="ACOMPANHE A CASA" group-title="CANAIS | BIG BROTHER BRASIL 2025",ACOMPANHE A CASA
+http://go7l99a.com:80/live/usa010/454025LG/680033.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Bbb.br" tvg-logo="https://s2-globo-play.glbimg.com/slf0iHXilm1cuxbExNiX6DesuC4=/285x285/filters:quality(100)/https://s2-globo-play.glbimg.com/Xc6vX282kWyH1tcNqOYdrS-Kpik=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2025/M/N/jO8zygQ4KIfaqOadmzFg/2024-4607-bbb-25-generico-logo-canais.png" tvg-name="ACOMPANHE A CASA 2" group-title="CANAIS | BIG BROTHER BRASIL 2025",ACOMPANHE A CASA 2
+http://go7l99a.com:80/live/usa010/454025LG/680034.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Bbb.br" tvg-logo="https://s2-globo-play.glbimg.com/slf0iHXilm1cuxbExNiX6DesuC4=/285x285/filters:quality(100)/https://s2-globo-play.glbimg.com/Xc6vX282kWyH1tcNqOYdrS-Kpik=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2025/M/N/jO8zygQ4KIfaqOadmzFg/2024-4607-bbb-25-generico-logo-canais.png" tvg-name="MOSAICO BBB" group-title="CANAIS | BIG BROTHER BRASIL 2025",MOSAICO BBB
+http://go7l99a.com:80/live/usa010/454025LG/680035.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Bbb.br" tvg-logo="https://s2-globo-play.glbimg.com/slf0iHXilm1cuxbExNiX6DesuC4=/285x285/filters:quality(100)/https://s2-globo-play.glbimg.com/Xc6vX282kWyH1tcNqOYdrS-Kpik=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2025/M/N/jO8zygQ4KIfaqOadmzFg/2024-4607-bbb-25-generico-logo-canais.png" tvg-name="COZINHA" group-title="CANAIS | BIG BROTHER BRASIL 2025",COZINHA
+http://go7l99a.com:80/live/usa010/454025LG/680036.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Bbb.br" tvg-logo="https://s2-globo-play.glbimg.com/slf0iHXilm1cuxbExNiX6DesuC4=/285x285/filters:quality(100)/https://s2-globo-play.glbimg.com/Xc6vX282kWyH1tcNqOYdrS-Kpik=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2025/M/N/jO8zygQ4KIfaqOadmzFg/2024-4607-bbb-25-generico-logo-canais.png" tvg-name="QUATOS ANOS 50" group-title="CANAIS | BIG BROTHER BRASIL 2025",QUATOS ANOS 50
+http://go7l99a.com:80/live/usa010/454025LG/680037.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Bbb.br" tvg-logo="https://s2-globo-play.glbimg.com/slf0iHXilm1cuxbExNiX6DesuC4=/285x285/filters:quality(100)/https://s2-globo-play.glbimg.com/Xc6vX282kWyH1tcNqOYdrS-Kpik=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2025/M/N/jO8zygQ4KIfaqOadmzFg/2024-4607-bbb-25-generico-logo-canais.png" tvg-name="QUARTO NORDESTE" group-title="CANAIS | BIG BROTHER BRASIL 2025",QUARTO NORDESTE
+http://go7l99a.com:80/live/usa010/454025LG/680038.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Bbb.br" tvg-logo="https://s2-globo-play.glbimg.com/slf0iHXilm1cuxbExNiX6DesuC4=/285x285/filters:quality(100)/https://s2-globo-play.glbimg.com/Xc6vX282kWyH1tcNqOYdrS-Kpik=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2025/M/N/jO8zygQ4KIfaqOadmzFg/2024-4607-bbb-25-generico-logo-canais.png" tvg-name="QUARTO FANTASTICO" group-title="CANAIS | BIG BROTHER BRASIL 2025",QUARTO FANTASTICO
+http://go7l99a.com:80/live/usa010/454025LG/680039.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Bbb.br" tvg-logo="https://s2-globo-play.glbimg.com/slf0iHXilm1cuxbExNiX6DesuC4=/285x285/filters:quality(100)/https://s2-globo-play.glbimg.com/Xc6vX282kWyH1tcNqOYdrS-Kpik=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2025/M/N/jO8zygQ4KIfaqOadmzFg/2024-4607-bbb-25-generico-logo-canais.png" tvg-name="PISCINA" group-title="CANAIS | BIG BROTHER BRASIL 2025",PISCINA
+http://go7l99a.com:80/live/usa010/454025LG/680040.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Bbb.br" tvg-logo="https://s2-globo-play.glbimg.com/slf0iHXilm1cuxbExNiX6DesuC4=/285x285/filters:quality(100)/https://s2-globo-play.glbimg.com/Xc6vX282kWyH1tcNqOYdrS-Kpik=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2025/M/N/jO8zygQ4KIfaqOadmzFg/2024-4607-bbb-25-generico-logo-canais.png" tvg-name="CAMERA PANTENE" group-title="CANAIS | BIG BROTHER BRASIL 2025",CAMERA PANTENE
+http://go7l99a.com:80/live/usa010/454025LG/680041.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Bbb.br" tvg-logo="https://s2-globo-play.glbimg.com/slf0iHXilm1cuxbExNiX6DesuC4=/285x285/filters:quality(100)/https://s2-globo-play.glbimg.com/Xc6vX282kWyH1tcNqOYdrS-Kpik=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2025/M/N/jO8zygQ4KIfaqOadmzFg/2024-4607-bbb-25-generico-logo-canais.png" tvg-name="SALA" group-title="CANAIS | BIG BROTHER BRASIL 2025",SALA
+http://go7l99a.com:80/live/usa010/454025LG/680042.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Bbb.br" tvg-logo="https://s2-globo-play.glbimg.com/slf0iHXilm1cuxbExNiX6DesuC4=/285x285/filters:quality(100)/https://s2-globo-play.glbimg.com/Xc6vX282kWyH1tcNqOYdrS-Kpik=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2025/M/N/jO8zygQ4KIfaqOadmzFg/2024-4607-bbb-25-generico-logo-canais.png" tvg-name="ACADEMIA" group-title="CANAIS | BIG BROTHER BRASIL 2025",ACADEMIA
+http://go7l99a.com:80/live/usa010/454025LG/680043.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Bbb.br" tvg-logo="https://s2-globo-play.glbimg.com/slf0iHXilm1cuxbExNiX6DesuC4=/285x285/filters:quality(100)/https://s2-globo-play.glbimg.com/Xc6vX282kWyH1tcNqOYdrS-Kpik=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2025/M/N/jO8zygQ4KIfaqOadmzFg/2024-4607-bbb-25-generico-logo-canais.png" tvg-name="SEGUE O LIDER" group-title="CANAIS | BIG BROTHER BRASIL 2025",SEGUE O LIDER
+http://go7l99a.com:80/live/usa010/454025LG/864134.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+
+
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
