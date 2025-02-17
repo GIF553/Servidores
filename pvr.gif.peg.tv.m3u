@@ -250,11 +250,19 @@ http://todexs.com:80/live/Ines7865/8765478/1352448.m3u8|User-Agent=com.ibopro.pl
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=catchup
+#KODIPROP:inputstream.ffmpegdirect.is_catchup_stream=catchup
+#KODIPROP:inputstream.ffmpegdirect.catchup_granularity=60
+#KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
+#KODIPROP:inputstream.ffmpegdirect.catchup_url_format_string=url
 #KODIPROP:inputstream.ffmpegdirect.open_mode=curl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#KODIPROP:http--reconnect=true
+#KODIPROP:inputstream.ffmpegdirect.default_url=url
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=false
+#KODIPROP:inputstream.ffmpegdirect.program_number=2154
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpgts
+#KODIPROP:http-reconnect=true
 #EXTINF:-1 tvg-id="" tvg-logo="http://router965.online:8080/logos/cinecanal.png" tvg-name="CINE CANAL HD" group-title="CANAIS • FILMES E SERIES",CINE CANAL HD
-http://todexs.com:80/live/Ines7865/8765478/1352449.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+http://todexs.com:80/live/Ines7865/8765478/1352449.ts|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
 
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
