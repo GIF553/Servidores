@@ -6692,6 +6692,2104 @@ http://todexs.com:80/live/Ines7865/8765478/1356281.m3u8|User-Agent=com.ibopro.pl
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Botafogo_de_Futebol_e_Regatas_logo.svg/1200px-Botafogo_de_Futebol_e_Regatas_logo.svg.png" tvg-name="Botafogo" group-title="JOGOS • AO VIVO",Botafogo
 http://todexs.com:80/live/Ines7865/8765478/1356282.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
 
+#EXTM3U
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24] BEN 10" group-title="CANAIS | 24H DESENHOS",[24] BEN 10
+http://go7l99a.com:80/live/usa010/454025LG/643501.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #KODIPROP:http--reconnect=true
-#EXTINF:-1
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] 3 PALAVRINHAS" group-title="CANAIS | 24H DESENHOS",[24H] 3 PALAVRINHAS
+http://go7l99a.com:80/live/usa010/454025LG/643487.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] 44 GATOS" group-title="CANAIS | 24H DESENHOS",[24H] 44 GATOS
+http://go7l99a.com:80/live/usa010/454025LG/604052.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] A CASA DO MICKEY MOUSE" group-title="CANAIS | 24H DESENHOS",[24H] A CASA DO MICKEY MOUSE
+http://go7l99a.com:80/live/usa010/454025LG/602738.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] A MULHER MARAVILHA" group-title="CANAIS | 24H DESENHOS",[24H] A MULHER MARAVILHA
+http://go7l99a.com:80/live/usa010/454025LG/643490.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] A TURMA DA PANTERA COR DE ROSA" group-title="CANAIS | 24H DESENHOS",[24H] A TURMA DA PANTERA COR DE ROSA
+http://go7l99a.com:80/live/usa010/454025LG/604053.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] A TURMA DO BAIRRO" group-title="CANAIS | 24H DESENHOS",[24H] A TURMA DO BAIRRO
+http://go7l99a.com:80/live/usa010/454025LG/643491.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] A TURMA DO PATO BILL" group-title="CANAIS | 24H DESENHOS",[24H] A TURMA DO PATO BILL
+http://go7l99a.com:80/live/usa010/454025LG/643492.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H A TURMA DO ZÉ COLMÉIA" group-title="CANAIS | 24H DESENHOS",24H A TURMA DO ZÉ COLMÉIA
+http://go7l99a.com:80/live/usa010/454025LG/604054.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] A VACA E O FRANGO" group-title="CANAIS | 24H DESENHOS",[24H] A VACA E O FRANGO
+http://go7l99a.com:80/live/usa010/454025LG/464860.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] ANDY PANDA" group-title="CANAIS | 24H DESENHOS",[24H] ANDY PANDA
+http://go7l99a.com:80/live/usa010/454025LG/643493.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] ANIMANIACS" group-title="CANAIS | 24H DESENHOS",[24H] ANIMANIACS
+http://go7l99a.com:80/live/usa010/454025LG/464543.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] ANIMAZOO" group-title="CANAIS | 24H DESENHOS",[24H] ANIMAZOO
+http://go7l99a.com:80/live/usa010/454025LG/469822.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] AS AVENTURAS DE TOM E JERRY" group-title="CANAIS | 24H DESENHOS",[24H] AS AVENTURAS DE TOM E JERRY
+http://go7l99a.com:80/live/usa010/454025LG/469825.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] AS AVENTURAS DO SUPERMAN" group-title="CANAIS | 24H DESENHOS",[24H] AS AVENTURAS DO SUPERMAN
+http://go7l99a.com:80/live/usa010/454025LG/469826.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] AS MENINAS SUPERPODEROSA" group-title="CANAIS | 24H DESENHOS",[24H] AS MENINAS SUPERPODEROSA
+http://go7l99a.com:80/live/usa010/454025LG/643494.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] AS MENINAS SUPERPODEROSAS GERACAO Z" group-title="CANAIS | 24H DESENHOS",[24H] AS MENINAS SUPERPODEROSAS GERACAO Z
+http://go7l99a.com:80/live/usa010/454025LG/643495.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] BABY LOONEY TUNES" group-title="CANAIS | 24H DESENHOS",[24H] BABY LOONEY TUNES
+http://go7l99a.com:80/live/usa010/454025LG/604055.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] BACAMARTE E CHUMBINHO" group-title="CANAIS | 24H DESENHOS",[24H] BACAMARTE E CHUMBINHO
+http://go7l99a.com:80/live/usa010/454025LG/643497.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] BACKYARDIGANS" group-title="CANAIS | 24H DESENHOS",[24H] BACKYARDIGANS
+http://go7l99a.com:80/live/usa010/454025LG/464872.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] BANANAS DE PIJAMAS" group-title="CANAIS | 24H DESENHOS",[24H] BANANAS DE PIJAMAS
+http://go7l99a.com:80/live/usa010/454025LG/604056.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] BATFINO" group-title="CANAIS | 24H DESENHOS",[24H] BATFINO
+http://go7l99a.com:80/live/usa010/454025LG/643498.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H BATMAN" group-title="CANAIS | 24H DESENHOS",24H BATMAN
+http://go7l99a.com:80/live/usa010/454025LG/469832.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] BATMAN DO FUTURO" group-title="CANAIS | 24H DESENHOS",[24H] BATMAN DO FUTURO
+http://go7l99a.com:80/live/usa010/454025LG/643499.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] BATMAN GOTHAM KNIGHT" group-title="CANAIS | 24H DESENHOS",[24H] BATMAN GOTHAM KNIGHT
+http://go7l99a.com:80/live/usa010/454025LG/643500.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] BEN 10  FORCA ALIENIGENA" group-title="CANAIS | 24H DESENHOS",[24H] BEN 10  FORCA ALIENIGENA
+http://go7l99a.com:80/live/usa010/454025LG/643502.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] BEN 10 OMINIVERSE" group-title="CANAIS | 24H DESENHOS",[24H] BEN 10 OMINIVERSE
+http://go7l99a.com:80/live/usa010/454025LG/464874.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] BILLY E MANDY" group-title="CANAIS | 24H DESENHOS",[24H] BILLY E MANDY
+http://go7l99a.com:80/live/usa010/454025LG/643496.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] BIPO PAI E BOB FILHO" group-title="CANAIS | 24H DESENHOS",[24H] BIPO PAI E BOB FILHO
+http://go7l99a.com:80/live/usa010/454025LG/643503.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] BOB ESPONJA" group-title="CANAIS | 24H DESENHOS",[24H] BOB ESPONJA
+http://go7l99a.com:80/live/usa010/454025LG/643504.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] BOB O CONSTRUTOR" group-title="CANAIS | 24H DESENHOS",[24H] BOB O CONSTRUTOR
+http://go7l99a.com:80/live/usa010/454025LG/464879.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] BOB ZOOM" group-title="CANAIS | 24H DESENHOS",[24H] BOB ZOOM
+http://go7l99a.com:80/live/usa010/454025LG/604066.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] CADILACS E DINOSSAURO" group-title="CANAIS | 24H DESENHOS",[24H] CADILACS E DINOSSAURO
+http://go7l99a.com:80/live/usa010/454025LG/643505.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] CAPITAO LENTO" group-title="CANAIS | 24H DESENHOS",[24H] CAPITAO LENTO
+http://go7l99a.com:80/live/usa010/454025LG/643506.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H CAPITÃO CAVERNA" group-title="CANAIS | 24H DESENHOS",24H CAPITÃO CAVERNA
+http://go7l99a.com:80/live/usa010/454025LG/469847.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H CASTORES PIRADOS" group-title="CANAIS | 24H DESENHOS",24H CASTORES PIRADOS
+http://go7l99a.com:80/live/usa010/454025LG/469848.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H CAVALO DE FOGO" group-title="CANAIS | 24H DESENHOS",24H CAVALO DE FOGO
+http://go7l99a.com:80/live/usa010/454025LG/464893.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] CAVERNA DO DRAGAO" group-title="CANAIS | 24H DESENHOS",[24H] CAVERNA DO DRAGAO
+http://go7l99a.com:80/live/usa010/454025LG/635659.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] CHAPOLIN T01 T03" group-title="CANAIS | 24H DESENHOS",[24H] CHAPOLIN T01 T03
+http://go7l99a.com:80/live/usa010/454025LG/643474.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] CHAPOLIN T04 T07" group-title="CANAIS | 24H DESENHOS",[24H] CHAPOLIN T04 T07
+http://go7l99a.com:80/live/usa010/454025LG/643475.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] CHARLIE MAN" group-title="CANAIS | 24H DESENHOS",[24H] CHARLIE MAN
+http://go7l99a.com:80/live/usa010/454025LG/643507.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] CHAVES" group-title="CANAIS | 24H DESENHOS",[24H] CHAVES
+http://go7l99a.com:80/live/usa010/454025LG/638400.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] CLARENCIO O OTIMISTA" group-title="CANAIS | 24H DESENHOS",[24H] CLARENCIO O OTIMISTA
+http://go7l99a.com:80/live/usa010/454025LG/465027.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H CONTOS ASSUSTADORES DE MARCHA" group-title="CANAIS | 24H DESENHOS",24H CONTOS ASSUSTADORES DE MARCHA
+http://go7l99a.com:80/live/usa010/454025LG/606945.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H CORRIDA ESPACIAL" group-title="CANAIS | 24H DESENHOS",24H CORRIDA ESPACIAL
+http://go7l99a.com:80/live/usa010/454025LG/464900.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H CUPHEAD A SERIE" group-title="CANAIS | 24H DESENHOS",24H CUPHEAD A SERIE
+http://go7l99a.com:80/live/usa010/454025LG/469856.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H CYBERCOPS" group-title="CANAIS | 24H DESENHOS",24H CYBERCOPS
+http://go7l99a.com:80/live/usa010/454025LG/469857.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] CÃO CORAGEM" group-title="CANAIS | 24H DESENHOS",[24H] CÃO CORAGEM
+http://go7l99a.com:80/live/usa010/454025LG/464899.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H DE VOLTA PARA O FUTURO DESENHO" group-title="CANAIS | 24H DESENHOS",24H DE VOLTA PARA O FUTURO DESENHO
+http://go7l99a.com:80/live/usa010/454025LG/469859.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] DELVIN O MOTOQUEIRO" group-title="CANAIS | 24H DESENHOS",[24H] DELVIN O MOTOQUEIRO
+http://go7l99a.com:80/live/usa010/454025LG/643508.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H DENIS PIMENTINHAS" group-title="CANAIS | 24H DESENHOS",24H DENIS PIMENTINHAS
+http://go7l99a.com:80/live/usa010/454025LG/469860.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] DENIZ O PIMENTINHA" group-title="CANAIS | 24H DESENHOS",[24H] DENIZ O PIMENTINHA
+http://go7l99a.com:80/live/usa010/454025LG/643509.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="[24H] DESENCANTO" group-title="CANAIS | 24H DESENHOS",[24H] DESENCANTO
+http://go7l99a.com:80/live/usa010/454025LG/469863.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H DESENHOS BIBLICOS" group-title="CANAIS | 24H DESENHOS",24H DESENHOS BIBLICOS
+http://go7l99a.com:80/live/usa010/454025LG/606946.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H DOUG" group-title="CANAIS | 24H DESENHOS",24H DOUG
+http://go7l99a.com:80/live/usa010/454025LG/469870.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H DOUTORA BRINQUEDO" group-title="CANAIS | 24H DESENHOS",24H DOUTORA BRINQUEDO
+http://go7l99a.com:80/live/usa010/454025LG/469871.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H DUCK DODGERS" group-title="CANAIS | 24H DESENHOS",24H DUCK DODGERS
+http://go7l99a.com:80/live/usa010/454025LG/469878.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] DUEOLO XIAOLIN" group-title="CANAIS | 24H DESENHOS",[24H] DUEOLO XIAOLIN
+http://go7l99a.com:80/live/usa010/454025LG/643514.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H EU SOU O MAXIMO" group-title="CANAIS | 24H DESENHOS",24H EU SOU O MAXIMO
+http://go7l99a.com:80/live/usa010/454025LG/606956.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] FAMILIA ADAMS" group-title="CANAIS | 24H DESENHOS",[24H] FAMILIA ADAMS
+http://go7l99a.com:80/live/usa010/454025LG/643489.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] FAMILIA DRACULA" group-title="CANAIS | 24H DESENHOS",[24H] FAMILIA DRACULA
+http://go7l99a.com:80/live/usa010/454025LG/643488.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] FANTASMINHA LEGAL" group-title="CANAIS | 24H DESENHOS",[24H] FANTASMINHA LEGAL
+http://go7l99a.com:80/live/usa010/454025LG/643516.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H FORMIGA ATÔMICA" group-title="CANAIS | 24H DESENHOS",24H FORMIGA ATÔMICA
+http://go7l99a.com:80/live/usa010/454025LG/469886.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H FRANKSTEIN JR E OS IMPOSSIVEIS" group-title="CANAIS | 24H DESENHOS",24H FRANKSTEIN JR E OS IMPOSSIVEIS
+http://go7l99a.com:80/live/usa010/454025LG/606958.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H GALINHA BABY" group-title="CANAIS | 24H DESENHOS",24H GALINHA BABY
+http://go7l99a.com:80/live/usa010/454025LG/606959.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] GATO FELIX" group-title="CANAIS | 24H DESENHOS",[24H] GATO FELIX
+http://go7l99a.com:80/live/usa010/454025LG/469891.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] GUMBALL" group-title="CANAIS | 24H DESENHOS",[24H] GUMBALL
+http://go7l99a.com:80/live/usa010/454025LG/643518.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] HEPPY TREE FRIENDS" group-title="CANAIS | 24H DESENHOS",[24H] HEPPY TREE FRIENDS
+http://go7l99a.com:80/live/usa010/454025LG/643485.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H HERCULES" group-title="CANAIS | 24H DESENHOS",24H HERCULES
+http://go7l99a.com:80/live/usa010/454025LG/464933.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] HEY ARNOLD" group-title="CANAIS | 24H DESENHOS",[24H] HEY ARNOLD
+http://go7l99a.com:80/live/usa010/454025LG/643484.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] HOMEM DE FERRO" group-title="CANAIS | 24H DESENHOS",[24H] HOMEM DE FERRO
+http://go7l99a.com:80/live/usa010/454025LG/643483.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H INUYASHA" group-title="CANAIS | 24H DESENHOS",24H INUYASHA
+http://go7l99a.com:80/live/usa010/454025LG/469904.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] IRMÃO DO JOREL" group-title="CANAIS | 24H DESENHOS",[24H] IRMÃO DO JOREL
+http://go7l99a.com:80/live/usa010/454025LG/469906.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] JACKIE CHAN" group-title="CANAIS | 24H DESENHOS",[24H] JACKIE CHAN
+http://go7l99a.com:80/live/usa010/454025LG/470020.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] JAKE E OS PIRATAS" group-title="CANAIS | 24H DESENHOS",[24H] JAKE E OS PIRATAS
+http://go7l99a.com:80/live/usa010/454025LG/469908.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] JAMBO E RUVIAO" group-title="CANAIS | 24H DESENHOS",[24H] JAMBO E RUVIAO
+http://go7l99a.com:80/live/usa010/454025LG/624965.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] JOVENS TITAN EM AÇÃO T06" group-title="CANAIS | 24H DESENHOS",[24H] JOVENS TITAN EM AÇÃO T06
+http://go7l99a.com:80/live/usa010/454025LG/607018.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H KIDS" group-title="CANAIS | 24H DESENHOS",24H KIDS
+http://go7l99a.com:80/live/usa010/454025LG/606964.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H KIPO" group-title="CANAIS | 24H DESENHOS",24H KIPO
+http://go7l99a.com:80/live/usa010/454025LG/606965.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H LEGO UMA AVENTURA NA CIDADE" group-title="CANAIS | 24H DESENHOS",24H LEGO UMA AVENTURA NA CIDADE
+http://go7l99a.com:80/live/usa010/454025LG/606966.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] LULUZINHA" group-title="CANAIS | 24H DESENHOS",[24H] LULUZINHA
+http://go7l99a.com:80/live/usa010/454025LG/643519.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H MANNY MÃOS À OBRA" group-title="CANAIS | 24H DESENHOS",24H MANNY MÃOS À OBRA
+http://go7l99a.com:80/live/usa010/454025LG/469925.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] MANSAO FOSTER" group-title="CANAIS | 24H DESENHOS",[24H] MANSAO FOSTER
+http://go7l99a.com:80/live/usa010/454025LG/464856.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] MEGA MAN" group-title="CANAIS | 24H DESENHOS",[24H] MEGA MAN
+http://go7l99a.com:80/live/usa010/454025LG/624960.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] MEU AMIGÃOZÃO" group-title="CANAIS | 24H DESENHOS",[24H] MEU AMIGÃOZÃO
+http://go7l99a.com:80/live/usa010/454025LG/469930.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H MICKEY" group-title="CANAIS | 24H DESENHOS",24H MICKEY
+http://go7l99a.com:80/live/usa010/454025LG/606969.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H MORANGUINHO" group-title="CANAIS | 24H DESENHOS",24H MORANGUINHO
+http://go7l99a.com:80/live/usa010/454025LG/469935.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H MR MAKER" group-title="CANAIS | 24H DESENHOS",24H MR MAKER
+http://go7l99a.com:80/live/usa010/454025LG/606975.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H MUCHA LUTA" group-title="CANAIS | 24H DESENHOS",24H MUCHA LUTA
+http://go7l99a.com:80/live/usa010/454025LG/469936.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H MUMIAS VIVAS" group-title="CANAIS | 24H DESENHOS",24H MUMIAS VIVAS
+http://go7l99a.com:80/live/usa010/454025LG/469937.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] O COISA" group-title="CANAIS | 24H DESENHOS",[24H] O COISA
+http://go7l99a.com:80/live/usa010/454025LG/624964.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H O INCRÍVEL MUNDO DE GUMBALL" group-title="CANAIS | 24H DESENHOS",24H O INCRÍVEL MUNDO DE GUMBALL
+http://go7l99a.com:80/live/usa010/454025LG/469939.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H O MASKARA" group-title="CANAIS | 24H DESENHOS",24H O MASKARA
+http://go7l99a.com:80/live/usa010/454025LG/469941.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H O PEQUENO SCOOBY" group-title="CANAIS | 24H DESENHOS",24H O PEQUENO SCOOBY
+http://go7l99a.com:80/live/usa010/454025LG/606978.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] O PEQUENO URSO" group-title="CANAIS | 24H DESENHOS",[24H] O PEQUENO URSO
+http://go7l99a.com:80/live/usa010/454025LG/464576.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H O QUE HA DE NOVO SCOOBY DOO" group-title="CANAIS | 24H DESENHOS",24H O QUE HA DE NOVO SCOOBY DOO
+http://go7l99a.com:80/live/usa010/454025LG/606976.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H O SHOW DOS LOONEY TUNES" group-title="CANAIS | 24H DESENHOS",24H O SHOW DOS LOONEY TUNES
+http://go7l99a.com:80/live/usa010/454025LG/606977.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H OGGY E AS BARATAS TONTAS" group-title="CANAIS | 24H DESENHOS",24H OGGY E AS BARATAS TONTAS
+http://go7l99a.com:80/live/usa010/454025LG/469946.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] OLHA DO DESAFIOS" group-title="CANAIS | 24H DESENHOS",[24H] OLHA DO DESAFIOS
+http://go7l99a.com:80/live/usa010/454025LG/624966.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H OS 7A" group-title="CANAIS | 24H DESENHOS",24H OS 7A
+http://go7l99a.com:80/live/usa010/454025LG/606990.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H OS CAÇA FANTASMA DESENHO" group-title="CANAIS | 24H DESENHOS",24H OS CAÇA FANTASMA DESENHO
+http://go7l99a.com:80/live/usa010/454025LG/469950.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H OS GÁRGULAS" group-title="CANAIS | 24H DESENHOS",24H OS GÁRGULAS
+http://go7l99a.com:80/live/usa010/454025LG/469953.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H OS JETSONS" group-title="CANAIS | 24H DESENHOS",24H OS JETSONS
+http://go7l99a.com:80/live/usa010/454025LG/469955.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] OS JOVENS TITAN T05" group-title="CANAIS | 24H DESENHOS",[24H] OS JOVENS TITAN T05
+http://go7l99a.com:80/live/usa010/454025LG/606991.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H OS JOVENS TITAS EM ACAO" group-title="CANAIS | 24H DESENHOS",24H OS JOVENS TITAS EM ACAO
+http://go7l99a.com:80/live/usa010/454025LG/469958.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] OS MISTERIOS DE PIU-PIU E FRAJOLA" group-title="CANAIS | 24H DESENHOS",[24H] OS MISTERIOS DE PIU-PIU E FRAJOLA
+http://go7l99a.com:80/live/usa010/454025LG/464581.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] OS PINGUINS DE MADAGASCAR" group-title="CANAIS | 24H DESENHOS",[24H] OS PINGUINS DE MADAGASCAR
+http://go7l99a.com:80/live/usa010/454025LG/624963.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] OS SETE MONSTRINHOS" group-title="CANAIS | 24H DESENHOS",[24H] OS SETE MONSTRINHOS
+http://go7l99a.com:80/live/usa010/454025LG/624961.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] OS SIMPSONS 2000-2010" group-title="CANAIS | 24H DESENHOS",[24H] OS SIMPSONS 2000-2010
+http://go7l99a.com:80/live/usa010/454025LG/643476.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] OS SIMPSONS T32" group-title="CANAIS | 24H DESENHOS",[24H] OS SIMPSONS T32
+http://go7l99a.com:80/live/usa010/454025LG/643523.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] OS SIMPSONS T34" group-title="CANAIS | 24H DESENHOS",[24H] OS SIMPSONS T34
+http://go7l99a.com:80/live/usa010/454025LG/643524.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] OS SIMPSONS T35" group-title="CANAIS | 24H DESENHOS",[24H] OS SIMPSONS T35
+http://go7l99a.com:80/live/usa010/454025LG/606972.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] OS SMURFS" group-title="CANAIS | 24H DESENHOS",[24H] OS SMURFS
+http://go7l99a.com:80/live/usa010/454025LG/606993.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] OS URSINHOS CARINHOSOS" group-title="CANAIS | 24H DESENHOS",[24H] OS URSINHOS CARINHOSOS
+http://go7l99a.com:80/live/usa010/454025LG/464820.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H PATO DONALD" group-title="CANAIS | 24H DESENHOS",24H PATO DONALD
+http://go7l99a.com:80/live/usa010/454025LG/606980.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H PATRULHA CANINA T01" group-title="CANAIS | 24H DESENHOS",24H PATRULHA CANINA T01
+http://go7l99a.com:80/live/usa010/454025LG/604951.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H PATRULHA CANINA T02" group-title="CANAIS | 24H DESENHOS",24H PATRULHA CANINA T02
+http://go7l99a.com:80/live/usa010/454025LG/604952.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H PATRULHA CANINA T03" group-title="CANAIS | 24H DESENHOS",24H PATRULHA CANINA T03
+http://go7l99a.com:80/live/usa010/454025LG/604953.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] PATRULHA CANINA T04" group-title="CANAIS | 24H DESENHOS",[24H] PATRULHA CANINA T04
+http://go7l99a.com:80/live/usa010/454025LG/604954.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] PATRULHA CANINA T05" group-title="CANAIS | 24H DESENHOS",[24H] PATRULHA CANINA T05
+http://go7l99a.com:80/live/usa010/454025LG/643540.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="24H PEPPA PIG" group-title="CANAIS | 24H DESENHOS",24H PEPPA PIG
+http://go7l99a.com:80/live/usa010/454025LG/644590.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] PERDIDOS NAS ESTRELAS" group-title="CANAIS | 24H DESENHOS",[24H] PERDIDOS NAS ESTRELAS
+http://go7l99a.com:80/live/usa010/454025LG/464585.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H PERNALONGA E SEUS AMIGOS" group-title="CANAIS | 24H DESENHOS",24H PERNALONGA E SEUS AMIGOS
+http://go7l99a.com:80/live/usa010/454025LG/469974.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] PHINEAS E FERB" group-title="CANAIS | 24H DESENHOS",[24H] PHINEAS E FERB
+http://go7l99a.com:80/live/usa010/454025LG/624962.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] PICA PAU" group-title="CANAIS | 24H DESENHOS",[24H] PICA PAU
+http://go7l99a.com:80/live/usa010/454025LG/604950.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24h PINKY E O CEREBRO" group-title="CANAIS | 24H DESENHOS",24h PINKY E O CEREBRO
+http://go7l99a.com:80/live/usa010/454025LG/464974.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] PLIC E PLOCK" group-title="CANAIS | 24H DESENHOS",[24H] PLIC E PLOCK
+http://go7l99a.com:80/live/usa010/454025LG/606995.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] Pocoyo²" group-title="CANAIS | 24H DESENHOS",[24H] Pocoyo²
+http://go7l99a.com:80/live/usa010/454025LG/464976.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24h Popeye" group-title="CANAIS | 24H DESENHOS",24h Popeye
+http://go7l99a.com:80/live/usa010/454025LG/464978.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] POWER RANGERNS" group-title="CANAIS | 24H DESENHOS",[24H] POWER RANGERNS
+http://go7l99a.com:80/live/usa010/454025LG/464825.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="24H QUE LEGAL DO SCOOBY DOO" group-title="CANAIS | 24H DESENHOS",24H QUE LEGAL DO SCOOBY DOO
+http://go7l99a.com:80/live/usa010/454025LG/643663.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H RAMBO DESENHO" group-title="CANAIS | 24H DESENHOS",24H RAMBO DESENHO
+http://go7l99a.com:80/live/usa010/454025LG/469982.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H REN E STIMPY" group-title="CANAIS | 24H DESENHOS",24H REN E STIMPY
+http://go7l99a.com:80/live/usa010/454025LG/469983.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] SAMURAI JACK" group-title="CANAIS | 24H DESENHOS",[24H] SAMURAI JACK
+http://go7l99a.com:80/live/usa010/454025LG/464823.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H SHAUN SHEEP" group-title="CANAIS | 24H DESENHOS",24H SHAUN SHEEP
+http://go7l99a.com:80/live/usa010/454025LG/469988.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H SHAZAAM" group-title="CANAIS | 24H DESENHOS",24H SHAZAAM
+http://go7l99a.com:80/live/usa010/454025LG/469989.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] SHE-RA CLASSICO" group-title="CANAIS | 24H DESENHOS",[24H] SHE-RA CLASSICO
+http://go7l99a.com:80/live/usa010/454025LG/607001.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] SUPER CHOQUE" group-title="CANAIS | 24H DESENHOS",[24H] SUPER CHOQUE
+http://go7l99a.com:80/live/usa010/454025LG/607003.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H SUPER HOMEM ANOS 40" group-title="CANAIS | 24H DESENHOS",24H SUPER HOMEM ANOS 40
+http://go7l99a.com:80/live/usa010/454025LG/469996.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H SUPERAMIGOS" group-title="CANAIS | 24H DESENHOS",24H SUPERAMIGOS
+http://go7l99a.com:80/live/usa010/454025LG/469998.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] SUPERCAMPEAO" group-title="CANAIS | 24H DESENHOS",[24H] SUPERCAMPEAO
+http://go7l99a.com:80/live/usa010/454025LG/643522.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] SURFISTA PRATEADO" group-title="CANAIS | 24H DESENHOS",[24H] SURFISTA PRATEADO
+http://go7l99a.com:80/live/usa010/454025LG/607005.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H TA CHOVENDO HAMBUERGUER" group-title="CANAIS | 24H DESENHOS",24H TA CHOVENDO HAMBUERGUER
+http://go7l99a.com:80/live/usa010/454025LG/470010.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] TARZAN" group-title="CANAIS | 24H DESENHOS",[24H] TARZAN
+http://go7l99a.com:80/live/usa010/454025LG/607006.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H TAZ MANIA" group-title="CANAIS | 24H DESENHOS",24H TAZ MANIA
+http://go7l99a.com:80/live/usa010/454025LG/470001.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H TELETUBBIES" group-title="CANAIS | 24H DESENHOS",24H TELETUBBIES
+http://go7l99a.com:80/live/usa010/454025LG/470002.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H THUNDERCATS" group-title="CANAIS | 24H DESENHOS",24H THUNDERCATS
+http://go7l99a.com:80/live/usa010/454025LG/470004.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="http://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] TRANSFORMERS" group-title="CANAIS | 24H DESENHOS",[24H] TRANSFORMERS
+http://go7l99a.com:80/live/usa010/454025LG/643521.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H TURMA DA MONICA" group-title="CANAIS | 24H DESENHOS",24H TURMA DA MONICA
+http://go7l99a.com:80/live/usa010/454025LG/464995.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H TURMA DO RONALDINHO GAUCHO" group-title="CANAIS | 24H DESENHOS",24H TURMA DO RONALDINHO GAUCHO
+http://go7l99a.com:80/live/usa010/454025LG/470007.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] TV COLOSSO" group-title="CANAIS | 24H DESENHOS",[24H] TV COLOSSO
+http://go7l99a.com:80/live/usa010/454025LG/607008.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24h VINGADORES OS SUPER-HEROIS MAIS PODEROSOS DA TERRA" group-title="CANAIS | 24H DESENHOS",24h VINGADORES OS SUPER-HEROIS MAIS PODEROSOS DA TERRA
+http://go7l99a.com:80/live/usa010/454025LG/464966.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] XODO DA VOVO" group-title="CANAIS | 24H DESENHOS",[24H] XODO DA VOVO
+http://go7l99a.com:80/live/usa010/454025LG/607012.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] BOJACK HORSEMAN " group-title="CANAIS | 24H DESENHOS",[24H] BOJACK HORSEMAN
+http://go7l99a.com:80/live/usa010/454025LG/655105.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] BOB ESPONJA T01-T06" group-title="CANAIS | 24H DESENHOS",[24H] BOB ESPONJA T01-T06
+http://go7l99a.com:80/live/usa010/454025LG/655111.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] BOB ESPONJA T07-T13" group-title="CANAIS | 24H DESENHOS",[24H] BOB ESPONJA T07-T13
+http://go7l99a.com:80/live/usa010/454025LG/655112.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] DARKIWING DUCK" group-title="CANAIS | 24H DESENHOS",[24H] DARKIWING DUCK
+http://go7l99a.com:80/live/usa010/454025LG/655113.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] DC SUPER HERO GIRLS" group-title="CANAIS | 24H DESENHOS",[24H] DC SUPER HERO GIRLS
+http://go7l99a.com:80/live/usa010/454025LG/655114.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H 90 DIAS PARA CASAR" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H 90 DIAS PARA CASAR
+http://go7l99a.com:80/live/usa010/454025LG/643480.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H A FAMILIA HATHAWAYS" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H A FAMILIA HATHAWAYS
+http://go7l99a.com:80/live/usa010/454025LG/464853.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H A GRANDE FAMILIA DO ALASCA" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H A GRANDE FAMILIA DO ALASCA
+http://go7l99a.com:80/live/usa010/454025LG/643477.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H AMERICAN HOUSEWIFE" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H AMERICAN HOUSEWIFE
+http://go7l99a.com:80/live/usa010/454025LG/606941.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H BATMAN E ROBIN" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H BATMAN E ROBIN
+http://go7l99a.com:80/live/usa010/454025LG/635658.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H BREAKING BAD" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H BREAKING BAD
+http://go7l99a.com:80/live/usa010/454025LG/606942.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H BYCROSSERS" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H BYCROSSERS
+http://go7l99a.com:80/live/usa010/454025LG/469845.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H CARGA PESADA" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H CARGA PESADA
+http://go7l99a.com:80/live/usa010/454025LG/464819.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H CHANGEMAN" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H CHANGEMAN
+http://go7l99a.com:80/live/usa010/454025LG/469849.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H DR HOUSE T01 E T02" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H DR HOUSE T01 E T02
+http://go7l99a.com:80/live/usa010/454025LG/643510.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H DR HOUSE T03 E T04" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H DR HOUSE T03 E T04
+http://go7l99a.com:80/live/usa010/454025LG/643511.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H DR HOUSE T05 E T06" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H DR HOUSE T05 E T06
+http://go7l99a.com:80/live/usa010/454025LG/643512.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H DR HOUSE T07 E T08" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H DR HOUSE T07 E T08
+http://go7l99a.com:80/live/usa010/454025LG/643513.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H ESCOLINHA DO PROFESSOR RAIMUNDO" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H ESCOLINHA DO PROFESSOR RAIMUNDO
+http://go7l99a.com:80/live/usa010/454025LG/464914.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H EU A PATROA E AS CRIANCAS" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H EU A PATROA E AS CRIANCAS
+http://go7l99a.com:80/live/usa010/454025LG/643515.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H FAISCA E FUMAÇA" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H FAISCA E FUMAÇA
+http://go7l99a.com:80/live/usa010/454025LG/464564.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H FEITICEIROS DE WARVELY" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H FEITICEIROS DE WARVELY
+http://go7l99a.com:80/live/usa010/454025LG/606957.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H GODZILLA" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H GODZILLA
+http://go7l99a.com:80/live/usa010/454025LG/643486.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H GOOGLE FIVE" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H GOOGLE FIVE
+http://go7l99a.com:80/live/usa010/454025LG/469893.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H HENRY DANGER" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H HENRY DANGER
+http://go7l99a.com:80/live/usa010/454025LG/635660.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H HENRY DRANGER" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H HENRY DRANGER
+http://go7l99a.com:80/live/usa010/454025LG/469896.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H HILDA FURACÃO" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H HILDA FURACÃO
+http://go7l99a.com:80/live/usa010/454025LG/607017.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H HOUSE OF CARDS" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H HOUSE OF CARDS
+http://go7l99a.com:80/live/usa010/454025LG/606961.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="[24H] iCARLY" group-title="CANAIS | 24H SERIES - PROGRAMAS",[24H] iCARLY
+http://go7l99a.com:80/live/usa010/454025LG/469903.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H ILHA DO DESAFIOS" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H ILHA DO DESAFIOS
+http://go7l99a.com:80/live/usa010/454025LG/643482.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H JIBAN" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H JIBAN
+http://go7l99a.com:80/live/usa010/454025LG/464814.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H KAMEN RIDER" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H KAMEN RIDER
+http://go7l99a.com:80/live/usa010/454025LG/606963.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H LARGADOS E PELADOS" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H LARGADOS E PELADOS
+http://go7l99a.com:80/live/usa010/454025LG/469916.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="[24H] LARGADOS E PELADOS A TRIBO" group-title="CANAIS | 24H SERIES - PROGRAMAS",[24H] LARGADOS E PELADOS A TRIBO
+http://go7l99a.com:80/live/usa010/454025LG/469917.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H MARIA MAGDALENA" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H MARIA MAGDALENA
+http://go7l99a.com:80/live/usa010/454025LG/606967.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H Miami Vice" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H Miami Vice
+http://go7l99a.com:80/live/usa010/454025LG/469931.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H MR.MAKER" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H MR.MAKER
+http://go7l99a.com:80/live/usa010/454025LG/469934.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/SERIES.24.HORAS.png" tvg-name="24H O SOCIO" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H O SOCIO
+http://go7l99a.com:80/live/usa010/454025LG/644695.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H OPERACAO FRONTEIRA BRASIL" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H OPERACAO FRONTEIRA BRASIL
+http://go7l99a.com:80/live/usa010/454025LG/643479.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H OS NORMAIS" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H OS NORMAIS
+http://go7l99a.com:80/live/usa010/454025LG/643478.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H OS RONI" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H OS RONI
+http://go7l99a.com:80/live/usa010/454025LG/606992.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H OS TRAPALHOES" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H OS TRAPALHOES
+http://go7l99a.com:80/live/usa010/454025LG/606994.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H PESADELO NA COZINHA" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H PESADELO NA COZINHA
+http://go7l99a.com:80/live/usa010/454025LG/644591.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H PROFESSOR RAIMUNDO ANOS 90" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H PROFESSOR RAIMUNDO ANOS 90
+http://go7l99a.com:80/live/usa010/454025LG/606955.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H PUNK" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H PUNK
+http://go7l99a.com:80/live/usa010/454025LG/606998.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H SEE" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H SEE
+http://go7l99a.com:80/live/usa010/454025LG/643525.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H SUPERNATURAL T01-05" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H SUPERNATURAL T01-05
+http://go7l99a.com:80/live/usa010/454025LG/607004.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H THE MANDALORIAN" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H THE MANDALORIAN
+http://go7l99a.com:80/live/usa010/454025LG/643664.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-logo="https://prostore.app/logos/SERIES.24.HORAS.png" tvg-name="[24H] TODO MUNDO ODEIA O CHRIS" group-title="CANAIS | 24H SERIES - PROGRAMAS",[24H] TODO MUNDO ODEIA O CHRIS
+http://go7l99a.com:80/live/usa010/454025LG/603450.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H UM MALUCO NO PEDAÇO" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H UM MALUCO NO PEDAÇO
+http://go7l99a.com:80/live/usa010/454025LG/643520.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24h Uma família da pesada" group-title="CANAIS | 24H SERIES - PROGRAMAS",24h Uma família da pesada
+http://go7l99a.com:80/live/usa010/454025LG/464998.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H V A BATALHA FINAL" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H V A BATALHA FINAL
+http://go7l99a.com:80/live/usa010/454025LG/607009.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H WANDINHA" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H WANDINHA
+http://go7l99a.com:80/live/usa010/454025LG/607010.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H WOLVERINE E OS X-MEN" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H WOLVERINE E OS X-MEN
+http://go7l99a.com:80/live/usa010/454025LG/607011.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/24H.png" tvg-name="24H ZORRO" group-title="CANAIS | 24H SERIES - PROGRAMAS",24H ZORRO
+http://go7l99a.com:80/live/usa010/454025LG/607013.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/SERIES.24.HORAS.png" tvg-name="[24H] AVATAR ULTIMO MESTRE DO AR" group-title="CANAIS | 24H SERIES - PROGRAMAS",[24H] AVATAR ULTIMO MESTRE DO AR
+http://go7l99a.com:80/live/usa010/454025LG/655103.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Animes24hLive" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] DR STONE" group-title="CANAIS | 24H ANIMES",[24H] DR STONE
+http://go7l99a.com:80/live/usa010/454025LG/606947.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Animes24hLive" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] DRAGONBALL" group-title="CANAIS | 24H ANIMES",[24H] DRAGONBALL
+http://go7l99a.com:80/live/usa010/454025LG/606950.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Animes24hLive" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] DRAGONBALL HEROES" group-title="CANAIS | 24H ANIMES",[24H] DRAGONBALL HEROES
+http://go7l99a.com:80/live/usa010/454025LG/607016.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Animes24hLive" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] DRAGONBALL Z A SAGA DE SAYA" group-title="CANAIS | 24H ANIMES",[24H] DRAGONBALL Z A SAGA DE SAYA
+http://go7l99a.com:80/live/usa010/454025LG/606953.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Animes24hLive" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] DRAGONBALL Z A SAGA DOS ANDROIDS" group-title="CANAIS | 24H ANIMES",[24H] DRAGONBALL Z A SAGA DOS ANDROIDS
+http://go7l99a.com:80/live/usa010/454025LG/606951.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Animes24hLive" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] DRAGONBALL Z SAGA DE BABIDI" group-title="CANAIS | 24H ANIMES",[24H] DRAGONBALL Z SAGA DE BABIDI
+http://go7l99a.com:80/live/usa010/454025LG/606952.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Animes24hLive" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] DRAGONBALL Z SAGA NAMEKUSEI" group-title="CANAIS | 24H ANIMES",[24H] DRAGONBALL Z SAGA NAMEKUSEI
+http://go7l99a.com:80/live/usa010/454025LG/606954.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Animes24hLive" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] FREAKAZOID" group-title="CANAIS | 24H ANIMES",[24H] FREAKAZOID
+http://go7l99a.com:80/live/usa010/454025LG/464921.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Animes24hLive" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] G I JOE SIGMA 6" group-title="CANAIS | 24H ANIMES",[24H] G I JOE SIGMA 6
+http://go7l99a.com:80/live/usa010/454025LG/643517.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Animes24hLive" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] HE-MAN" group-title="CANAIS | 24H ANIMES",[24H] HE-MAN
+http://go7l99a.com:80/live/usa010/454025LG/606960.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Animes24hLive" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] IRMAO A OBRA" group-title="CANAIS | 24H ANIMES",[24H] IRMAO A OBRA
+http://go7l99a.com:80/live/usa010/454025LG/606962.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Animes24hLive" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] MEDABOTS" group-title="CANAIS | 24H ANIMES",[24H] MEDABOTS
+http://go7l99a.com:80/live/usa010/454025LG/643481.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Animes24hLive" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] MEGAMAN CLASSICO" group-title="CANAIS | 24H ANIMES",[24H] MEGAMAN CLASSICO
+http://go7l99a.com:80/live/usa010/454025LG/606968.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Animes24hLive" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] ROBOCOP DESENHO" group-title="CANAIS | 24H ANIMES",[24H] ROBOCOP DESENHO
+http://go7l99a.com:80/live/usa010/454025LG/607000.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Animes24hLive" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] SHAMAN KING" group-title="CANAIS | 24H ANIMES",[24H] SHAMAN KING
+http://go7l99a.com:80/live/usa010/454025LG/469987.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Animes24hLive" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] STREET FIGHTER" group-title="CANAIS | 24H ANIMES",[24H] STREET FIGHTER
+http://go7l99a.com:80/live/usa010/454025LG/464822.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] ARCANE" group-title="CANAIS | 24H ANIMES",[24H] ARCANE
+http://go7l99a.com:80/live/usa010/454025LG/655102.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] BAYBLADE METAL FUSION" group-title="CANAIS | 24H ANIMES",[24H] BAYBLADE METAL FUSION
+http://go7l99a.com:80/live/usa010/454025LG/655104.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] CASTLEVANIA" group-title="CANAIS | 24H ANIMES",[24H] CASTLEVANIA
+http://go7l99a.com:80/live/usa010/454025LG/655106.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] DEATH NOTE" group-title="CANAIS | 24H ANIMES",[24H] DEATH NOTE
+http://go7l99a.com:80/live/usa010/454025LG/655115.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-logo="https://prostore.app/logos/DESENHOS.24.HORAS.png" tvg-name="[24H] DRAGON BALL GT " group-title="CANAIS | 24H ANIMES",[24H] DRAGON BALL GT
+http://go7l99a.com:80/live/usa010/454025LG/655140.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: CAÇAVISION" group-title="CANAIS | PORTUGAL",PT1: CAÇAVISION
+http://go7l99a.com:80/live/usa010/454025LG/130220.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: CBS REALITY" group-title="CANAIS | PORTUGAL",PT1: CBS REALITY
+http://go7l99a.com:80/live/usa010/454025LG/130222.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: CINEMUNDO SD" group-title="CANAIS | PORTUGAL",PT1: CINEMUNDO SD
+http://go7l99a.com:80/live/usa010/454025LG/130226.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: ELEVEN SPORTS 6²" group-title="CANAIS | PORTUGAL",PT1: ELEVEN SPORTS 6²
+http://go7l99a.com:80/live/usa010/454025LG/130259.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: FOX CRIME HD" group-title="CANAIS | PORTUGAL",PT1: FOX CRIME HD
+http://go7l99a.com:80/live/usa010/454025LG/130278.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: FOX MOVIES HD" group-title="CANAIS | PORTUGAL",PT1: FOX MOVIES HD
+http://go7l99a.com:80/live/usa010/454025LG/130288.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: FOX MOVIES SD" group-title="CANAIS | PORTUGAL",PT1: FOX MOVIES SD
+http://go7l99a.com:80/live/usa010/454025LG/130289.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: FOX SD" group-title="CANAIS | PORTUGAL",PT1: FOX SD
+http://go7l99a.com:80/live/usa010/454025LG/130290.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: FUEL TV" group-title="CANAIS | PORTUGAL",PT1: FUEL TV
+http://go7l99a.com:80/live/usa010/454025LG/130293.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: GLOBO" group-title="CANAIS | PORTUGAL",PT1: GLOBO
+http://go7l99a.com:80/live/usa010/454025LG/130295.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: GLOBO NOW" group-title="CANAIS | PORTUGAL",PT1: GLOBO NOW
+http://go7l99a.com:80/live/usa010/454025LG/130298.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: HOLLYWOOD HD" group-title="CANAIS | PORTUGAL",PT1: HOLLYWOOD HD
+http://go7l99a.com:80/live/usa010/454025LG/130301.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: HOLLYWOOD SD" group-title="CANAIS | PORTUGAL",PT1: HOLLYWOOD SD
+http://go7l99a.com:80/live/usa010/454025LG/130302.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: JIMJAM" group-title="CANAIS | PORTUGAL",PT1: JIMJAM
+http://go7l99a.com:80/live/usa010/454025LG/130306.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: NAT GEO WILD" group-title="CANAIS | PORTUGAL",PT1: NAT GEO WILD
+http://go7l99a.com:80/live/usa010/454025LG/130317.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: NOS STUDIOS HD" group-title="CANAIS | PORTUGAL",PT1: NOS STUDIOS HD
+http://go7l99a.com:80/live/usa010/454025LG/130326.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: ODISSEIA" group-title="CANAIS | PORTUGAL",PT1: ODISSEIA
+http://go7l99a.com:80/live/usa010/454025LG/130328.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: PANDA BIGS" group-title="CANAIS | PORTUGAL",PT1: PANDA BIGS
+http://go7l99a.com:80/live/usa010/454025LG/130329.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: PORTO CANAL" group-title="CANAIS | PORTUGAL",PT1: PORTO CANAL
+http://go7l99a.com:80/live/usa010/454025LG/130333.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: RTP 1 SD" group-title="CANAIS | PORTUGAL",PT1: RTP 1 SD
+http://go7l99a.com:80/live/usa010/454025LG/130337.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: RTP 2 HD" group-title="CANAIS | PORTUGAL",PT1: RTP 2 HD
+http://go7l99a.com:80/live/usa010/454025LG/130340.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: RTP 2 SD" group-title="CANAIS | PORTUGAL",PT1: RTP 2 SD
+http://go7l99a.com:80/live/usa010/454025LG/130341.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: RTP 3" group-title="CANAIS | PORTUGAL",PT1: RTP 3
+http://go7l99a.com:80/live/usa010/454025LG/130343.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: RTP AFRICA" group-title="CANAIS | PORTUGAL",PT1: RTP AFRICA
+http://go7l99a.com:80/live/usa010/454025LG/130346.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: RTP MADEIRA" group-title="CANAIS | PORTUGAL",PT1: RTP MADEIRA
+http://go7l99a.com:80/live/usa010/454025LG/130349.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: SIC K" group-title="CANAIS | PORTUGAL",PT1: SIC K
+http://go7l99a.com:80/live/usa010/454025LG/130356.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: TPA INTERNACIONAL" group-title="CANAIS | PORTUGAL",PT1: TPA INTERNACIONAL
+http://go7l99a.com:80/live/usa010/454025LG/130394.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: TRACE TOCA" group-title="CANAIS | PORTUGAL",PT1: TRACE TOCA
+http://go7l99a.com:80/live/usa010/454025LG/130396.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: TRAVEL CHANNEL HD" group-title="CANAIS | PORTUGAL",PT1: TRAVEL CHANNEL HD
+http://go7l99a.com:80/live/usa010/454025LG/130400.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: TV RECORD" group-title="CANAIS | PORTUGAL",PT1: TV RECORD
+http://go7l99a.com:80/live/usa010/454025LG/130402.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: TVCine EDITION HD" group-title="CANAIS | PORTUGAL",PT1: TVCine EDITION HD
+http://go7l99a.com:80/live/usa010/454025LG/130410.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: TVCINE EDITION SD" group-title="CANAIS | PORTUGAL",PT1: TVCINE EDITION SD
+http://go7l99a.com:80/live/usa010/454025LG/130411.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: TVCine EMOTION HD" group-title="CANAIS | PORTUGAL",PT1: TVCine EMOTION HD
+http://go7l99a.com:80/live/usa010/454025LG/130414.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: TVCINE EMOTION SD" group-title="CANAIS | PORTUGAL",PT1: TVCINE EMOTION SD
+http://go7l99a.com:80/live/usa010/454025LG/130415.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: TVCine TOP HD" group-title="CANAIS | PORTUGAL",PT1: TVCine TOP HD
+http://go7l99a.com:80/live/usa010/454025LG/130418.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: TVCINE TOP SD" group-title="CANAIS | PORTUGAL",PT1: TVCINE TOP SD
+http://go7l99a.com:80/live/usa010/454025LG/130419.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: TVI FICÇAO" group-title="CANAIS | PORTUGAL",PT1: TVI FICÇAO
+http://go7l99a.com:80/live/usa010/454025LG/130424.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: TVI HD" group-title="CANAIS | PORTUGAL",PT1: TVI HD
+http://go7l99a.com:80/live/usa010/454025LG/130426.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: TVI Reality Camara 1" group-title="CANAIS | PORTUGAL",PT1: TVI Reality Camara 1
+http://go7l99a.com:80/live/usa010/454025LG/130428.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: TVI Reality Camara 2" group-title="CANAIS | PORTUGAL",PT1: TVI Reality Camara 2
+http://go7l99a.com:80/live/usa010/454025LG/130429.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: TVI Reality Camara 4" group-title="CANAIS | PORTUGAL",PT1: TVI Reality Camara 4
+http://go7l99a.com:80/live/usa010/454025LG/130431.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: TVI REALITY HD" group-title="CANAIS | PORTUGAL",PT1: TVI REALITY HD
+http://go7l99a.com:80/live/usa010/454025LG/130433.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: TVI REALITY SD" group-title="CANAIS | PORTUGAL",PT1: TVI REALITY SD
+http://go7l99a.com:80/live/usa010/454025LG/130434.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: TVI SD" group-title="CANAIS | PORTUGAL",PT1: TVI SD
+http://go7l99a.com:80/live/usa010/454025LG/130435.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT1: VH1 MUSIC" group-title="CANAIS | PORTUGAL",PT1: VH1 MUSIC
+http://go7l99a.com:80/live/usa010/454025LG/130438.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: E! ENTERTAINMENT" group-title="CANAIS | PORTUGAL",PT: E! ENTERTAINMENT
+http://go7l99a.com:80/live/usa010/454025LG/130243.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: ELEVEN SPORTS 5²" group-title="CANAIS | PORTUGAL",PT: ELEVEN SPORTS 5²
+http://go7l99a.com:80/live/usa010/454025LG/130256.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: FOX CRIME FHD" group-title="CANAIS | PORTUGAL",PT: FOX CRIME FHD
+http://go7l99a.com:80/live/usa010/454025LG/130277.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: FOX LIFE FHD" group-title="CANAIS | PORTUGAL",PT: FOX LIFE FHD
+http://go7l99a.com:80/live/usa010/454025LG/130283.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: FOX MOVIES FHD" group-title="CANAIS | PORTUGAL",PT: FOX MOVIES FHD
+http://go7l99a.com:80/live/usa010/454025LG/130287.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: GLOBO" group-title="CANAIS | PORTUGAL",PT: GLOBO
+http://go7l99a.com:80/live/usa010/454025LG/130294.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: GLOBO NOW" group-title="CANAIS | PORTUGAL",PT: GLOBO NOW
+http://go7l99a.com:80/live/usa010/454025LG/130297.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: HISTORIA" group-title="CANAIS | PORTUGAL",PT: HISTORIA
+http://go7l99a.com:80/live/usa010/454025LG/130299.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: MOTORVISION" group-title="CANAIS | PORTUGAL",PT: MOTORVISION
+http://go7l99a.com:80/live/usa010/454025LG/130311.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: NAT GEO WILD" group-title="CANAIS | PORTUGAL",PT: NAT GEO WILD
+http://go7l99a.com:80/live/usa010/454025LG/130316.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: PFC" group-title="CANAIS | PORTUGAL",PT: PFC
+http://go7l99a.com:80/live/usa010/454025LG/130330.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: RTP 1 FHD" group-title="CANAIS | PORTUGAL",PT: RTP 1 FHD
+http://go7l99a.com:80/live/usa010/454025LG/130335.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: RTP 2 HD" group-title="CANAIS | PORTUGAL",PT: RTP 2 HD
+http://go7l99a.com:80/live/usa010/454025LG/130339.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: RTP MEMORIA" group-title="CANAIS | PORTUGAL",PT: RTP MEMORIA
+http://go7l99a.com:80/live/usa010/454025LG/130350.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: SIC NOTICIAS HD" group-title="CANAIS | PORTUGAL",PT: SIC NOTICIAS HD
+http://go7l99a.com:80/live/usa010/454025LG/130358.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: SYFY FHD" group-title="CANAIS | PORTUGAL",PT: SYFY FHD
+http://go7l99a.com:80/live/usa010/454025LG/130390.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: TVCINE Action" group-title="CANAIS | PORTUGAL",PT: TVCINE Action
+http://go7l99a.com:80/live/usa010/454025LG/130404.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: TVCINE Edition" group-title="CANAIS | PORTUGAL",PT: TVCINE Edition
+http://go7l99a.com:80/live/usa010/454025LG/130408.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: TVCINE Emotion" group-title="CANAIS | PORTUGAL",PT: TVCINE Emotion
+http://go7l99a.com:80/live/usa010/454025LG/130412.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: TVCINE Emotion FHD" group-title="CANAIS | PORTUGAL",PT: TVCINE Emotion FHD
+http://go7l99a.com:80/live/usa010/454025LG/130413.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: TVCINE Top FHD" group-title="CANAIS | PORTUGAL",PT: TVCINE Top FHD
+http://go7l99a.com:80/live/usa010/454025LG/130416.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: TVI FHD" group-title="CANAIS | PORTUGAL",PT: TVI FHD
+http://go7l99a.com:80/live/usa010/454025LG/130421.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: TVI HD" group-title="CANAIS | PORTUGAL",PT: TVI HD
+http://go7l99a.com:80/live/usa010/454025LG/130425.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: TVI REALITY" group-title="CANAIS | PORTUGAL",PT: TVI REALITY
+http://go7l99a.com:80/live/usa010/454025LG/130427.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="PT: TVI Reality FHD" group-title="CANAIS | PORTUGAL",PT: TVI Reality FHD
+http://go7l99a.com:80/live/usa010/454025LG/130432.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
