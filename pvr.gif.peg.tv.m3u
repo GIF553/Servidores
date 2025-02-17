@@ -2,11 +2,19 @@
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=catchup
+#KODIPROP:inputstream.ffmpegdirect.is_catchup_stream=catchup
+#KODIPROP:inputstream.ffmpegdirect.catchup_granularity=60
+#KODIPROP:inputstream.ffmpegdirect.catchup_terminates=true
+#KODIPROP:inputstream.ffmpegdirect.catchup_url_format_string=url
 #KODIPROP:inputstream.ffmpegdirect.open_mode=curl
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#KODIPROP:http--reconnect=true
+#KODIPROP:inputstream.ffmpegdirect.default_url=url
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.program_number=2154
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpgts
+#KODIPROP:http-reconnect=true
 #EXTINF:-1 tvg-id="Bbb.br" tvg-logo="https://s2-globo-play.glbimg.com/slf0iHXilm1cuxbExNiX6DesuC4=/285x285/filters:quality(100)/https://s2-globo-play.glbimg.com/Xc6vX282kWyH1tcNqOYdrS-Kpik=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2025/M/N/jO8zygQ4KIfaqOadmzFg/2024-4607-bbb-25-generico-logo-canais.png" tvg-name="ACOMPANHE A CASA" group-title="CANAIS | BIG BROTHER BRASIL 2025",ACOMPANHE A CASA
-http://go7l99a.com:80/live/usa010/454025LG/680033.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
+http://go7l99a.com:80/live/usa010/454025LG/680033.ts|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.open_mode=curl
