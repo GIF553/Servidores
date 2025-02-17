@@ -10950,12 +10950,10 @@ http://go7l99a.com:80/live/usa010/454025LG/643664.m3u8|User-Agent=com.ibopro.pla
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.hls_ignore_endlist=true
-#KODIPROP:inputstream.ffmpegdirect.hls_fix_mediasequence=true
-#KODIPROP:inputstream.ffmpegdirect.hls_fix_discsequence=true
 #KODIPROP:inputstream.ffmpegdirect.open_mode=curl
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
-#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-logo="https://prostore.app/logos/SERIES.24.HORAS.png" tvg-name="[24H] TODO MUNDO ODEIA O CHRIS" group-title="CANAIS | 24H SERIES - PROGRAMAS",[24H] TODO MUNDO ODEIA O CHRIS
+#KODIPROP:http--reconnect=true
+#EXTINF:-1 tvg-id="Desenhos24hLive" tvg-logo="https://prostore.app/logos/SERIES.24.HORAS.png" tvg-name="[24H] TODO MUNDO ODEIA O CHRIS" group-title="CANAIS | 24H SERIES - PROGRAMAS",[24H] TODO MUNDO ODEIA O CHRIS HLS
 http://go7l99a.com:80/live/usa010/454025LG/603450.m3u8|User-Agent=com.ibopro.player/46 (Linux; U; Android 11; pt_BR; moto g(8) play; Build/QPYS30.52-22-14; Cronet/133.0.6876.3)
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
