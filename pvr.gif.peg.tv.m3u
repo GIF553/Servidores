@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="http://todexs.com:80/xmltv.php?username=Ines7865&password=8765478"
 
-#EXTM3U
+
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.open_mode=curl
