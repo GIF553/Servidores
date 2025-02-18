@@ -183,11 +183,10 @@ http://todexs.com:80/live/Ines7865/8765478/1352436.m3u8|User-Agent=com.ibopro.pl
 
 
 
-#KODIPROP:inputstream=inputstream.ffmpegdirect
+KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.hls_ignore_endlist=true
-#KODIPROP:inputstream.ffmpegdirect.hls_fix_mediasequence=true
-#KODIPROP:inputstream.ffmpegdirect.hls_fix_discsequence=true
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.open_mode=curl
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTINF:-1 tvg-id="" tvg-logo="http://router965.online:8080/logos/amc.png" tvg-name="AMC HD" group-title="CANAIS • FILMES E SERIES",AMC HD
