@@ -5,7 +5,7 @@
 #KODIPROP:mimetype=application/x-mpegURL
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=catchup
-#KODIPROP:inputstream.ffmpegdirect.open_mode=curl
+#KODIPROP:inputstream.ffmpegdirect.open_mode=catchup
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #KODIPROP:inputstream.ffmpegdirect.default_url=url
 #KODIPROP:inputstream.ffmpegdirect.playback_as_live=true
