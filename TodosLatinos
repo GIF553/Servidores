@@ -5,7 +5,7 @@
 <name>[B][COLOR white]SERVIDOR 1[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/AeaVwsA.jpg</thumbnail>
 <fanart>https://i.imgur.com/AeaVwsA.jpg</fanart>
-<info>[COLOR blue]LATINOS[/COLOR]</info>
+<info>[COLOR blue]GRINGOS[/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/GIF553/Servidores/main/Latinos</externallink>
 </channel>
 
@@ -13,7 +13,7 @@
 <name>[B][COLOR white]SERVIDOR 2[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/AeaVwsA.jpg</thumbnail>
 <fanart>https://i.imgur.com/AeaVwsA.jpg</fanart>
-<info>[COLOR blue]LATINOS[/COLOR]</info>
+<info>[COLOR blue]GRINGOS[/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/GIF553/Servidores/main/Latino2</externallink>
 </channel>
 
@@ -21,7 +21,7 @@
 <name>[B][COLOR white]SERVIDOR 3[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/AeaVwsA.jpg</thumbnail>
 <fanart>https://i.imgur.com/AeaVwsA.jpg</fanart>
-<info>[COLOR blue]LATINOS[/COLOR]</info>
+<info>[COLOR blue]GRINGOS[/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/GIF553/Servidores/main/Latino3</externallink>
 </channel>
 
@@ -29,7 +29,7 @@
 <name>[B][COLOR white]SERVIDOR 4[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/AeaVwsA.jpg</thumbnail>
 <fanart>https://i.imgur.com/AeaVwsA.jpg</fanart>
-<info>[COLOR blue]LATINOS[/COLOR]</info>
+<info>[COLOR blue]GRINGOS[/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/GIF553/Servidores/main/Latino4</externallink>
 </channel>
 
@@ -37,24 +37,10 @@
 <name>[B][COLOR white]SERVIDOR 5[/COLOR][/B]</name>
 <thumbnail>https://i.imgur.com/AeaVwsA.jpg</thumbnail>
 <fanart>https://i.imgur.com/AeaVwsA.jpg</fanart>
-<info>[COLOR blue]LATINOS[/COLOR]</info>
+<info>[COLOR blue]GRINGOS[/COLOR]</info>
 <externallink>https://raw.githubusercontent.com/GIF553/Servidores/main/Latino5</externallink>
 </channel>
 
-<channel>
-<name>[B][COLOR white]SERVIDOR 6[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/AeaVwsA.jpg</thumbnail>
-<fanart>https://i.imgur.com/AeaVwsA.jpg</fanart>
-<info>[COLOR blue]LATINOS[/COLOR]</info>
-<externallink>http://zeuspro.xyz:8080/get.php?username=marcerojas1&password=Rr92e9FDvG&type=m3u_plus</externallink>
-</channel>
 
-<channel>
-<name>[B][COLOR red]TESTES[/COLOR][/B]</name>
-<thumbnail>https://i.imgur.com/AeaVwsA.jpg</thumbnail>
-<fanart>https://i.imgur.com/AeaVwsA.jpg</fanart>
-<info>[COLOR blue]LATINOS[/COLOR]</info>
-<externallink>https://raw.githubusercontent.com/GIF553/Servidores/main/teste</externallink>
-</channel>
 
 </channels>
