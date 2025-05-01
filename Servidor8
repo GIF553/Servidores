@@ -1,5 +1,23 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 tvg-id="" tvg-name="POWER COUPLE 1" tvg-logo="http://69.197.159.51:80/images/0b66b59f5c9a17a9e173d959052e67ca.jpeg" group-title="✨REALITY POWER COUPLE BRASIL",POWER COUPLE 1
+http://tvhdbalck.pro:80/82672372/79777467/4922498|User-Agent=VLC/5.4.2
+#EXTINF:-1 tvg-id="" tvg-name="POWER COUPLE 2" tvg-logo="http://69.197.159.51:80/images/0b66b59f5c9a17a9e173d959052e67ca.jpeg" group-title="✨REALITY POWER COUPLE BRASIL",POWER COUPLE 2
+http://tvhdbalck.pro:80/82672372/79777467/4922499|User-Agent=VLC/5.4.2
+#EXTINF:-1 tvg-id="" tvg-name="POWER COUPLE 3" tvg-logo="http://69.197.159.51:80/images/0b66b59f5c9a17a9e173d959052e67ca.jpeg" group-title="✨REALITY POWER COUPLE BRASIL",POWER COUPLE 3
+http://tvhdbalck.pro:80/82672372/79777467/4922500|User-Agent=VLC/5.4.2
+#EXTINF:-1 tvg-id="" tvg-name="POWER COUPLE 4" tvg-logo="http://69.197.159.51:80/images/0b66b59f5c9a17a9e173d959052e67ca.jpeg" group-title="✨REALITY POWER COUPLE BRASIL",POWER COUPLE 4
+http://tvhdbalck.pro:80/82672372/79777467/4922501|User-Agent=VLC/5.4.2
+#EXTINF:-1 tvg-id="" tvg-name="POWER COUPLE HD 1" tvg-logo="" group-title="✨REALITY POWER COUPLE BRASIL",POWER COUPLE HD 1
+http://tvhdbalck.pro:80/82672372/79777467/4922502|User-Agent=VLC/5.4.2
+#EXTINF:-1 tvg-id="" tvg-name="POWER COUPLE HD 2" tvg-logo="" group-title="✨REALITY POWER COUPLE BRASIL",POWER COUPLE HD 2
+http://tvhdbalck.pro:80/82672372/79777467/4922503|User-Agent=VLC/5.4.2
+#EXTINF:-1 tvg-id="" tvg-name="POWER COUPLE HD 3" tvg-logo="" group-title="✨REALITY POWER COUPLE BRASIL",POWER COUPLE HD 3
+http://tvhdbalck.pro:80/82672372/79777467/4922504|User-Agent=VLC/5.4.2
+#EXTINF:-1 tvg-id="" tvg-name="POWER COUPLE HD 4" tvg-logo="" group-title="✨REALITY POWER COUPLE BRASIL",POWER COUPLE HD 4
+http://tvhdbalck.pro:80/82672372/79777467/4922505|User-Agent=VLC/5.4.2
+#EXTINF:-1 tvg-id="" tvg-name="POWER COUPLE HD 5" tvg-logo="" group-title="✨REALITY POWER COUPLE BRASIL",POWER COUPLE HD 5
+http://tvhdbalck.pro:80/82672372/79777467/4922506|User-Agent=VLC/5.4.2
 #EXTINF:-1 tvg-id="" tvg-name="24 HORAS" tvg-logo="http://xp2.wtf:80/images/41648ed37ea162c88f1f5716a6aab728.jpg" group-title="⚡24H SÉRIES",24 HORAS
 http://tvhdbalck.pro:80/82672372/79777467/3241203|User-Agent=VLC/5.4.2
 #EXTINF:-1 tvg-id="" tvg-name="3 PALAVRINHAS" tvg-logo="https://i.imgur.com/o7FKRtx.png" group-title="⚡24H DESENHOS",3 PALAVRINHAS
@@ -2136,21 +2154,4 @@ http://tvhdbalck.pro:80/82672372/79777467/4919139|User-Agent=VLC/5.4.2
 http://tvhdbalck.pro:80/82672372/79777467/4919140|User-Agent=VLC/5.4.2
 #EXTINF:-1 tvg-id="" tvg-name="PRIME VIDEO 2" tvg-logo="http://69.197.159.50:80/images/02ad3a371e85dc837077f7ce13e312f4.png" group-title="⚽PRIME VIDEO",PRIME VIDEO 2
 http://tvhdbalck.pro:80/82672372/79777467/4922495|User-Agent=VLC/5.4.2
-#EXTINF:-1 tvg-id="" tvg-name="POWER COUPLE 1" tvg-logo="http://69.197.159.51:80/images/0b66b59f5c9a17a9e173d959052e67ca.jpeg" group-title="✨REALITY POWER COUPLE BRASIL",POWER COUPLE 1
-http://tvhdbalck.pro:80/82672372/79777467/4922498|User-Agent=VLC/5.4.2
-#EXTINF:-1 tvg-id="" tvg-name="POWER COUPLE 2" tvg-logo="http://69.197.159.51:80/images/0b66b59f5c9a17a9e173d959052e67ca.jpeg" group-title="✨REALITY POWER COUPLE BRASIL",POWER COUPLE 2
-http://tvhdbalck.pro:80/82672372/79777467/4922499|User-Agent=VLC/5.4.2
-#EXTINF:-1 tvg-id="" tvg-name="POWER COUPLE 3" tvg-logo="http://69.197.159.51:80/images/0b66b59f5c9a17a9e173d959052e67ca.jpeg" group-title="✨REALITY POWER COUPLE BRASIL",POWER COUPLE 3
-http://tvhdbalck.pro:80/82672372/79777467/4922500|User-Agent=VLC/5.4.2
-#EXTINF:-1 tvg-id="" tvg-name="POWER COUPLE 4" tvg-logo="http://69.197.159.51:80/images/0b66b59f5c9a17a9e173d959052e67ca.jpeg" group-title="✨REALITY POWER COUPLE BRASIL",POWER COUPLE 4
-http://tvhdbalck.pro:80/82672372/79777467/4922501|User-Agent=VLC/5.4.2
-#EXTINF:-1 tvg-id="" tvg-name="POWER COUPLE HD 1" tvg-logo="" group-title="✨REALITY POWER COUPLE BRASIL",POWER COUPLE HD 1
-http://tvhdbalck.pro:80/82672372/79777467/4922502|User-Agent=VLC/5.4.2
-#EXTINF:-1 tvg-id="" tvg-name="POWER COUPLE HD 2" tvg-logo="" group-title="✨REALITY POWER COUPLE BRASIL",POWER COUPLE HD 2
-http://tvhdbalck.pro:80/82672372/79777467/4922503|User-Agent=VLC/5.4.2
-#EXTINF:-1 tvg-id="" tvg-name="POWER COUPLE HD 3" tvg-logo="" group-title="✨REALITY POWER COUPLE BRASIL",POWER COUPLE HD 3
-http://tvhdbalck.pro:80/82672372/79777467/4922504|User-Agent=VLC/5.4.2
-#EXTINF:-1 tvg-id="" tvg-name="POWER COUPLE HD 4" tvg-logo="" group-title="✨REALITY POWER COUPLE BRASIL",POWER COUPLE HD 4
-http://tvhdbalck.pro:80/82672372/79777467/4922505|User-Agent=VLC/5.4.2
-#EXTINF:-1 tvg-id="" tvg-name="POWER COUPLE HD 5" tvg-logo="" group-title="✨REALITY POWER COUPLE BRASIL",POWER COUPLE HD 5
-http://tvhdbalck.pro:80/82672372/79777467/4922506|User-Agent=VLC/5.4.2
+
