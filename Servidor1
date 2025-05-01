@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="" tvg-name="Estrela da Casa 4 HD" group-title="Canais | Estrela da Casa",Estrela da Casa
+http://club.potv.bz:80/live/iptvdoca/2022Doca/280937.m3u8|User-Agent=VLC/4.1.3
+#EXTINF:-1 tvg-logo="" tvg-name="Power Couple 1 FHD" group-title="Canais | Power Couple",Power Couple 1 FHD
+http://club.potv.bz:80/live/iptvdoca/2022Doca/320071.m3u8|User-Agent=VLC/4.1.3
+#EXTINF:-1 tvg-logo="" tvg-name="Power Couple 2 FHD" group-title="Canais | Power Couple",Power Couple 2 FHD
+http://club.potv.bz:80/live/iptvdoca/2022Doca/320072.m3u8|User-Agent=VLC/4.1.3
+#EXTINF:-1 tvg-logo="" tvg-name="Power Couple 3 FHD" group-title="Canais | Power Couple",Power Couple 3 FHD
+http://club.potv.bz:80/live/iptvdoca/2022Doca/320073.m3u8|User-Agent=VLC/4.1.3
+#EXTINF:-1 tvg-logo="" tvg-name="Power Couple 4 FHD" group-title="Canais | Power Couple",Power Couple 4 FHD
+http://club.potv.bz:80/live/iptvdoca/2022Doca/320074.m3u8|User-Agent=VLC/4.1.3
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN UHD
 http://telha.cfd:80/live/604793482/p807x7975a/21315.m3u8
 #EXTINF:-1 tvg-id="Espn4.br" tvg-name="ESPN 4 UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN 4 UHD
