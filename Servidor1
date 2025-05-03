@@ -10,9 +10,9 @@ http://club.potv.bz:80/live/iptvdoca/2022Doca/320073|User-Agent=VLC/4.1.3
 #EXTINF:-1 tvg-logo="" tvg-name="Power Couple 4 FHD" group-title="Canais | Power Couple",Power Couple 4 FHD
 http://club.potv.bz:80/live/iptvdoca/2022Doca/320074|User-Agent=VLC/4.1.3
 #EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN UHD
-plugin://script.module.streamlink/?mode=20&url=http://telha.cfd:80/604793482/p807x7975a/21315&q=best&p=http://162.223.90.150:80
+plugin://script.module.streamlink/?mode=20&url=http://telha.cfd:80/604793482/p807x7975a/21315&q=best
 #EXTINF:-1 tvg-id="Espn4.br" tvg-name="ESPN 4 UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/ESPN.png" group-title="Canais | ESPN",ESPN 4 UHD
-plugin://plugin.video.Gif.Peg.Tv/?mode=20&url=http://telha.cfd:80/604793482/p807x7975a/21318
+http://telha.cfd:80/604793482/p807x7975a/21318&q=best
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV UHD
 plugin://plugin.video.Gif.Peg.Tv/?mode=20&name=GIF PEG TV&url=http://club.potv.bz:80/iptvdoca/2022Doca/72127
 #EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 UHD" tvg-logo="http://beststorage4you.com:80/logoscanais/SPORTV.png" group-title="Canais | SporTV",SporTV 2 UHD
