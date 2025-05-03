@@ -14,7 +14,7 @@ http://detran.sbs:80/rejane/rejane123/303187.m3u8|User-Agent=MXPlayer
 #EXTINF:-1 tvg-id="BR - Globo Anhanguera" tvg-logo="http://lfpy.club/ASD" tvg-name="GLOBO TV ANHANGUERA [FHD]" group-title="Canais | Globo Centro-Oeste",GLOBO TV ANHANGUERA [FHD]
 http://detran.sbs:80/rejane/rejane123/366.m3u8|User-Agent=MXPlayer
 #EXTINF:-1 tvg-id="BR - Globo Anhanguera" tvg-logo="http://lfpy.club/ATB" tvg-name="GLOBO TV ANHANGUERA [HD]" group-title="Canais | Globo Centro-Oeste",GLOBO TV ANHANGUERA [HD]
-plugin://plugin.video.Gif.Peg.Tv/?mode=22&name=GIF PEG TV&url=http://detran.sbs:80/rejane/rejane123/395
+plugin://plugin.video.Gif.Peg.Tv/?mode=20&name=GIF PEG TV&url=http://detran.sbs:80/rejane/rejane123/395
 #EXTINF:-1 tvg-id="BR - Globo Anhanguera" tvg-logo="http://lfpy.club/VDM" tvg-name="GLOBO TV ANHANGUERA [SD]" group-title="Canais | Globo Centro-Oeste",GLOBO TV ANHANGUERA [SD]
 http://detran.sbs:80/rejane/rejane123/32427.m3u8|User-Agent=MXPlayer
 #EXTINF:-1 tvg-id="BR - TV Centro América Cuiabá HD" tvg-logo="http://lfpy.club/VEO" tvg-name="GLOBO TV CENTRO AMERICA CUIABA [FHD]" group-title="Canais | Globo Centro-Oeste",GLOBO TV CENTRO AMERICA CUIABA [FHD]
