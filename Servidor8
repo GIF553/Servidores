@@ -67,7 +67,7 @@ http://tvhdbalck.pro:80/82672372/79777467/369608|User-Agent=VLC/5.4.2
 #EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC FHD" tvg-logo="https://i.imgur.com/UYxdAHO.png" group-title="⚡FILMES E SÉRIES",AMC FHD
 http://tvhdbalck.pro:80/82672372/79777467/263|User-Agent=VLC/5.4.2
 #EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="https://i.imgur.com/UYxdAHO.png" group-title="⚡FILMES E SÉRIES",AMC HD
-http://tvhdbalck.pro:80/82672372/79777467/264|User-Agent=VLC/5.4.2
+plugin://plugin.video.Gif.Peg.Tv/?mode=22&name=GIF PEG TV&url=http://tvhdbalck.pro:80/82672372/79777467/264
 #EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC SD" tvg-logo="https://i.imgur.com/UYxdAHO.png" group-title="⚡FILMES E SÉRIES",AMC SD
 http://tvhdbalck.pro:80/82672372/79777467/265|User-Agent=VLC/5.4.2
 #EXTINF:-1 tvg-id="" tvg-name="ANDY PANDA" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/921/fkd2xG.png" group-title="⚡24H DESENHOS",ANDY PANDA
