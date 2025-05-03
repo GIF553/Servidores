@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 #EXTINF:-1 tvg-id="" tvg-name="POWER COUPLE 1" tvg-logo="http://69.197.159.51:80/images/0b66b59f5c9a17a9e173d959052e67ca.jpeg" group-title="✨REALITY POWER COUPLE BRASIL",POWER COUPLE 1
-plugin://plugin.video.Gif.Peg.Tv/?mode=20&name=GIFPEGTV&url=http://tvhdbalck.pro:80/live/82672372/79777467/4922498.m3u8
+plugin://plugin.video.Gif.Peg.Tv/?mode=20&name=GIFPEGTV&url=http://tvhdbalck.pro:80/82672372/79777467/4922498
 #EXTINF:-1 tvg-id="" tvg-name="POWER COUPLE 2" tvg-logo="http://69.197.159.51:80/images/0b66b59f5c9a17a9e173d959052e67ca.jpeg" group-title="✨REALITY POWER COUPLE BRASIL",POWER COUPLE 2
 plugin://plugin.video.Gif.Peg.Tv/?mode=20&name=GIFPEGTV&url=http://tvhdbalck.pro:80/live/82672372/79777467/4922499.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="POWER COUPLE 3" tvg-logo="http://69.197.159.51:80/images/0b66b59f5c9a17a9e173d959052e67ca.jpeg" group-title="✨REALITY POWER COUPLE BRASIL",POWER COUPLE 3
