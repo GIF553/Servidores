@@ -182,7 +182,7 @@ plugin://plugin.video.gifpeg.tv/?mode=20&name=GIFPEGTV&url=http://club.potv.bz:8
 #EXTINF:-1 tvg-logo="http://club.potv.bz/static/logos/canais/globo.png" tvg-name="Globo Brasilia FHD" group-title="Canais | Globos Centro Oeste",Globo Brasilia FHD
 plugin://plugin.video.gifpeg.tv/?mode=20&name=GIFPEGTV&url=http://club.potv.bz:80/live/iptvdoca/2022Doca/131151.m3u8
 #EXTINF:-1 tvg-logo="http://club.potv.bz/static/logos/canais/globo.png" tvg-name="Globo Brasilia HD" group-title="Canais | Globos Centro Oeste",Globo Brasilia HD
-plugin://plugin.video.gifpeg.tv/?mode=20&name=GIFPEGTV&url=http://club.potv.bz:80/live/iptvdoca/2022Doca/131164.m3u8
+plugin://plugin.video.gifpeg.tv/?mode=20&name=GIFPEGTV&url=http://club.potv.bz:80/iptvdoca/2022Doca/131164
 #EXTINF:-1 tvg-logo="http://club.potv.bz/static/logos/canais/globo.png" tvg-name="Globo Brasilia SD" group-title="Canais | Globos Centro Oeste",Globo Brasilia SD
 plugin://plugin.video.gifpeg.tv/?mode=20&name=GIFPEGTV&url=http://club.potv.bz:80/live/iptvdoca/2022Doca/131116.m3u8
 #EXTINF:-1 tvg-logo="http://club.potv.bz/images/37974de0d1d16f3b56bec27eca38a765.png" tvg-name="Globo TV Anhanguera FHD" group-title="Canais | Globos Centro Oeste",Globo TV Anhanguera FHD
