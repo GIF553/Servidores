@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagem.natelinha.uol.com.br/original/elenco-nova-temporada-power-couple_1578.jpeg" tvg-name="Power Couple 2025 sinal 1 HD" group-title="CANAIS | REALITY",Power Couple 2025 sinal 1 HD
-plugin://plugin.video.gifpeg.tv/?mode=20&name=GIF PEG TV&url=http://daxoi.online:80/live/34712771/6934712771/3556082.m3u8&q=best&p=http://172.67.170.170:80
+plugin://plugin.video.gifpeg.tv/?mode=22&name=GIF PEG TV&url=http://daxoi.online:80/live/34712771/6934712771/3556082.m3u8&q=best&p=http://172.67.170.170:80
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagem.natelinha.uol.com.br/original/elenco-nova-temporada-power-couple_1578.jpeg" tvg-name="Power Couple 2025 sinal 2 HD" group-title="CANAIS | REALITY",Power Couple 2025 sinal 2 HD
 plugin://plugin.video.gifpeg.tv/?mode=20&name=GIF PEG TV&url=http://daxoi.online:80/live/34712771/6934712771/3556083.m3u8&q=best&p=http://172.67.170.170:80
 #EXTINF:-1 tvg-id="" tvg-logo="https://imagem.natelinha.uol.com.br/original/elenco-nova-temporada-power-couple_1578.jpeg" tvg-name="Power Couple 2025 sinal 3 HD" group-title="CANAIS | REALITY",Power Couple 2025 sinal 3 HD
