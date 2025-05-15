@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="http://onecdz.xyz:80/xmltv.php?username=844876939&password=805772826"
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
