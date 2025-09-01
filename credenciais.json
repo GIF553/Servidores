@@ -1,5 +1,16 @@
-{
-  "server": "http://clube.dblplay.top:80",
-  "username": "Leandro23015",
-  "password": "48121620aA@"
-}
+[
+  {
+    "categoria": "[COLORwhite]NOVA VERSÃO 2.0.0 DISPONIVEL NO FICHEIRO[/COLOR]",
+    "icon": "https://i.imgur.com/FBK5qFX.png",
+    "fanart": "",
+    "servidores": [
+      {
+        "nome": "[COLORwhite]https://gifpegtv.github.io[/COLOR]",
+        "dns": "",
+        "username": "",
+        "password": "",
+        "icon": ""
+      }
+    ]
+  }
+]
